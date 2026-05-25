@@ -1,0 +1,877 @@
+{
+  "candidates": {
+    "6105e139-53e4-4734-a7ee-d0885b57c64e": {
+      "id": "6105e139-53e4-4734-a7ee-d0885b57c64e",
+      "name": "likhuth",
+      "email": "pravo@gmail.com",
+      "created_at": "2026-05-24 13:14:29.684745"
+    },
+    "83e7dd8c-5735-45e4-b6ab-1b5beb4d315a": {
+      "id": "83e7dd8c-5735-45e4-b6ab-1b5beb4d315a",
+      "name": "pravi",
+      "email": "pravo@gmail.com",
+      "created_at": "2026-05-24 14:46:16.650257"
+    },
+    "28637be6-fb2f-4f06-b117-79d2d1b58b62": {
+      "id": "28637be6-fb2f-4f06-b117-79d2d1b58b62",
+      "name": "pravi",
+      "email": "pravo@gmail.com",
+      "created_at": "2026-05-24 15:06:57.891477"
+    },
+    "605e6c86-f41a-4428-bd9c-e8cea10535f8": {
+      "id": "605e6c86-f41a-4428-bd9c-e8cea10535f8",
+      "name": "pravi",
+      "email": "pravo@gmail.com",
+      "created_at": "2026-05-24 15:28:44.721208"
+    },
+    "a2617a17-c455-43c9-9f43-53154b9dfdb7": {
+      "id": "a2617a17-c455-43c9-9f43-53154b9dfdb7",
+      "name": "praviu",
+      "email": "pravo@gmail.com",
+      "created_at": "2026-05-24 15:45:10.818856"
+    },
+    "d3825b89-0ab8-4741-8a73-bb96637a7ef7": {
+      "id": "d3825b89-0ab8-4741-8a73-bb96637a7ef7",
+      "name": "pravi",
+      "email": "pravo@gmail.com",
+      "created_at": "2026-05-24 15:54:20.453818"
+    },
+    "c73484a4-57a2-4e51-86ec-93ef67237882": {
+      "id": "c73484a4-57a2-4e51-86ec-93ef67237882",
+      "name": "pravi",
+      "email": "likhith@gmail.com",
+      "created_at": "2026-05-24 15:57:00.512089"
+    },
+    "33bf1013-147a-4c3f-8782-cff230ac481e": {
+      "id": "33bf1013-147a-4c3f-8782-cff230ac481e",
+      "name": "Pravallika Kundum",
+      "email": "likhithmanakala@gmail.com",
+      "created_at": "2026-05-25 10:53:05.400448"
+    },
+    "92b604bf-e80e-4f7e-b04a-ebec703d3824": {
+      "id": "92b604bf-e80e-4f7e-b04a-ebec703d3824",
+      "name": "pravi",
+      "email": "likhithmanakala@gmail.com",
+      "target_role": "Frontend Engineer",
+      "experience_level": "Mid (2-5 years)",
+      "created_at": "2026-05-25 11:44:35.235997"
+    },
+    "ff70ccba-de69-40a1-a6e7-21a2ce1d7882": {
+      "id": "ff70ccba-de69-40a1-a6e7-21a2ce1d7882",
+      "name": "john",
+      "email": "likhithmanakala@gmail.com",
+      "target_role": "Frontend Engineer",
+      "experience_level": "Junior (0-2 years)",
+      "created_at": "2026-05-25 12:27:38.699816"
+    },
+    "52cd2f0b-79ed-41f9-bfbe-36aa163d9e38": {
+      "id": "52cd2f0b-79ed-41f9-bfbe-36aa163d9e38",
+      "name": "pallavi",
+      "email": "likhithmanakala@gmail.com",
+      "target_role": "Backend Engineer",
+      "experience_level": "Mid (2-5 years)",
+      "created_at": "2026-05-25 12:38:29.861181"
+    },
+    "50e4af42-09c3-4818-a744-e488820e6283": {
+      "id": "50e4af42-09c3-4818-a744-e488820e6283",
+      "name": "lik",
+      "email": "likhithmanakala@gmail.com",
+      "target_role": "Software Engineer",
+      "experience_level": "Junior (0-2 years)",
+      "created_at": "2026-05-25 12:53:05.889893"
+    },
+    "cadc1889-2d51-4c7b-8904-f4a150b3cb6a": {
+      "id": "cadc1889-2d51-4c7b-8904-f4a150b3cb6a",
+      "name": "priya",
+      "email": "likhithmanakala@gmail.com",
+      "target_role": "Software Engineer",
+      "experience_level": "Junior (0-2 years)",
+      "created_at": "2026-05-25 13:09:21.497699"
+    }
+  },
+  "interviews": {
+    "b96d9ead-4e77-44d7-ac10-fca7fa7d0481": {
+      "id": "b96d9ead-4e77-44d7-ac10-fca7fa7d0481",
+      "candidate_id": "6105e139-53e4-4734-a7ee-d0885b57c64e",
+      "status": "failed",
+      "started_at": "2026-05-24 13:14:48.768496",
+      "failure_reason": "Exceeded maximum webcam proctoring warnings (3)"
+    },
+    "ab22e507-408c-4a49-b316-efddf8a9e8cc": {
+      "id": "ab22e507-408c-4a49-b316-efddf8a9e8cc",
+      "candidate_id": "83e7dd8c-5735-45e4-b6ab-1b5beb4d315a",
+      "status": "failed",
+      "started_at": "2026-05-24 14:46:29.853669",
+      "failure_reason": "Exceeded maximum webcam proctoring warnings (3)"
+    },
+    "eb69e329-69f1-4800-85bb-262732a027c8": {
+      "id": "eb69e329-69f1-4800-85bb-262732a027c8",
+      "candidate_id": "28637be6-fb2f-4f06-b117-79d2d1b58b62",
+      "status": "failed",
+      "started_at": "2026-05-24 15:08:46.526655",
+      "failure_reason": "Instant termination due to forbidden action: fullscreen_exit"
+    },
+    "37c0d39b-473e-4bdf-b528-e556d751436f": {
+      "id": "37c0d39b-473e-4bdf-b528-e556d751436f",
+      "candidate_id": "605e6c86-f41a-4428-bd9c-e8cea10535f8",
+      "status": "completed",
+      "started_at": "2026-05-24 15:29:18.171687",
+      "ended_at": "2026-05-24 15:31:06.960125",
+      "ai_feedback": "### Technical Capability Summary\nThe candidate John Doe demonstrated strong theoretical and practical knowledge. Their technical answers were solid, particularly regarding scalability and design patterns. They showed a robust understanding of full-stack engineering and development best practices.\n\n### Communication and Soft Skills\nCommunication was highly professional, structured, and clear. John Doe explained complex architectures with structure and ease. They presented their thoughts in a logical manner, which is crucial for cross-functional team collaboration.\n\n### Hiring Recommendation: Strong Yes\nBased on the overall assessment score of 85/100, we recommend proceeding to the final round of interviews. John Doe has shown a solid background that matches our engineering standards and team requirements.\n"
+    },
+    "ca5dec7f-3b3a-4320-90fe-9247de4d6d02": {
+      "id": "ca5dec7f-3b3a-4320-90fe-9247de4d6d02",
+      "candidate_id": "a2617a17-c455-43c9-9f43-53154b9dfdb7",
+      "status": "failed",
+      "started_at": "2026-05-24 15:46:07.457636",
+      "failure_reason": "Exceeded maximum webcam proctoring warnings (3)"
+    },
+    "3adafa0f-16ce-4c2d-8e40-ce5c3dc00ec7": {
+      "id": "3adafa0f-16ce-4c2d-8e40-ce5c3dc00ec7",
+      "candidate_id": "a2617a17-c455-43c9-9f43-53154b9dfdb7",
+      "status": "completed",
+      "started_at": "2026-05-24 15:46:57.427043",
+      "ended_at": "2026-05-24 15:48:25.872221",
+      "ai_feedback": "### Technical Capability Summary\nThe candidate John Doe demonstrated strong theoretical and practical knowledge. Their technical answers were solid, particularly regarding scalability and design patterns. They showed a robust understanding of full-stack engineering and development best practices.\n\n### Communication and Soft Skills\nCommunication was highly professional, structured, and clear. John Doe explained complex architectures with structure and ease. They presented their thoughts in a logical manner, which is crucial for cross-functional team collaboration.\n\n### Hiring Recommendation: Strong Yes\nBased on the overall assessment score of 85/100, we recommend proceeding to the final round of interviews. John Doe has shown a solid background that matches our engineering standards and team requirements.\n"
+    },
+    "07412811-ad6c-4f7c-abe2-e95c5b7febe2": {
+      "id": "07412811-ad6c-4f7c-abe2-e95c5b7febe2",
+      "candidate_id": "d3825b89-0ab8-4741-8a73-bb96637a7ef7",
+      "status": "failed",
+      "started_at": "2026-05-24 15:55:03.935308",
+      "failure_reason": "Exceeded maximum webcam proctoring warnings (3)"
+    },
+    "7dd91ec4-475f-4cdc-abba-5877b139805f": {
+      "id": "7dd91ec4-475f-4cdc-abba-5877b139805f",
+      "candidate_id": "c73484a4-57a2-4e51-86ec-93ef67237882",
+      "status": "completed",
+      "started_at": "2026-05-24 15:57:11.044987",
+      "ended_at": "2026-05-24 15:58:48.312618",
+      "ai_feedback": "### Technical Capability Summary\nThe candidate John Doe demonstrated strong theoretical and practical knowledge. Their technical answers were solid, particularly regarding scalability and design patterns. They showed a robust understanding of full-stack engineering and development best practices.\n\n### Communication and Soft Skills\nCommunication was highly professional, structured, and clear. John Doe explained complex architectures with structure and ease. They presented their thoughts in a logical manner, which is crucial for cross-functional team collaboration.\n\n### Hiring Recommendation: Strong Yes\nBased on the overall assessment score of 85/100, we recommend proceeding to the final round of interviews. John Doe has shown a solid background that matches our engineering standards and team requirements.\n"
+    },
+    "f19336d4-0bd8-4fbc-acd1-47a7b4614abd": {
+      "id": "f19336d4-0bd8-4fbc-acd1-47a7b4614abd",
+      "candidate_id": "33bf1013-147a-4c3f-8782-cff230ac481e",
+      "status": "active",
+      "started_at": "2026-05-25 10:53:21.978655"
+    },
+    "1b2037a7-ca0a-49e9-95cd-74179e4ea780": {
+      "id": "1b2037a7-ca0a-49e9-95cd-74179e4ea780",
+      "candidate_id": "33bf1013-147a-4c3f-8782-cff230ac481e",
+      "status": "active",
+      "started_at": "2026-05-25 10:53:25.325148"
+    },
+    "def85877-bbe9-4649-9ed3-8976e79b4eab": {
+      "id": "def85877-bbe9-4649-9ed3-8976e79b4eab",
+      "candidate_id": "33bf1013-147a-4c3f-8782-cff230ac481e",
+      "status": "completed",
+      "started_at": "2026-05-25 10:53:30.263243",
+      "ended_at": "2026-05-25 10:55:17.949532",
+      "ai_feedback": "### Technical Capability Summary\nThe candidate John Doe demonstrated strong theoretical and practical knowledge. Their technical answers were solid, particularly regarding scalability and design patterns. They showed a robust understanding of full-stack engineering and development best practices.\n\n### Communication and Soft Skills\nCommunication was highly professional, structured, and clear. John Doe explained complex architectures with structure and ease. They presented their thoughts in a logical manner, which is crucial for cross-functional team collaboration.\n\n### Hiring Recommendation: Strong Yes\nBased on the overall assessment score of 85/100, we recommend proceeding to the final round of interviews. John Doe has shown a solid background that matches our engineering standards and team requirements.\n"
+    },
+    "cc4e63e1-e59d-4bbf-a21d-eab66ee1409e": {
+      "id": "cc4e63e1-e59d-4bbf-a21d-eab66ee1409e",
+      "candidate_id": "92b604bf-e80e-4f7e-b04a-ebec703d3824",
+      "status": "active",
+      "started_at": "2026-05-25 11:46:20.796757"
+    },
+    "47ca334f-4226-4165-a594-40f9ae14383f": {
+      "id": "47ca334f-4226-4165-a594-40f9ae14383f",
+      "candidate_id": "92b604bf-e80e-4f7e-b04a-ebec703d3824",
+      "status": "active",
+      "started_at": "2026-05-25 11:46:23.055671"
+    },
+    "8369173b-004d-4c21-a40e-4097c16bf02e": {
+      "id": "8369173b-004d-4c21-a40e-4097c16bf02e",
+      "candidate_id": "92b604bf-e80e-4f7e-b04a-ebec703d3824",
+      "status": "active",
+      "started_at": "2026-05-25 11:46:24.400257",
+      "admin_warnings": [
+        {
+          "id": "e8a17fb1-a2bd-428c-84d6-80d55ca41c9e",
+          "message": "Keep your eyes on screen.",
+          "timestamp": "2026-05-25 12:26:34.360275",
+          "acknowledged": false
+        }
+      ]
+    },
+    "4e2d1e1d-6c93-4da8-8597-fbb98a1af99e": {
+      "id": "4e2d1e1d-6c93-4da8-8597-fbb98a1af99e",
+      "candidate_id": "92b604bf-e80e-4f7e-b04a-ebec703d3824",
+      "status": "failed",
+      "started_at": "2026-05-25 11:46:24.622739",
+      "failure_reason": "Instant termination due to forbidden action: fullscreen_exit"
+    },
+    "695f264c-2d72-4219-a8ff-8cdc59d03d7b": {
+      "id": "695f264c-2d72-4219-a8ff-8cdc59d03d7b",
+      "candidate_id": "52cd2f0b-79ed-41f9-bfbe-36aa163d9e38",
+      "status": "active",
+      "started_at": "2026-05-25 12:38:37.590711"
+    },
+    "5892fa3a-55db-463e-beee-b522e98565fa": {
+      "id": "5892fa3a-55db-463e-beee-b522e98565fa",
+      "candidate_id": "50e4af42-09c3-4818-a744-e488820e6283",
+      "status": "active",
+      "started_at": "2026-05-25 12:53:15.051765"
+    },
+    "6235ef75-503f-420d-9551-c28d5e2d6097": {
+      "id": "6235ef75-503f-420d-9551-c28d5e2d6097",
+      "candidate_id": "50e4af42-09c3-4818-a744-e488820e6283",
+      "status": "active",
+      "started_at": "2026-05-25 12:53:17.810555"
+    },
+    "0d0a0a92-15fc-4504-a513-3b2516a28680": {
+      "id": "0d0a0a92-15fc-4504-a513-3b2516a28680",
+      "candidate_id": "50e4af42-09c3-4818-a744-e488820e6283",
+      "status": "active",
+      "started_at": "2026-05-25 12:53:19.947413"
+    },
+    "357cd593-4cc6-4969-985b-f559709b18ad": {
+      "id": "357cd593-4cc6-4969-985b-f559709b18ad",
+      "candidate_id": "50e4af42-09c3-4818-a744-e488820e6283",
+      "status": "completed",
+      "started_at": "2026-05-25 12:53:20.745794",
+      "ended_at": "2026-05-25 12:54:27.960771",
+      "ai_feedback": "### Technical Capability Summary\nThe candidate John Doe demonstrated strong theoretical and practical knowledge. Their technical answers were solid, particularly regarding scalability and design patterns. They showed a robust understanding of full-stack engineering and development best practices.\n\n### Communication and Soft Skills\nCommunication was highly professional, structured, and clear. John Doe explained complex architectures with structure and ease. They presented their thoughts in a logical manner, which is crucial for cross-functional team collaboration.\n\n### Hiring Recommendation: Strong Yes\nBased on the overall assessment score of 85/100, we recommend proceeding to the final round of interviews. John Doe has shown a solid background that matches our engineering standards and team requirements.\n"
+    },
+    "50615723-faac-41c6-a1c2-e21d019ebcbc": {
+      "id": "50615723-faac-41c6-a1c2-e21d019ebcbc",
+      "candidate_id": "cadc1889-2d51-4c7b-8904-f4a150b3cb6a",
+      "status": "failed",
+      "started_at": "2026-05-25 13:09:27.274435",
+      "failure_reason": "Exceeded maximum webcam proctoring warnings (3)"
+    }
+  },
+  "questions": {},
+  "answers": {
+    "1fe4654c-83fe-42ff-9ca5-1f687509e431": {
+      "id": "1fe4654c-83fe-42ff-9ca5-1f687509e431",
+      "interview_id": "37c0d39b-473e-4bdf-b528-e556d751436f",
+      "question_id": "q-0",
+      "transcript": "what are the primary differential between lead constant and wearing JavaScript  concepts are",
+      "evaluation": {
+        "technical": 85.0,
+        "communication": 88.0,
+        "depth": 80.0,
+        "relevance": 92.0,
+        "overall": 86.25,
+        "feedback": "Strong answer. The candidate explained the core concept clearly with structured logic, showing good theoretical understanding. Elaborating on real-world edge cases would make it perfect."
+      }
+    },
+    "742a1f14-d1d6-4680-9463-c5d6305acd64": {
+      "id": "742a1f14-d1d6-4680-9463-c5d6305acd64",
+      "interview_id": "37c0d39b-473e-4bdf-b528-e556d751436f",
+      "question_id": "q-1",
+      "transcript": "explain what is simple database select queries and how the where clothes filters rose",
+      "evaluation": {
+        "technical": 85.0,
+        "communication": 88.0,
+        "depth": 80.0,
+        "relevance": 92.0,
+        "overall": 86.25,
+        "feedback": "Strong answer. The candidate explained the core concept clearly with structured logic, showing good theoretical understanding. Elaborating on real-world edge cases would make it perfect."
+      }
+    },
+    "ba4da8bc-8690-41d0-9d0f-c1fcc14a04dd": {
+      "id": "ba4da8bc-8690-41d0-9d0f-c1fcc14a04dd",
+      "interview_id": "37c0d39b-473e-4bdf-b528-e556d751436f",
+      "question_id": "q-2",
+      "transcript": "what is the loop in programming and what is difference between for loop and a while loop",
+      "evaluation": {
+        "technical": 85.0,
+        "communication": 88.0,
+        "depth": 80.0,
+        "relevance": 92.0,
+        "overall": 86.25,
+        "feedback": "Strong answer. The candidate explained the core concept clearly with structured logic, showing good theoretical understanding. Elaborating on real-world edge cases would make it perfect."
+      }
+    },
+    "7e05f994-cc87-4ece-bbc0-3cb11eebc6d0": {
+      "id": "7e05f994-cc87-4ece-bbc0-3cb11eebc6d0",
+      "interview_id": "37c0d39b-473e-4bdf-b528-e556d751436f",
+      "question_id": "q-3",
+      "transcript": "describe what object oriented programming is and name its four four pillars",
+      "evaluation": {
+        "technical": 85.0,
+        "communication": 88.0,
+        "depth": 80.0,
+        "relevance": 92.0,
+        "overall": 86.25,
+        "feedback": "Strong answer. The candidate explained the core concept clearly with structured logic, showing good theoretical understanding. Elaborating on real-world edge cases would make it perfect."
+      }
+    },
+    "96463d6f-b8ec-45ae-a3a2-febcae397f4f": {
+      "id": "96463d6f-b8ec-45ae-a3a2-febcae397f4f",
+      "interview_id": "37c0d39b-473e-4bdf-b528-e556d751436f",
+      "question_id": "q-4",
+      "transcript": "tell me about the simple coding project or assignment you work down recently what did you enjoy about it",
+      "evaluation": {
+        "technical": 85.0,
+        "communication": 88.0,
+        "depth": 80.0,
+        "relevance": 92.0,
+        "overall": 86.25,
+        "feedback": "Strong answer. The candidate explained the core concept clearly with structured logic, showing good theoretical understanding. Elaborating on real-world edge cases would make it perfect."
+      }
+    },
+    "f9f8bffd-c4a3-4f11-bc47-75f949598530": {
+      "id": "f9f8bffd-c4a3-4f11-bc47-75f949598530",
+      "interview_id": "ca5dec7f-3b3a-4320-90fe-9247de4d6d02",
+      "question_id": "q-0",
+      "question_text": "What are the primary differences between let, const, and var in JavaScript?",
+      "transcript": "what are the primary difference between lead constant and Warren JavaScript",
+      "evaluation": {
+        "technical": 85.0,
+        "communication": 88.0,
+        "depth": 80.0,
+        "relevance": 92.0,
+        "overall": 86.25,
+        "feedback": "Strong answer. The candidate explained the core concept clearly with structured logic, showing good theoretical understanding. Elaborating on real-world edge cases would make it perfect."
+      }
+    },
+    "dedb603e-c1c0-48e7-a611-a9b903d9e69d": {
+      "id": "dedb603e-c1c0-48e7-a611-a9b903d9e69d",
+      "interview_id": "3adafa0f-16ce-4c2d-8e40-ce5c3dc00ec7",
+      "question_id": "q-0",
+      "question_text": "What are the primary differences between let, const, and var in JavaScript?",
+      "transcript": "the primary difference between  in the constant the variable  the variable is  the numbers",
+      "evaluation": {
+        "technical": 85.0,
+        "communication": 88.0,
+        "depth": 80.0,
+        "relevance": 92.0,
+        "overall": 86.25,
+        "feedback": "Strong answer. The candidate explained the core concept clearly with structured logic, showing good theoretical understanding. Elaborating on real-world edge cases would make it perfect."
+      }
+    },
+    "2856d75e-baa0-4440-b859-39434f598294": {
+      "id": "2856d75e-baa0-4440-b859-39434f598294",
+      "interview_id": "3adafa0f-16ce-4c2d-8e40-ce5c3dc00ec7",
+      "question_id": "q-1",
+      "question_text": "Explain what a simple database SELECT query is, and how the WHERE clause filters rows.",
+      "transcript": "explain what is the database",
+      "evaluation": {
+        "technical": 55.0,
+        "communication": 60.0,
+        "depth": 40.0,
+        "relevance": 70.0,
+        "overall": 56.25,
+        "feedback": "The answer is technically correct in its core definition but extremely basic. It lacks depth, technical vocabulary, and practical details or examples."
+      }
+    },
+    "a6641354-50e8-4548-bc4a-8b014e102e30": {
+      "id": "a6641354-50e8-4548-bc4a-8b014e102e30",
+      "interview_id": "3adafa0f-16ce-4c2d-8e40-ce5c3dc00ec7",
+      "question_id": "q-2",
+      "question_text": "What is a loop in programming, and what is the difference between a for loop and a while loop?",
+      "transcript": "what is loop in",
+      "evaluation": {
+        "technical": 55.0,
+        "communication": 60.0,
+        "depth": 40.0,
+        "relevance": 70.0,
+        "overall": 56.25,
+        "feedback": "The answer is technically correct in its core definition but extremely basic. It lacks depth, technical vocabulary, and practical details or examples."
+      }
+    },
+    "891f189c-1c1b-47be-b934-245ca1305ef8": {
+      "id": "891f189c-1c1b-47be-b934-245ca1305ef8",
+      "interview_id": "3adafa0f-16ce-4c2d-8e40-ce5c3dc00ec7",
+      "question_id": "q-3",
+      "question_text": "Describe what Object-Oriented Programming (OOP) is, and name its four core pillars.",
+      "transcript": "step",
+      "evaluation": {
+        "technical": 10.0,
+        "communication": 15.0,
+        "depth": 5.0,
+        "relevance": 0.0,
+        "overall": 7.5,
+        "feedback": "No substantial response was provided. The candidate failed to address the question."
+      }
+    },
+    "d7a393dc-c8e4-41c0-bf86-8fa8c892dc33": {
+      "id": "d7a393dc-c8e4-41c0-bf86-8fa8c892dc33",
+      "interview_id": "3adafa0f-16ce-4c2d-8e40-ce5c3dc00ec7",
+      "question_id": "q-4",
+      "question_text": "Tell me about a simple coding project or assignment you worked on recently. What did you enjoy about it?",
+      "transcript": "chat",
+      "evaluation": {
+        "technical": 10.0,
+        "communication": 15.0,
+        "depth": 5.0,
+        "relevance": 0.0,
+        "overall": 7.5,
+        "feedback": "No substantial response was provided. The candidate failed to address the question."
+      }
+    },
+    "41789b81-0ae7-4459-843d-3a1b68fbb7d9": {
+      "id": "41789b81-0ae7-4459-843d-3a1b68fbb7d9",
+      "interview_id": "07412811-ad6c-4f7c-abe2-e95c5b7febe2",
+      "question_id": "q-0",
+      "question_text": "What are the primary differences between let, const, and var in JavaScript?",
+      "transcript": "the primary difference between let constant and where in JavaScript",
+      "evaluation": {
+        "technical": 85.0,
+        "communication": 88.0,
+        "depth": 80.0,
+        "relevance": 92.0,
+        "overall": 86.25,
+        "feedback": "Strong answer. The candidate explained the core concept clearly with structured logic, showing good theoretical understanding. Elaborating on real-world edge cases would make it perfect."
+      }
+    },
+    "4116f1ea-1d16-44b4-b617-7d1954f380c4": {
+      "id": "4116f1ea-1d16-44b4-b617-7d1954f380c4",
+      "interview_id": "7dd91ec4-475f-4cdc-abba-5877b139805f",
+      "question_id": "q-0",
+      "question_text": "What are the primary differences between let, const, and var in JavaScript?",
+      "transcript": "in",
+      "evaluation": {
+        "technical": 10.0,
+        "communication": 15.0,
+        "depth": 5.0,
+        "relevance": 0.0,
+        "overall": 7.5,
+        "feedback": "No substantial response was provided. The candidate failed to address the question."
+      }
+    },
+    "5d18d8ca-e707-444d-9f4f-b7aa21a06d9e": {
+      "id": "5d18d8ca-e707-444d-9f4f-b7aa21a06d9e",
+      "interview_id": "7dd91ec4-475f-4cdc-abba-5877b139805f",
+      "question_id": "q-0",
+      "question_text": "What are the primary differences between let, const, and var in JavaScript?",
+      "transcript": "No answer provided",
+      "evaluation": {
+        "technical": 10.0,
+        "communication": 15.0,
+        "depth": 5.0,
+        "relevance": 0.0,
+        "overall": 7.5,
+        "feedback": "No substantial response was provided. The candidate failed to address the question."
+      }
+    },
+    "bd45decf-faa9-4761-8d18-7c7b3a30617e": {
+      "id": "bd45decf-faa9-4761-8d18-7c7b3a30617e",
+      "interview_id": "7dd91ec4-475f-4cdc-abba-5877b139805f",
+      "question_id": "q-0",
+      "question_text": "What are the primary differences between let, const, and var in JavaScript?",
+      "transcript": "No answer provided",
+      "evaluation": {
+        "technical": 10.0,
+        "communication": 15.0,
+        "depth": 5.0,
+        "relevance": 0.0,
+        "overall": 7.5,
+        "feedback": "No substantial response was provided. The candidate failed to address the question."
+      }
+    },
+    "639ecb08-ed4e-4010-8d0d-483a5e0e74de": {
+      "id": "639ecb08-ed4e-4010-8d0d-483a5e0e74de",
+      "interview_id": "7dd91ec4-475f-4cdc-abba-5877b139805f",
+      "question_id": "q-3",
+      "question_text": "Describe what Object-Oriented Programming (OOP) is, and name its four core pillars.",
+      "transcript": "object objects are used in the classes object",
+      "evaluation": {
+        "technical": 55.0,
+        "communication": 60.0,
+        "depth": 40.0,
+        "relevance": 70.0,
+        "overall": 56.25,
+        "feedback": "The answer is technically correct in its core definition but extremely basic. It lacks depth, technical vocabulary, and practical details or examples."
+      }
+    },
+    "4b6aad63-03e7-4bba-aa82-4271f828f6bf": {
+      "id": "4b6aad63-03e7-4bba-aa82-4271f828f6bf",
+      "interview_id": "7dd91ec4-475f-4cdc-abba-5877b139805f",
+      "question_id": "q-4",
+      "question_text": "Tell me about a simple coding project or assignment you worked on recently. What did you enjoy about it?",
+      "transcript": "the major detective",
+      "evaluation": {
+        "technical": 55.0,
+        "communication": 60.0,
+        "depth": 40.0,
+        "relevance": 70.0,
+        "overall": 56.25,
+        "feedback": "The answer is technically correct in its core definition but extremely basic. It lacks depth, technical vocabulary, and practical details or examples."
+      }
+    },
+    "f5343321-10bc-452b-9452-439293cb48fc": {
+      "id": "f5343321-10bc-452b-9452-439293cb48fc",
+      "interview_id": "def85877-bbe9-4649-9ed3-8976e79b4eab",
+      "question_id": "q-0",
+      "question_text": "What are the primary differences between let, const, and var in JavaScript?",
+      "transcript": "constant doesnt changes the value , var initialize according to it ",
+      "evaluation": {
+        "technical": 85.0,
+        "communication": 88.0,
+        "depth": 80.0,
+        "relevance": 92.0,
+        "overall": 86.25,
+        "feedback": "Strong answer. The candidate explained the core concept clearly with structured logic, showing good theoretical understanding. Elaborating on real-world edge cases would make it perfect."
+      }
+    },
+    "85ca7fc5-5bc5-4134-b678-ac4e53d02c86": {
+      "id": "85ca7fc5-5bc5-4134-b678-ac4e53d02c86",
+      "interview_id": "def85877-bbe9-4649-9ed3-8976e79b4eab",
+      "question_id": "q-1",
+      "question_text": "Explain what a simple database SELECT query is, and how the WHERE clause filters rows.",
+      "transcript": "retains the",
+      "evaluation": {
+        "technical": 55.0,
+        "communication": 60.0,
+        "depth": 40.0,
+        "relevance": 70.0,
+        "overall": 56.25,
+        "feedback": "The answer is technically correct in its core definition but extremely basic. It lacks depth, technical vocabulary, and practical details or examples."
+      }
+    },
+    "243ac1ef-e7c1-40a4-86a9-804615e561f8": {
+      "id": "243ac1ef-e7c1-40a4-86a9-804615e561f8",
+      "interview_id": "def85877-bbe9-4649-9ed3-8976e79b4eab",
+      "question_id": "q-2",
+      "question_text": "What is a loop in programming, and what is the difference between a for loop and a while loop?",
+      "transcript": "Is there in the maintain the? About the farming pumping basically. Retains the weather of the far Google from.",
+      "evaluation": {
+        "technical": 85.0,
+        "communication": 88.0,
+        "depth": 80.0,
+        "relevance": 92.0,
+        "overall": 86.25,
+        "feedback": "Strong answer. The candidate explained the core concept clearly with structured logic, showing good theoretical understanding. Elaborating on real-world edge cases would make it perfect."
+      }
+    },
+    "aa65be52-e8ba-48a3-923c-d0c8d8682450": {
+      "id": "aa65be52-e8ba-48a3-923c-d0c8d8682450",
+      "interview_id": "def85877-bbe9-4649-9ed3-8976e79b4eab",
+      "question_id": "q-3",
+      "question_text": "Describe what Object-Oriented Programming (OOP) is, and name its four core pillars.",
+      "transcript": "so that",
+      "evaluation": {
+        "technical": 10.0,
+        "communication": 15.0,
+        "depth": 5.0,
+        "relevance": 0.0,
+        "overall": 7.5,
+        "feedback": "No substantial response was provided. The candidate failed to address the question."
+      }
+    },
+    "ca407d5b-954c-4fed-a881-1b75c9576582": {
+      "id": "ca407d5b-954c-4fed-a881-1b75c9576582",
+      "interview_id": "def85877-bbe9-4649-9ed3-8976e79b4eab",
+      "question_id": "q-4",
+      "question_text": "Tell me about a simple coding project or assignment you worked on recently. What did you enjoy about it?",
+      "transcript": "So that teams have a business way and.",
+      "evaluation": {
+        "technical": 55.0,
+        "communication": 60.0,
+        "depth": 40.0,
+        "relevance": 70.0,
+        "overall": 56.25,
+        "feedback": "The answer is technically correct in its core definition but extremely basic. It lacks depth, technical vocabulary, and practical details or examples."
+      }
+    },
+    "04852ca5-4a6a-4eff-a81b-68d9bff567e2": {
+      "id": "04852ca5-4a6a-4eff-a81b-68d9bff567e2",
+      "interview_id": "357cd593-4cc6-4969-985b-f559709b18ad",
+      "question_id": "q-0",
+      "question_text": "What is the difference between Virtual DOM and Real DOM, and how does React's reconciliation work?",
+      "transcript": "[Written Answer]:\nNo answer provided",
+      "evaluation": {
+        "technical": 10.0,
+        "communication": 15.0,
+        "depth": 5.0,
+        "relevance": 0.0,
+        "overall": 7.5,
+        "feedback": "No substantial response was provided. The candidate failed to address the question."
+      }
+    },
+    "4cc8d432-9902-46a9-9016-b34d6c53ab28": {
+      "id": "4cc8d432-9902-46a9-9016-b34d6c53ab28",
+      "interview_id": "357cd593-4cc6-4969-985b-f559709b18ad",
+      "question_id": "q-1",
+      "question_text": "Explain the React component lifecycle hooks and when to use useMemo vs useCallback.",
+      "transcript": "[Written Answer]:\nNo answer provided",
+      "evaluation": {
+        "technical": 10.0,
+        "communication": 15.0,
+        "depth": 5.0,
+        "relevance": 0.0,
+        "overall": 7.5,
+        "feedback": "No substantial response was provided. The candidate failed to address the question."
+      }
+    },
+    "4f44637b-3ba7-433c-a81e-c2c86eb11baf": {
+      "id": "4f44637b-3ba7-433c-a81e-c2c86eb11baf",
+      "interview_id": "357cd593-4cc6-4969-985b-f559709b18ad",
+      "question_id": "q-2",
+      "question_text": "How does state management with React Context compare to external stores like Redux or Zustand?",
+      "transcript": "[Written Answer]:\nNo answer provided",
+      "evaluation": {
+        "technical": 10.0,
+        "communication": 15.0,
+        "depth": 5.0,
+        "relevance": 0.0,
+        "overall": 7.5,
+        "feedback": "No substantial response was provided. The candidate failed to address the question."
+      }
+    },
+    "afe78f89-19db-4839-91c9-477672de1270": {
+      "id": "afe78f89-19db-4839-91c9-477672de1270",
+      "interview_id": "357cd593-4cc6-4969-985b-f559709b18ad",
+      "question_id": "q-3",
+      "question_text": "Explain the event loop in Node.js, and the differences between setImmediate, process.nextTick, and setTimeout.",
+      "transcript": "[Written Answer]:\nNo answer provided",
+      "evaluation": {
+        "technical": 10.0,
+        "communication": 15.0,
+        "depth": 5.0,
+        "relevance": 0.0,
+        "overall": 7.5,
+        "feedback": "No substantial response was provided. The candidate failed to address the question."
+      }
+    },
+    "9f12197c-9db6-4296-a49d-bf42d7b2186d": {
+      "id": "9f12197c-9db6-4296-a49d-bf42d7b2186d",
+      "interview_id": "357cd593-4cc6-4969-985b-f559709b18ad",
+      "question_id": "q-4",
+      "question_text": "How do streams work in Node.js, and what are the benefits of using streaming over buffer reading?",
+      "transcript": "[Written Answer]:\nNo answer provided",
+      "evaluation": {
+        "technical": 10.0,
+        "communication": 15.0,
+        "depth": 5.0,
+        "relevance": 0.0,
+        "overall": 7.5,
+        "feedback": "No substantial response was provided. The candidate failed to address the question."
+      }
+    },
+    "f1393d8b-9ade-4c57-bf4e-5c7ec2b4ee02": {
+      "id": "f1393d8b-9ade-4c57-bf4e-5c7ec2b4ee02",
+      "interview_id": "50615723-faac-41c6-a1c2-e21d019ebcbc",
+      "question_id": "q-0",
+      "question_text": "What is the difference between Virtual DOM and Real DOM, and how does React's reconciliation work?",
+      "transcript": "[Written Answer]:\nThe difference between. ",
+      "evaluation": {
+        "technical": 55.0,
+        "communication": 60.0,
+        "depth": 40.0,
+        "relevance": 70.0,
+        "overall": 56.25,
+        "feedback": "The answer is technically correct in its core definition but extremely basic. It lacks depth, technical vocabulary, and practical details or examples."
+      }
+    }
+  },
+  "violations": {
+    "47a09bf5-a5db-4e3b-b5d1-07238c45b54c": {
+      "id": "47a09bf5-a5db-4e3b-b5d1-07238c45b54c",
+      "interview_id": "b96d9ead-4e77-44d7-ac10-fca7fa7d0481",
+      "type": "no_face",
+      "timestamp": "2026-05-24 13:14:50.558769"
+    },
+    "597ef135-75cb-47a9-94e2-b97da1e68dfd": {
+      "id": "597ef135-75cb-47a9-94e2-b97da1e68dfd",
+      "interview_id": "b96d9ead-4e77-44d7-ac10-fca7fa7d0481",
+      "type": "no_face",
+      "timestamp": "2026-05-24 13:14:50.951311"
+    },
+    "4f1617a3-e3d6-4cac-9514-e10c91a004a3": {
+      "id": "4f1617a3-e3d6-4cac-9514-e10c91a004a3",
+      "interview_id": "b96d9ead-4e77-44d7-ac10-fca7fa7d0481",
+      "type": "no_face",
+      "timestamp": "2026-05-24 13:14:51.548947"
+    },
+    "80fefaa8-7bc7-461e-a120-26428c64d593": {
+      "id": "80fefaa8-7bc7-461e-a120-26428c64d593",
+      "interview_id": "ab22e507-408c-4a49-b316-efddf8a9e8cc",
+      "type": "no_face",
+      "timestamp": "2026-05-24 14:46:34.518606"
+    },
+    "3afc7742-dbdd-4eb9-850c-0bb4488fc60c": {
+      "id": "3afc7742-dbdd-4eb9-850c-0bb4488fc60c",
+      "interview_id": "ab22e507-408c-4a49-b316-efddf8a9e8cc",
+      "type": "no_face",
+      "timestamp": "2026-05-24 14:46:35.719427"
+    },
+    "fd530a26-4efc-406a-b4ed-7548f054b70c": {
+      "id": "fd530a26-4efc-406a-b4ed-7548f054b70c",
+      "interview_id": "ab22e507-408c-4a49-b316-efddf8a9e8cc",
+      "type": "no_face",
+      "timestamp": "2026-05-24 14:46:36.920599"
+    },
+    "e5ef11cf-e48e-4635-8136-2cdb08f784b7": {
+      "id": "e5ef11cf-e48e-4635-8136-2cdb08f784b7",
+      "interview_id": "ab22e507-408c-4a49-b316-efddf8a9e8cc",
+      "type": "no_face",
+      "timestamp": "2026-05-24 14:52:23.268192"
+    },
+    "fb8a0c2e-d814-4477-99b9-e245eb1e7cf0": {
+      "id": "fb8a0c2e-d814-4477-99b9-e245eb1e7cf0",
+      "interview_id": "eb69e329-69f1-4800-85bb-262732a027c8",
+      "type": "fullscreen_exit",
+      "timestamp": "2026-05-24 15:09:20.538043"
+    },
+    "fb8a0c2e-d814-4477-99b9-e245eb1e7cf0_tab_0": {
+      "id": "fb8a0c2e-d814-4477-99b9-e245eb1e7cf0_tab_0",
+      "interview_id": "eb69e329-69f1-4800-85bb-262732a027c8",
+      "type": "fullscreen_exit",
+      "timestamp": "2026-05-24 15:09:20.538043"
+    },
+    "fb8a0c2e-d814-4477-99b9-e245eb1e7cf0_tab_1": {
+      "id": "fb8a0c2e-d814-4477-99b9-e245eb1e7cf0_tab_1",
+      "interview_id": "eb69e329-69f1-4800-85bb-262732a027c8",
+      "type": "fullscreen_exit",
+      "timestamp": "2026-05-24 15:09:20.538043"
+    },
+    "fb8a0c2e-d814-4477-99b9-e245eb1e7cf0_tab_2": {
+      "id": "fb8a0c2e-d814-4477-99b9-e245eb1e7cf0_tab_2",
+      "interview_id": "eb69e329-69f1-4800-85bb-262732a027c8",
+      "type": "fullscreen_exit",
+      "timestamp": "2026-05-24 15:09:20.538043"
+    },
+    "21262ec7-c9f1-4bc3-900b-48cb0c6fdbbc": {
+      "id": "21262ec7-c9f1-4bc3-900b-48cb0c6fdbbc",
+      "interview_id": "37c0d39b-473e-4bdf-b528-e556d751436f",
+      "type": "excessive_motion",
+      "timestamp": "2026-05-24 15:29:59.451413"
+    },
+    "55c70397-af4c-4796-9a95-5a889f4927c3": {
+      "id": "55c70397-af4c-4796-9a95-5a889f4927c3",
+      "interview_id": "37c0d39b-473e-4bdf-b528-e556d751436f",
+      "type": "look_away_right",
+      "timestamp": "2026-05-24 15:30:51.056320"
+    },
+    "b22665d8-cca2-4268-8687-1365eb3f72b0": {
+      "id": "b22665d8-cca2-4268-8687-1365eb3f72b0",
+      "interview_id": "ca5dec7f-3b3a-4320-90fe-9247de4d6d02",
+      "type": "excessive_motion",
+      "timestamp": "2026-05-24 15:46:14.494037"
+    },
+    "251ff292-b265-4f07-9696-c102ee454965": {
+      "id": "251ff292-b265-4f07-9696-c102ee454965",
+      "interview_id": "ca5dec7f-3b3a-4320-90fe-9247de4d6d02",
+      "type": "no_face",
+      "timestamp": "2026-05-24 15:46:15.357621"
+    },
+    "f9027194-695b-4228-8a6d-137ba91febed": {
+      "id": "f9027194-695b-4228-8a6d-137ba91febed",
+      "interview_id": "ca5dec7f-3b3a-4320-90fe-9247de4d6d02",
+      "type": "look_away_right",
+      "timestamp": "2026-05-24 15:46:31.009734"
+    },
+    "258d7a15-c948-411b-9544-f581ca39b3c5": {
+      "id": "258d7a15-c948-411b-9544-f581ca39b3c5",
+      "interview_id": "07412811-ad6c-4f7c-abe2-e95c5b7febe2",
+      "type": "look_away_right",
+      "timestamp": "2026-05-24 15:55:43.352313"
+    },
+    "508d2a64-1ba9-499c-9604-503cd2be5686": {
+      "id": "508d2a64-1ba9-499c-9604-503cd2be5686",
+      "interview_id": "07412811-ad6c-4f7c-abe2-e95c5b7febe2",
+      "type": "look_away_right",
+      "timestamp": "2026-05-24 15:55:44.276152"
+    },
+    "05885c52-dbad-4a79-9ade-020c3a6c0614": {
+      "id": "05885c52-dbad-4a79-9ade-020c3a6c0614",
+      "interview_id": "07412811-ad6c-4f7c-abe2-e95c5b7febe2",
+      "type": "look_away_up",
+      "timestamp": "2026-05-24 15:55:45.187537"
+    },
+    "6e5599a0-84f6-4998-94e1-9f1099af8844": {
+      "id": "6e5599a0-84f6-4998-94e1-9f1099af8844",
+      "interview_id": "def85877-bbe9-4649-9ed3-8976e79b4eab",
+      "type": "excessive_motion",
+      "timestamp": "2026-05-25 10:54:59.641256"
+    },
+    "e6022555-345d-49e2-adad-3a985ec20c80": {
+      "id": "e6022555-345d-49e2-adad-3a985ec20c80",
+      "interview_id": "def85877-bbe9-4649-9ed3-8976e79b4eab",
+      "type": "excessive_motion",
+      "timestamp": "2026-05-25 10:55:01.394173"
+    },
+    "3a2d2464-7a8e-46ee-bac8-dbd18bf3599f": {
+      "id": "3a2d2464-7a8e-46ee-bac8-dbd18bf3599f",
+      "interview_id": "4e2d1e1d-6c93-4da8-8597-fbb98a1af99e",
+      "type": "fullscreen_exit",
+      "timestamp": "2026-05-25 11:46:45.572284"
+    },
+    "3a2d2464-7a8e-46ee-bac8-dbd18bf3599f_tab_0": {
+      "id": "3a2d2464-7a8e-46ee-bac8-dbd18bf3599f_tab_0",
+      "interview_id": "4e2d1e1d-6c93-4da8-8597-fbb98a1af99e",
+      "type": "fullscreen_exit",
+      "timestamp": "2026-05-25 11:46:45.572284"
+    },
+    "3a2d2464-7a8e-46ee-bac8-dbd18bf3599f_tab_1": {
+      "id": "3a2d2464-7a8e-46ee-bac8-dbd18bf3599f_tab_1",
+      "interview_id": "4e2d1e1d-6c93-4da8-8597-fbb98a1af99e",
+      "type": "fullscreen_exit",
+      "timestamp": "2026-05-25 11:46:45.572284"
+    },
+    "3a2d2464-7a8e-46ee-bac8-dbd18bf3599f_tab_2": {
+      "id": "3a2d2464-7a8e-46ee-bac8-dbd18bf3599f_tab_2",
+      "interview_id": "4e2d1e1d-6c93-4da8-8597-fbb98a1af99e",
+      "type": "fullscreen_exit",
+      "timestamp": "2026-05-25 11:46:45.572284"
+    },
+    "443776d0-cbec-4877-b6dc-8ee69d0d7955": {
+      "id": "443776d0-cbec-4877-b6dc-8ee69d0d7955",
+      "interview_id": "357cd593-4cc6-4969-985b-f559709b18ad",
+      "type": "look_away_left",
+      "timestamp": "2026-05-25 12:54:01.769651"
+    },
+    "93e1bbcc-2246-41f4-8232-cf512b528bba": {
+      "id": "93e1bbcc-2246-41f4-8232-cf512b528bba",
+      "interview_id": "357cd593-4cc6-4969-985b-f559709b18ad",
+      "type": "excessive_motion",
+      "timestamp": "2026-05-25 12:54:30.097878"
+    },
+    "b85bba41-36af-42ee-94e4-e4a123635628": {
+      "id": "b85bba41-36af-42ee-94e4-e4a123635628",
+      "interview_id": "50615723-faac-41c6-a1c2-e21d019ebcbc",
+      "type": "multiple_faces",
+      "timestamp": "2026-05-25 13:09:50.107856"
+    },
+    "202e0271-6909-42ca-9449-d7cb5036a9f2": {
+      "id": "202e0271-6909-42ca-9449-d7cb5036a9f2",
+      "interview_id": "50615723-faac-41c6-a1c2-e21d019ebcbc",
+      "type": "excessive_motion",
+      "timestamp": "2026-05-25 13:09:51.489779"
+    },
+    "effa1f38-746e-49d9-8f93-4846695772d0": {
+      "id": "effa1f38-746e-49d9-8f93-4846695772d0",
+      "interview_id": "50615723-faac-41c6-a1c2-e21d019ebcbc",
+      "type": "look_away_right",
+      "timestamp": "2026-05-25 13:09:52.489089"
+    },
+    "a7bac7df-6849-4dd6-b95c-4e22206da331": {
+      "id": "a7bac7df-6849-4dd6-b95c-4e22206da331",
+      "interview_id": "50615723-faac-41c6-a1c2-e21d019ebcbc",
+      "type": "multiple_faces",
+      "timestamp": "2026-05-25 13:11:05.771010"
+    },
+    "a8b536b6-39d4-4fcb-ab93-e6917ce00dfb": {
+      "id": "a8b536b6-39d4-4fcb-ab93-e6917ce00dfb",
+      "interview_id": "50615723-faac-41c6-a1c2-e21d019ebcbc",
+      "type": "no_face",
+      "timestamp": "2026-05-25 13:11:41.309849"
+    }
+  },
+  "drafts": {
+    "4e2d1e1d-6c93-4da8-8597-fbb98a1af99e": {
+      "question_index": 0,
+      "code_draft": "// JavaScript Workspace\nfunction solution() {\n  // Write your code/answer here\n  \n  return true;\n}",
+      "text_draft": "Are the primary differences between language.",
+      "updated_at": "2026-05-25 11:46:42.531445"
+    },
+    "357cd593-4cc6-4969-985b-f559709b18ad": {
+      "question_index": 4,
+      "code_draft": "",
+      "text_draft": "",
+      "updated_at": "2026-05-25 12:54:27.914031"
+    },
+    "50615723-faac-41c6-a1c2-e21d019ebcbc": {
+      "question_index": 0,
+      "code_draft": "",
+      "text_draft": "The difference between. ",
+      "updated_at": "2026-05-25 13:10:58.319237"
+    }
+  }
+}
