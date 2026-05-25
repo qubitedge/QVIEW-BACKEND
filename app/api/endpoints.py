@@ -138,11 +138,23 @@ async def complete_interview(req: InterviewComplete):
         mock_db["interviews"][interview_id]["status"] = "completed"
         mock_db["interviews"][interview_id]["ended_at"] = str(datetime.now())
         
-        # In a real app, fetch candidate details and all scores to generate report
+        # Fetch candidate details
+        cand_id = mock_db["interviews"][interview_id]["candidate_id"]
+        cand_name = mock_db.get("candidates", {}).get(cand_id, {}).get("name", "Candidate")
+        
+        # Gather real answers and scores
+        answers = [a for a in mock_db.get("answers", {}).values() if a["interview_id"] == interview_id]
+        if answers:
+            overall = sum(a["evaluation"].get("overall", 0) for a in answers) / len(answers)
+        else:
+            overall = 0
+            
+        formatted_answers = [{"q": a.get("question_text", ""), "a": a.get("transcript", "")} for a in answers]
+        
         report = groq_service.generate_report(
-            "John Doe", 
-            {"overall": 85}, 
-            [{"q": "React?", "a": "Yes"}]
+            cand_name, 
+            {"overall": round(overall, 2)}, 
+            formatted_answers
         )
         mock_db["interviews"][interview_id]["ai_feedback"] = report
         save_db(mock_db)

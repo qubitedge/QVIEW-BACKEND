@@ -18,7 +18,7 @@ class GroqService:
             self.client = None
         self.model = "llama3-70b-8192"
 
-    def _call_with_retry(self, messages, retries=3):
+    def _call_with_retry(self, messages, retries=3, temperature=0.7):
         if not self.client:
             raise ValueError("Groq client not initialized")
         for i in range(retries):
@@ -27,7 +27,8 @@ class GroqService:
                     model=self.model,
                     messages=messages,
                     response_format={"type": "json_object"},
-                    timeout=30
+                    timeout=30,
+                    temperature=temperature
                 )
                 return json.loads(response.choices[0].message.content)
             except Exception as e:
@@ -248,114 +249,234 @@ class GroqService:
             QuestionModel(text=c_questions[4], type="technical", difficulty="easy" if level == "junior" else "medium", section="Conceptual")
         ]
 
-    def analyze_resume(self, text: str) -> ResumeAnalysis:
-        prompt = f"""You are an expert technical recruiter. Analyze this resume and extract:
-1. Technical skills (list)
-2. Projects with technologies used
-3. Years of experience
-4. Seniority level (junior/mid/senior)
-Return ONLY valid JSON matching this schema:
-{{ "skills": ["skill1", "skill2"], "projects": [{{"name": "p1", "tech": "t1", "description": "d1"}}], "experience_years": 5, "level": "senior" }}
+    def introduce_candidate(self, candidate_name: str) -> str:
+        prompt = f"""You are a warm, professional AI interviewer opening a technical interview.
 
-Resume Text:
+The candidate's name is: {candidate_name}
+
+Your task:
+- Greet them by name in a friendly but professional tone.
+- Briefly introduce yourself as their AI interviewer for today.
+- Ask them to introduce themselves: their background, current role or recent experience, and what excites them most about software engineering.
+- Keep your message under 4 sentences. Do not ask multiple questions at once.
+- End with exactly one open-ended question: "Could you start by telling me a little about yourself and your engineering journey so far?"
+
+Return ONLY the spoken interviewer message. No JSON, no labels.
+"""
+        if not self.client:
+            return f"Hello {candidate_name}! I'm your AI interviewer for today. Could you start by telling me a little about yourself and your engineering journey so far?"
+            
+        try:
+            response = self.client.chat.completions.create(
+                model=self.model,
+                messages=[{"role": "system", "content": prompt}],
+                timeout=15,
+                temperature=0.7
+            )
+            return response.choices[0].message.content.strip()
+        except Exception as e:
+            print(f"Groq API Error in introduce_candidate: {e}")
+            return f"Hello {candidate_name}! I'm your AI interviewer. Could you start by telling me a little about yourself and your engineering journey so far?"
+
+    def analyze_resume(self, text: str) -> ResumeAnalysis:
+        prompt = f"""You are a senior technical recruiter with 10+ years of experience in software engineering hiring.
+
+Analyze the resume below with strict accuracy:
+
+1. **Skills** — List only real, verifiable technologies (languages, frameworks, tools, cloud). No soft skills, no buzzwords.
+2. **Projects** — Extract real projects only. For each: name, tech stack, and one sentence describing what was built and its measurable impact.
+3. **Experience** — Total years of professional or internship experience as a number. Estimate conservatively if unclear.
+4. **Level** — Classify strictly as: "junior" (<2 yrs), "mid" (2–5 yrs), or "senior" (5+ yrs).
+
+Rules:
+- Do NOT invent skills not present in the resume.
+- If a field is absent, use a safe default (e.g. experience_years: 1).
+- Return ONLY valid JSON, no explanation, no markdown.
+
+Schema:
+{{ "skills": ["Python", "React"], "projects": [{{"name": "App", "tech": "React, Node.js", "description": "Built e-commerce platform reducing load time by 40%"}}], "experience_years": 3, "level": "mid" }}
+
+Resume:
 {text}
 """
         messages = [{"role": "system", "content": prompt}]
         try:
-            result = self._call_with_retry(messages)
+            result = self._call_with_retry(messages, temperature=0.3)
             return ResumeAnalysis(**result)
         except Exception as e:
             print(f"Groq API Error in analyze_resume: {e}. Using fallback mock analysis.")
             return self._fallback_analyze_resume(text)
 
     def generate_questions(self, profile: dict) -> list[QuestionModel]:
-        prompt = f"""You are an expert interviewer. Generate exactly 5 conceptual questions customized to the candidate's resume profile.
-The questions must be distinct conceptual questions regarding key technological concepts, languages, frameworks, or architecture found in their resume. Do not include coding exercises or aptitude puzzles.
+        # Generate the intro question first
+        candidate_name = profile.get("name", "Candidate")
+        intro_text = self.introduce_candidate(candidate_name)
+        intro_question = QuestionModel(
+            text=intro_text, 
+            type="behavioral", 
+            difficulty="easy", 
+            section="Introduction"
+        )
+        
+        prompt = f"""You are a senior technical interviewer at a top-tier engineering company.
 
-Difficulty must be 'easy' or at most 'medium'. Return ONLY valid JSON matching this schema:
-{{ "questions": [
-  {{"text": "Explain...", "type": "technical", "difficulty": "easy", "section": "Conceptual"}},
-  {{"text": "What is...", "type": "technical", "difficulty": "medium", "section": "Conceptual"}},
-  {{"text": "How does...", "type": "technical", "difficulty": "easy", "section": "Conceptual"}},
-  {{"text": "Describe...", "type": "technical", "difficulty": "medium", "section": "Conceptual"}},
-  {{"text": "Why do...", "type": "technical", "difficulty": "easy", "section": "Conceptual"}}
-] }}
+Generate exactly 5 unique conceptual interview questions tailored to this candidate's specific resume profile.
+
+Requirements:
+- Each question must test deep UNDERSTANDING, not surface recall. Ask "how/why/when/trade-off", not "what is the definition of".
+- Every question must target a DIFFERENT skill, framework, or concept from the candidate's profile.
+- Vary question styles across: trade-off analysis, real-world scenario, design decision, and debugging reasoning.
+- No coding exercises, no math puzzles, no HR questions.
+- Difficulty: "easy" for junior, "medium" for mid/senior.
+- All 5 must be completely distinct with zero overlapping concepts.
+
+Return ONLY valid JSON, no explanation:
+{{
+  "questions": [
+    {{"text": "...", "type": "technical", "difficulty": "medium", "section": "Conceptual"}},
+    {{"text": "...", "type": "technical", "difficulty": "easy",   "section": "Conceptual"}},
+    {{"text": "...", "type": "technical", "difficulty": "medium", "section": "Conceptual"}},
+    {{"text": "...", "type": "technical", "difficulty": "easy",   "section": "Conceptual"}},
+    {{"text": "...", "type": "technical", "difficulty": "medium", "section": "Conceptual"}}
+  ]
+}}
 
 Candidate Profile:
 {json.dumps(profile)}
 """
         messages = [{"role": "system", "content": prompt}]
         try:
-            result = self._call_with_retry(messages)
-            return [QuestionModel(**q) for q in result.get("questions", [])]
+            result = self._call_with_retry(messages, temperature=0.8)
+            tech_questions = [QuestionModel(**q) for q in result.get("questions", [])]
+            return [intro_question] + tech_questions
         except Exception as e:
             print(f"Groq API Error in generate_questions: {e}. Using fallback mock questions.")
-            return self._fallback_generate_questions(profile)
+            fallback_qs = self._fallback_generate_questions(profile)
+            return [intro_question] + fallback_qs
 
     def evaluate_answer(self, question: str, answer: str) -> EvaluationResult:
-        prompt = f"""You are an expert interviewer evaluating a candidate's answer.
-Question: {question}
-Candidate Answer: {answer}
-Evaluate on:
-1. Technical Correctness (0-100)
-2. Communication Clarity (0-100)  
-3. Answer Depth (0-100)
-4. Relevance (0-100)
-Return ONLY valid JSON matching this schema:
-{{ "technical": 80, "communication": 90, "depth": 75, "relevance": 85, "overall": 82.5, "feedback": "Good answer but missed edge cases." }}
+        # Strip common prefixes injected by your frontend
+        clean = re.sub(
+            r'^\[written answer\]:\s*', 
+            '', 
+            answer.strip(), 
+            flags=re.IGNORECASE
+        ).strip().lower()
+
+        prompt = f"""You are a strict but fair senior technical interviewer evaluating a live interview response.
+
+Question asked: {question}
+Candidate's answer: {clean}
+
+Scoring rubric (0–100 each):
+- **Technical Correctness** — Is the answer factually accurate? Are core concepts properly explained?
+- **Communication Clarity** — Is it structured, coherent, and easy to follow without ambiguity?
+- **Depth** — Does it go beyond surface level? Are trade-offs, edge cases, or real-world examples included?
+- **Relevance** — Does the answer directly address what was asked, with no tangents?
+
+Grading rules:
+- A blank or "I don't know" scores below 20 across all dimensions.
+- A vague, generic answer scores 40–60, not 80+. Be honest.
+- A fragment under 10 words scores technical ≤ 15 and overall ≤ 15, regardless of whether the correct keyword appears. Keyword presence without explanation is NOT a correct answer.
+- Feedback must be exactly 2–3 sentences: what was strong, what was missing, one actionable improvement tip.
+- overall = (technical × 0.40) + (communication × 0.20) + (depth × 0.25) + (relevance × 0.15)
+
+Return ONLY valid JSON:
+{{ "technical": 78, "communication": 85, "depth": 60, "relevance": 90, "overall": 76.75, "feedback": "..." }}
 """
         messages = [{"role": "system", "content": prompt}]
         try:
-            result = self._call_with_retry(messages)
+            result = self._call_with_retry(messages, temperature=0.3)
             return EvaluationResult(**result)
         except Exception as e:
             print(f"Groq API Error in evaluate_answer: {e}. Using fallback mock evaluation.")
             
             # Programmatic fallback based on the actual answer content!
-            ans_clean = answer.strip().lower()
-            ans_len = len(ans_clean)
-
-            if ans_len < 10 or "no answer" in ans_clean:
+            word_count = len(clean.split())
+            char_count = len(clean)
+            
+            # Tier 0 — Empty / skipped
+            if char_count < 8 or clean in {"no answer", "i don't know", "skip", "n/a", ""}:
                 return EvaluationResult(
-                    technical=10.0,
-                    communication=15.0,
-                    depth=5.0,
-                    relevance=0.0,
-                    overall=7.5,
-                    feedback="No substantial response was provided. The candidate failed to address the question."
+                    technical=5.0, communication=5.0, depth=0.0, relevance=0.0,
+                    overall=3.75,
+                    feedback="No response was provided. The candidate did not attempt to answer the question."
                 )
             
-            if ans_len < 60:
-                # Short/basic answers
+            # Tier 1 — Fragment (< 8 words) — e.g. "API is used in communication"
+            if word_count < 8:
                 return EvaluationResult(
-                    technical=55.0,
-                    communication=60.0,
-                    depth=40.0,
-                    relevance=70.0,
-                    overall=56.25,
-                    feedback="The answer is technically correct in its core definition but extremely basic. It lacks depth, technical vocabulary, and practical details or examples."
+                    technical=12.0, communication=15.0, depth=5.0, relevance=20.0,
+                    overall=12.75,
+                    feedback="The response is a fragment with no meaningful explanation. "
+                             "The candidate mentioned a relevant term but provided no definition, "
+                             "context, or technical detail."
                 )
-
-            # Good quality detailed answers
+            
+            # Tier 2 — Too short / one-liner (8–20 words)
+            if word_count < 20:
+                return EvaluationResult(
+                    technical=30.0, communication=35.0, depth=15.0, relevance=40.0,
+                    overall=29.75,
+                    feedback="The answer is too brief to demonstrate real understanding. "
+                             "A correct concept was touched on but left unexplained. "
+                             "The candidate should elaborate with definitions, examples, or trade-offs."
+                )
+            
+            # Tier 3 — Basic answer (20–50 words) — surface-level only
+            if word_count < 50:
+                return EvaluationResult(
+                    technical=48.0, communication=50.0, depth=30.0, relevance=60.0,
+                    overall=46.95,
+                    feedback="The answer covers the basics but lacks depth. "
+                             "Core ideas are present without technical precision or real-world context. "
+                             "Expanding on how or why would significantly improve the score."
+                )
+            
+            # Tier 4 — Moderate answer (50–100 words)
+            if word_count < 100:
+                return EvaluationResult(
+                    technical=65.0, communication=68.0, depth=55.0, relevance=72.0,
+                    overall=64.80,
+                    feedback="A reasonable answer that covers the main concept with some clarity. "
+                             "Missing edge cases, trade-offs, or specific examples that would "
+                             "demonstrate deeper expertise."
+                )
+            
+            # Tier 5 — Strong answer (100+ words)
             return EvaluationResult(
-                technical=85.0,
-                communication=88.0,
-                depth=80.0,
-                relevance=92.0,
-                overall=86.25,
-                feedback="Strong answer. The candidate explained the core concept clearly with structured logic, showing good theoretical understanding. Elaborating on real-world edge cases would make it perfect."
+                technical=82.0, communication=84.0, depth=76.0, relevance=88.0,
+                overall=82.10,
+                feedback="A solid, well-structured response demonstrating good technical understanding. "
+                         "The candidate explained the core concept clearly. "
+                         "Adding real-world examples or edge cases would make this answer excellent."
             )
 
     def generate_report(self, candidate_name: str, scores: dict, answers: list) -> str:
-        prompt = f"""You are a senior HR manager writing a candidate assessment.
+        prompt = f"""You are a senior engineering hiring manager writing a post-interview assessment report.
+
 Candidate: {candidate_name}
 Interview scores: {json.dumps(scores)}
-All answers: {json.dumps(answers)}
-Write a professional 3-paragraph assessment covering:
-1. Technical capability summary
-2. Communication and soft skills
-3. Hiring recommendation (Strong Yes / Yes / Maybe / No)
-Be specific, reference actual answers. Return ONLY the report text (no JSON formatting needed).
+Answers given: {json.dumps(answers)}
+
+Write a structured 3-paragraph professional report:
+
+Paragraph 1 — Technical Assessment:
+Summarize technical strengths and any notable gaps. Reference at least one specific answer or topic the candidate covered.
+
+Paragraph 2 — Communication & Soft Skills:
+Assess how clearly and confidently they explained concepts. Was their reasoning structured? Did they handle uncertainty well?
+
+Paragraph 3 — Hiring Recommendation:
+Based on the overall score, conclude with exactly one of:
+  - "Strong Yes"  → overall ≥ 85
+  - "Yes"         → overall 70–84
+  - "Maybe"       → overall 55–69
+  - "No"          → overall < 55
+Justify with 1–2 specific observations from this interview only.
+
+Tone: professional, concise, evidence-based. No generic filler phrases like "showed great potential" without backing.
+Return ONLY the plain report text. No JSON, no markdown headers.
 """
         messages = [{"role": "system", "content": prompt}]
         

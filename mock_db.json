@@ -87,6 +87,86 @@
       "target_role": "Software Engineer",
       "experience_level": "Junior (0-2 years)",
       "created_at": "2026-05-25 13:09:21.497699"
+    },
+    "bb02c688-6754-452b-a172-cd66f4cbed46": {
+      "id": "bb02c688-6754-452b-a172-cd66f4cbed46",
+      "name": "johnny",
+      "email": "likhithmanakala@gmail.com",
+      "target_role": "Software Engineer",
+      "experience_level": "Junior (0-2 years)",
+      "created_at": "2026-05-25 14:56:44.945111"
+    },
+    "492af439-fd54-4a2c-8254-c02bb561e492": {
+      "id": "492af439-fd54-4a2c-8254-c02bb561e492",
+      "name": "pravi",
+      "email": "likhithmanakala@gmail.com",
+      "target_role": "Software Engineer",
+      "experience_level": "Junior (0-2 years)",
+      "created_at": "2026-05-25 14:57:16.466132"
+    },
+    "c7aabcd2-6c96-4388-8759-1bd8cae9c67a": {
+      "id": "c7aabcd2-6c96-4388-8759-1bd8cae9c67a",
+      "name": "john",
+      "email": "likhithmanakala@gmail.com",
+      "target_role": "Software Engineer",
+      "experience_level": "Junior (0-2 years)",
+      "created_at": "2026-05-25 14:58:21.005168"
+    },
+    "6ab50a88-644a-4aa0-84fa-45fdae22b454": {
+      "id": "6ab50a88-644a-4aa0-84fa-45fdae22b454",
+      "name": "pravu",
+      "email": "likhithmanakala@gmail.com",
+      "target_role": "Software Engineer",
+      "experience_level": "Junior (0-2 years)",
+      "created_at": "2026-05-25 14:59:26.764334"
+    },
+    "fbf09be6-43ee-4391-b3b2-4dd6432ca42c": {
+      "id": "fbf09be6-43ee-4391-b3b2-4dd6432ca42c",
+      "name": "dgfj",
+      "email": "likhithmanakala@gmail.com",
+      "target_role": "Software Engineer",
+      "experience_level": "Junior (0-2 years)",
+      "created_at": "2026-05-25 16:03:46.189406"
+    },
+    "5671f28a-2fb1-4570-b5e6-e58cb3c4cb00": {
+      "id": "5671f28a-2fb1-4570-b5e6-e58cb3c4cb00",
+      "name": "gfhjh",
+      "email": "likhithmanakala@gmail.com",
+      "target_role": "Software Engineer",
+      "experience_level": "Junior (0-2 years)",
+      "created_at": "2026-05-25 16:04:59.826552"
+    },
+    "263e01f7-2d4d-44aa-b4e3-08e2a9795798": {
+      "id": "263e01f7-2d4d-44aa-b4e3-08e2a9795798",
+      "name": "frtg",
+      "email": "likhithmanakala@gmail.com",
+      "target_role": "Software Engineer",
+      "experience_level": "Junior (0-2 years)",
+      "created_at": "2026-05-25 16:05:49.057082"
+    },
+    "ab555e09-767d-45ea-b364-c3d69aac7dc4": {
+      "id": "ab555e09-767d-45ea-b364-c3d69aac7dc4",
+      "name": "wearfeg",
+      "email": "likhithmanakala@gmail.com",
+      "target_role": "Software Engineer",
+      "experience_level": "Junior (0-2 years)",
+      "created_at": "2026-05-25 16:09:14.916992"
+    },
+    "7ce54a2c-3644-453b-8798-c89da0d89ea9": {
+      "id": "7ce54a2c-3644-453b-8798-c89da0d89ea9",
+      "name": "SFchn",
+      "email": "lik@gmail.com",
+      "target_role": "Software Engineer",
+      "experience_level": "Junior (0-2 years)",
+      "created_at": "2026-05-25 16:16:01.248090"
+    },
+    "0bad988f-f400-44c7-893f-e90e06eac218": {
+      "id": "0bad988f-f400-44c7-893f-e90e06eac218",
+      "name": "XC",
+      "email": "L@gmail.com",
+      "target_role": "Software Engineer",
+      "experience_level": "Junior (0-2 years)",
+      "created_at": "2026-05-25 16:17:59.381212"
     }
   },
   "interviews": {
@@ -240,6 +320,63 @@
       "status": "failed",
       "started_at": "2026-05-25 13:09:27.274435",
       "failure_reason": "Exceeded maximum webcam proctoring warnings (3)"
+    },
+    "6442a6a0-ae3d-4b97-9498-89c517784c2a": {
+      "id": "6442a6a0-ae3d-4b97-9498-89c517784c2a",
+      "candidate_id": "6ab50a88-644a-4aa0-84fa-45fdae22b454",
+      "status": "active",
+      "started_at": "2026-05-25 15:00:33.231770"
+    },
+    "10a2e7be-0704-40a1-bc73-5b115fa83871": {
+      "id": "10a2e7be-0704-40a1-bc73-5b115fa83871",
+      "candidate_id": "6ab50a88-644a-4aa0-84fa-45fdae22b454",
+      "status": "completed",
+      "started_at": "2026-05-25 15:00:36.791112",
+      "ended_at": "2026-05-25 15:02:25.299566",
+      "ai_feedback": "### Technical Capability Summary\nThe candidate John Doe demonstrated strong theoretical and practical knowledge. Their technical answers were solid, particularly regarding scalability and design patterns. They showed a robust understanding of full-stack engineering and development best practices.\n\n### Communication and Soft Skills\nCommunication was highly professional, structured, and clear. John Doe explained complex architectures with structure and ease. They presented their thoughts in a logical manner, which is crucial for cross-functional team collaboration.\n\n### Hiring Recommendation: Strong Yes\nBased on the overall assessment score of 85/100, we recommend proceeding to the final round of interviews. John Doe has shown a solid background that matches our engineering standards and team requirements.\n"
+    },
+    "560d118b-20a5-42f1-ae19-6e1c15d23964": {
+      "id": "560d118b-20a5-42f1-ae19-6e1c15d23964",
+      "candidate_id": "fbf09be6-43ee-4391-b3b2-4dd6432ca42c",
+      "status": "failed",
+      "started_at": "2026-05-25 16:03:50.738416",
+      "failure_reason": "Exceeded maximum webcam proctoring warnings (3)"
+    },
+    "812ef7b5-01f9-4d3b-8086-97a6ce0a7853": {
+      "id": "812ef7b5-01f9-4d3b-8086-97a6ce0a7853",
+      "candidate_id": "5671f28a-2fb1-4570-b5e6-e58cb3c4cb00",
+      "status": "failed",
+      "started_at": "2026-05-25 16:05:12.792335",
+      "failure_reason": "Exceeded maximum webcam proctoring warnings (3)"
+    },
+    "3acd67b6-caa9-4bd3-983f-e976a640c2d9": {
+      "id": "3acd67b6-caa9-4bd3-983f-e976a640c2d9",
+      "candidate_id": "263e01f7-2d4d-44aa-b4e3-08e2a9795798",
+      "status": "failed",
+      "started_at": "2026-05-25 16:05:54.581445",
+      "failure_reason": "Exceeded maximum webcam proctoring warnings (3)"
+    },
+    "2edc211e-edd0-473d-9f17-943caf238387": {
+      "id": "2edc211e-edd0-473d-9f17-943caf238387",
+      "candidate_id": "ab555e09-767d-45ea-b364-c3d69aac7dc4",
+      "status": "failed",
+      "started_at": "2026-05-25 16:09:29.016343",
+      "failure_reason": "Instant termination due to forbidden action: fullscreen_exit"
+    },
+    "3100abf3-b536-4873-ba18-1a5e98235331": {
+      "id": "3100abf3-b536-4873-ba18-1a5e98235331",
+      "candidate_id": "7ce54a2c-3644-453b-8798-c89da0d89ea9",
+      "status": "failed",
+      "started_at": "2026-05-25 16:16:09.522749",
+      "failure_reason": "Exceeded maximum webcam proctoring warnings (3)"
+    },
+    "ef29a8df-239e-4d0a-9eda-407344eb9843": {
+      "id": "ef29a8df-239e-4d0a-9eda-407344eb9843",
+      "candidate_id": "0bad988f-f400-44c7-893f-e90e06eac218",
+      "status": "completed",
+      "started_at": "2026-05-25 16:18:14.994949",
+      "ended_at": "2026-05-25 16:20:50.756035",
+      "ai_feedback": "### Technical Capability Summary\nThe candidate John Doe demonstrated strong theoretical and practical knowledge. Their technical answers were solid, particularly regarding scalability and design patterns. They showed a robust understanding of full-stack engineering and development best practices.\n\n### Communication and Soft Skills\nCommunication was highly professional, structured, and clear. John Doe explained complex architectures with structure and ease. They presented their thoughts in a logical manner, which is crucial for cross-functional team collaboration.\n\n### Hiring Recommendation: Strong Yes\nBased on the overall assessment score of 85/100, we recommend proceeding to the final round of interviews. John Doe has shown a solid background that matches our engineering standards and team requirements.\n"
     }
   },
   "questions": {},
@@ -658,6 +795,171 @@
         "overall": 56.25,
         "feedback": "The answer is technically correct in its core definition but extremely basic. It lacks depth, technical vocabulary, and practical details or examples."
       }
+    },
+    "56183276-2668-4052-9766-9f65e3831844": {
+      "id": "56183276-2668-4052-9766-9f65e3831844",
+      "interview_id": "10a2e7be-0704-40a1-bc73-5b115fa83871",
+      "question_id": "q-0",
+      "question_text": "What is the difference between Virtual DOM and Real DOM, and how does React's reconciliation work?",
+      "transcript": "[Written Answer]:\nAnd there isn't just nothing by the spectrum. I resume but you have to be static which has you resume but you must leave.",
+      "evaluation": {
+        "technical": 85.0,
+        "communication": 88.0,
+        "depth": 80.0,
+        "relevance": 92.0,
+        "overall": 86.25,
+        "feedback": "Strong answer. The candidate explained the core concept clearly with structured logic, showing good theoretical understanding. Elaborating on real-world edge cases would make it perfect."
+      }
+    },
+    "a92d7cc0-7bfa-41f2-986e-6531bb9b5c77": {
+      "id": "a92d7cc0-7bfa-41f2-986e-6531bb9b5c77",
+      "interview_id": "10a2e7be-0704-40a1-bc73-5b115fa83871",
+      "question_id": "q-1",
+      "question_text": "Explain the React component lifecycle hooks and when to use useMemo vs useCallback.",
+      "transcript": "[Written Answer]:\nI literally don't think often.",
+      "evaluation": {
+        "technical": 55.0,
+        "communication": 60.0,
+        "depth": 40.0,
+        "relevance": 70.0,
+        "overall": 56.25,
+        "feedback": "The answer is technically correct in its core definition but extremely basic. It lacks depth, technical vocabulary, and practical details or examples."
+      }
+    },
+    "d3b1487a-231b-4f60-9234-7797f5bd10be": {
+      "id": "d3b1487a-231b-4f60-9234-7797f5bd10be",
+      "interview_id": "10a2e7be-0704-40a1-bc73-5b115fa83871",
+      "question_id": "q-2",
+      "question_text": "How does state management with React Context compare to external stores like Redux or Zustand?",
+      "transcript": "[Written Answer]:\nNo answer provided",
+      "evaluation": {
+        "technical": 10.0,
+        "communication": 15.0,
+        "depth": 5.0,
+        "relevance": 0.0,
+        "overall": 7.5,
+        "feedback": "No substantial response was provided. The candidate failed to address the question."
+      }
+    },
+    "a2590196-7614-427d-8747-3a32bbb40c61": {
+      "id": "a2590196-7614-427d-8747-3a32bbb40c61",
+      "interview_id": "10a2e7be-0704-40a1-bc73-5b115fa83871",
+      "question_id": "q-3",
+      "question_text": "Explain the event loop in Node.js, and the differences between setImmediate, process.nextTick, and setTimeout.",
+      "transcript": "[Written Answer]:\nThe favorite thing that you have the enemy fancy continually.",
+      "evaluation": {
+        "technical": 85.0,
+        "communication": 88.0,
+        "depth": 80.0,
+        "relevance": 92.0,
+        "overall": 86.25,
+        "feedback": "Strong answer. The candidate explained the core concept clearly with structured logic, showing good theoretical understanding. Elaborating on real-world edge cases would make it perfect."
+      }
+    },
+    "28c29b71-d6d7-4f7b-b5a0-984027f0c3d0": {
+      "id": "28c29b71-d6d7-4f7b-b5a0-984027f0c3d0",
+      "interview_id": "10a2e7be-0704-40a1-bc73-5b115fa83871",
+      "question_id": "q-4",
+      "question_text": "How do streams work in Node.js, and what are the benefits of using streaming over buffer reading?",
+      "transcript": "[Written Answer]:\nNo answer provided",
+      "evaluation": {
+        "technical": 10.0,
+        "communication": 15.0,
+        "depth": 5.0,
+        "relevance": 0.0,
+        "overall": 7.5,
+        "feedback": "No substantial response was provided. The candidate failed to address the question."
+      }
+    },
+    "25a93393-48b7-43ff-bfb4-e5292a9f5fb1": {
+      "id": "25a93393-48b7-43ff-bfb4-e5292a9f5fb1",
+      "interview_id": "ef29a8df-239e-4d0a-9eda-407344eb9843",
+      "question_id": "q-0",
+      "question_text": "Hello Candidate! I'm your AI interviewer. Could you start by telling me a little about yourself and your engineering journey so far?",
+      "transcript": "[Written Answer]:\nmyself  Pravallika  I am from  JNTU College of Engineering",
+      "evaluation": {
+        "technical": 85.0,
+        "communication": 88.0,
+        "depth": 80.0,
+        "relevance": 92.0,
+        "overall": 86.25,
+        "feedback": "Strong answer. The candidate explained the core concept clearly with structured logic, showing good theoretical understanding. Elaborating on real-world edge cases would make it perfect."
+      }
+    },
+    "310213c8-defa-4b3f-97c4-44b1f2903a85": {
+      "id": "310213c8-defa-4b3f-97c4-44b1f2903a85",
+      "interview_id": "ef29a8df-239e-4d0a-9eda-407344eb9843",
+      "question_id": "q-1",
+      "question_text": "Explain the concepts of REST APIs and HTTP status codes, specifically 200, 201, 400, 401, 403, and 500.",
+      "transcript": "[Written Answer]:\nAPI  is used in the  established in the communication",
+      "evaluation": {
+        "technical": 85.0,
+        "communication": 88.0,
+        "depth": 80.0,
+        "relevance": 92.0,
+        "overall": 86.25,
+        "feedback": "Strong answer. The candidate explained the core concept clearly with structured logic, showing good theoretical understanding. Elaborating on real-world edge cases would make it perfect."
+      }
+    },
+    "132a272b-9b4a-4abc-85fa-cd8f81a6bf76": {
+      "id": "132a272b-9b4a-4abc-85fa-cd8f81a6bf76",
+      "interview_id": "ef29a8df-239e-4d0a-9eda-407344eb9843",
+      "question_id": "q-2",
+      "question_text": "How does garbage collection work in modern programming languages?",
+      "transcript": "[Written Answer]:\nto get the comments",
+      "evaluation": {
+        "technical": 55.0,
+        "communication": 60.0,
+        "depth": 40.0,
+        "relevance": 70.0,
+        "overall": 56.25,
+        "feedback": "The answer is technically correct in its core definition but extremely basic. It lacks depth, technical vocabulary, and practical details or examples."
+      }
+    },
+    "dffacb63-fc6e-4569-8cd4-136cfb9ef7df": {
+      "id": "dffacb63-fc6e-4569-8cd4-136cfb9ef7df",
+      "interview_id": "ef29a8df-239e-4d0a-9eda-407344eb9843",
+      "question_id": "q-3",
+      "question_text": "What is the difference between monolithic and microservices architectures?",
+      "transcript": "[Written Answer]:\nNo answer provided",
+      "evaluation": {
+        "technical": 10.0,
+        "communication": 15.0,
+        "depth": 5.0,
+        "relevance": 0.0,
+        "overall": 7.5,
+        "feedback": "No substantial response was provided. The candidate failed to address the question."
+      }
+    },
+    "85ed8b6d-61b6-4441-8dbc-08e85230dbb7": {
+      "id": "85ed8b6d-61b6-4441-8dbc-08e85230dbb7",
+      "interview_id": "ef29a8df-239e-4d0a-9eda-407344eb9843",
+      "question_id": "q-4",
+      "question_text": "What is the difference between Virtual DOM and Real DOM, and how does React's reconciliation work?",
+      "transcript": "[Written Answer]:\nmachine used to store the  great Coklony gwrjkfg ehjn vrkj y6il;w edeyhg, ",
+      "evaluation": {
+        "technical": 85.0,
+        "communication": 88.0,
+        "depth": 80.0,
+        "relevance": 92.0,
+        "overall": 86.25,
+        "feedback": "Strong answer. The candidate explained the core concept clearly with structured logic, showing good theoretical understanding. Elaborating on real-world edge cases would make it perfect."
+      }
+    },
+    "e8089006-7ca2-4ad5-9af2-821c1bf28640": {
+      "id": "e8089006-7ca2-4ad5-9af2-821c1bf28640",
+      "interview_id": "ef29a8df-239e-4d0a-9eda-407344eb9843",
+      "question_id": "q-5",
+      "question_text": "Explain the React component lifecycle hooks and when to use useMemo vs useCallback.",
+      "transcript": "[Written Answer]:\nersgbrtkjmfb etyhr6 j6h drthgbrtiuj ",
+      "evaluation": {
+        "technical": 55.0,
+        "communication": 60.0,
+        "depth": 40.0,
+        "relevance": 70.0,
+        "overall": 56.25,
+        "feedback": "The answer is technically correct in its core definition but extremely basic. It lacks depth, technical vocabulary, and practical details or examples."
+      }
     }
   },
   "violations": {
@@ -852,6 +1154,126 @@
       "interview_id": "50615723-faac-41c6-a1c2-e21d019ebcbc",
       "type": "no_face",
       "timestamp": "2026-05-25 13:11:41.309849"
+    },
+    "d80b27d6-96a0-4374-aaa6-57ef1f4df5ed": {
+      "id": "d80b27d6-96a0-4374-aaa6-57ef1f4df5ed",
+      "interview_id": "10a2e7be-0704-40a1-bc73-5b115fa83871",
+      "type": "no_face",
+      "timestamp": "2026-05-25 15:01:30.895261"
+    },
+    "5a125ed6-ac5d-4290-b9e5-a27079483b9c": {
+      "id": "5a125ed6-ac5d-4290-b9e5-a27079483b9c",
+      "interview_id": "10a2e7be-0704-40a1-bc73-5b115fa83871",
+      "type": "look_away_right",
+      "timestamp": "2026-05-25 15:01:33.264469"
+    },
+    "db794fb8-9903-4c4a-b464-739b064dce81": {
+      "id": "db794fb8-9903-4c4a-b464-739b064dce81",
+      "interview_id": "560d118b-20a5-42f1-ae19-6e1c15d23964",
+      "type": "no_face",
+      "timestamp": "2026-05-25 16:03:56.039125"
+    },
+    "c3e5b41c-3a80-4bb7-95a2-309105196321": {
+      "id": "c3e5b41c-3a80-4bb7-95a2-309105196321",
+      "interview_id": "560d118b-20a5-42f1-ae19-6e1c15d23964",
+      "type": "no_face",
+      "timestamp": "2026-05-25 16:03:57.235304"
+    },
+    "4f27b732-117f-45c1-a7af-22d4b318875c": {
+      "id": "4f27b732-117f-45c1-a7af-22d4b318875c",
+      "interview_id": "560d118b-20a5-42f1-ae19-6e1c15d23964",
+      "type": "no_face",
+      "timestamp": "2026-05-25 16:03:58.465982"
+    },
+    "d6eb103e-276f-4a86-b9be-f2b2861aa337": {
+      "id": "d6eb103e-276f-4a86-b9be-f2b2861aa337",
+      "interview_id": "812ef7b5-01f9-4d3b-8086-97a6ce0a7853",
+      "type": "look_away_left",
+      "timestamp": "2026-05-25 16:05:27.776279"
+    },
+    "0de90450-c880-472d-a9ea-b11068a6eaa9": {
+      "id": "0de90450-c880-472d-a9ea-b11068a6eaa9",
+      "interview_id": "812ef7b5-01f9-4d3b-8086-97a6ce0a7853",
+      "type": "look_away_left",
+      "timestamp": "2026-05-25 16:05:28.659888"
+    },
+    "58ea4850-cc38-45fc-8081-61ce145f3835": {
+      "id": "58ea4850-cc38-45fc-8081-61ce145f3835",
+      "interview_id": "812ef7b5-01f9-4d3b-8086-97a6ce0a7853",
+      "type": "look_away_left",
+      "timestamp": "2026-05-25 16:05:29.561095"
+    },
+    "3cdb9831-97aa-439d-8574-2f47d7374e44": {
+      "id": "3cdb9831-97aa-439d-8574-2f47d7374e44",
+      "interview_id": "3acd67b6-caa9-4bd3-983f-e976a640c2d9",
+      "type": "copy_paste",
+      "timestamp": "2026-05-25 16:06:25.786869"
+    },
+    "679b336f-1d6e-4874-b3bd-672600b4c6cd": {
+      "id": "679b336f-1d6e-4874-b3bd-672600b4c6cd",
+      "interview_id": "3acd67b6-caa9-4bd3-983f-e976a640c2d9",
+      "type": "look_away_left",
+      "timestamp": "2026-05-25 16:06:34.193215"
+    },
+    "605e1738-9705-4729-87e7-9cc3c2a7e2f4": {
+      "id": "605e1738-9705-4729-87e7-9cc3c2a7e2f4",
+      "interview_id": "3acd67b6-caa9-4bd3-983f-e976a640c2d9",
+      "type": "look_away_left",
+      "timestamp": "2026-05-25 16:06:35.069878"
+    },
+    "d98e1670-ee3f-4eeb-96b7-28ec70224127": {
+      "id": "d98e1670-ee3f-4eeb-96b7-28ec70224127",
+      "interview_id": "2edc211e-edd0-473d-9f17-943caf238387",
+      "type": "no_face",
+      "timestamp": "2026-05-25 16:09:37.972771"
+    },
+    "8689d472-7262-4cd9-bbb4-b09e0faf5b50": {
+      "id": "8689d472-7262-4cd9-bbb4-b09e0faf5b50",
+      "interview_id": "2edc211e-edd0-473d-9f17-943caf238387",
+      "type": "fullscreen_exit",
+      "timestamp": "2026-05-25 16:09:38.353146"
+    },
+    "8689d472-7262-4cd9-bbb4-b09e0faf5b50_tab_0": {
+      "id": "8689d472-7262-4cd9-bbb4-b09e0faf5b50_tab_0",
+      "interview_id": "2edc211e-edd0-473d-9f17-943caf238387",
+      "type": "fullscreen_exit",
+      "timestamp": "2026-05-25 16:09:38.353146"
+    },
+    "8689d472-7262-4cd9-bbb4-b09e0faf5b50_tab_1": {
+      "id": "8689d472-7262-4cd9-bbb4-b09e0faf5b50_tab_1",
+      "interview_id": "2edc211e-edd0-473d-9f17-943caf238387",
+      "type": "fullscreen_exit",
+      "timestamp": "2026-05-25 16:09:38.353146"
+    },
+    "8689d472-7262-4cd9-bbb4-b09e0faf5b50_tab_2": {
+      "id": "8689d472-7262-4cd9-bbb4-b09e0faf5b50_tab_2",
+      "interview_id": "2edc211e-edd0-473d-9f17-943caf238387",
+      "type": "fullscreen_exit",
+      "timestamp": "2026-05-25 16:09:38.353146"
+    },
+    "b6f5973a-3e80-4e36-983e-de6dbec27f59": {
+      "id": "b6f5973a-3e80-4e36-983e-de6dbec27f59",
+      "interview_id": "3100abf3-b536-4873-ba18-1a5e98235331",
+      "type": "excessive_motion",
+      "timestamp": "2026-05-25 16:16:27.417313"
+    },
+    "908654c7-861e-42ca-8faa-c2c1b7959de8": {
+      "id": "908654c7-861e-42ca-8faa-c2c1b7959de8",
+      "interview_id": "3100abf3-b536-4873-ba18-1a5e98235331",
+      "type": "look_away_left",
+      "timestamp": "2026-05-25 16:17:16.368435"
+    },
+    "28a4ae11-6de2-4b98-a190-b64aa9f90702": {
+      "id": "28a4ae11-6de2-4b98-a190-b64aa9f90702",
+      "interview_id": "3100abf3-b536-4873-ba18-1a5e98235331",
+      "type": "look_away_left",
+      "timestamp": "2026-05-25 16:17:17.260361"
+    },
+    "c4e3f93f-0639-4efe-8842-62fea3554597": {
+      "id": "c4e3f93f-0639-4efe-8842-62fea3554597",
+      "interview_id": "ef29a8df-239e-4d0a-9eda-407344eb9843",
+      "type": "look_away_right",
+      "timestamp": "2026-05-25 16:19:02.360467"
     }
   },
   "drafts": {
@@ -872,6 +1294,48 @@
       "code_draft": "",
       "text_draft": "The difference between. ",
       "updated_at": "2026-05-25 13:10:58.319237"
+    },
+    "10a2e7be-0704-40a1-bc73-5b115fa83871": {
+      "question_index": 4,
+      "code_draft": "",
+      "text_draft": "",
+      "updated_at": "2026-05-25 15:02:23.089596"
+    },
+    "560d118b-20a5-42f1-ae19-6e1c15d23964": {
+      "question_index": 0,
+      "code_draft": "",
+      "text_draft": "",
+      "updated_at": "2026-05-25 16:03:57.150066"
+    },
+    "812ef7b5-01f9-4d3b-8086-97a6ce0a7853": {
+      "question_index": 0,
+      "code_draft": "",
+      "text_draft": "",
+      "updated_at": "2026-05-25 16:05:27.874395"
+    },
+    "3acd67b6-caa9-4bd3-983f-e976a640c2d9": {
+      "question_index": 0,
+      "code_draft": "",
+      "text_draft": "\nExplain the difference between synchronous and asynchronous programming, and when you would use each.",
+      "updated_at": "2026-05-25 16:06:30.796722"
+    },
+    "2edc211e-edd0-473d-9f17-943caf238387": {
+      "question_index": 0,
+      "code_draft": "",
+      "text_draft": "",
+      "updated_at": "2026-05-25 16:09:34.102957"
+    },
+    "3100abf3-b536-4873-ba18-1a5e98235331": {
+      "question_index": 0,
+      "code_draft": "",
+      "text_draft": "my name is  my name  is Lakhan",
+      "updated_at": "2026-05-25 16:17:16.424886"
+    },
+    "ef29a8df-239e-4d0a-9eda-407344eb9843": {
+      "question_index": 5,
+      "code_draft": "",
+      "text_draft": "ersgbrtkjmfb etyhr6 j6h drthgbrtiuj ",
+      "updated_at": "2026-05-25 16:20:53.274189"
     }
   }
 }
