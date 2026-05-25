@@ -17,7 +17,8 @@ app.add_middleware(
         "http://127.0.0.1:3000",
         "https://qubview.vercel.app",
         "https://qview-frontend.vercel.app",
-        "https://qview.vercel.app"
+        "https://qview.vercel.app",
+        "https://qview-frontend-4mqm.vercel.app"
     ],
     allow_credentials=True,
     allow_methods=["*"],
