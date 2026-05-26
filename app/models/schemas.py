@@ -15,8 +15,16 @@ class Token(BaseModel):
 
 class ProjectModel(BaseModel):
     name: str
-    tech: str
-    description: str
+    tech_stack: List[str] = []
+    description: str = ""
+    candidate_role: str = ""
+    responsibilities: List[str] = []
+    features_built: List[str] = []
+    deployment: str = ""
+    architecture: str = ""
+    challenges: List[str] = []
+    team_size: str = ""
+    impact: str = ""
 
 class ResumeAnalysis(BaseModel):
     skills: List[str]

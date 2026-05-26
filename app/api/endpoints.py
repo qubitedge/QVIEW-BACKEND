@@ -271,45 +271,19 @@ async def log_violation(violation: ViolationCreate):
         "timestamp": str(datetime.now())
     }
     
-    # Check if this is an instant-fail violation (tab switch or fullscreen exit)
-    is_instant_fail = violation.type in ['tab_switch', 'fullscreen_exit']
+    # Count all face/webcam proctoring warnings
+    all_violations = [v for v in mock_db["violations"].values() if v["interview_id"] == interview_id]
+    violation_count = len(all_violations)
     
-    # Count webcam/facial proctoring warnings (excluding instant fails)
-    webcam_violations = [v for v in mock_db["violations"].values() if v["interview_id"] == interview_id and v["type"] not in ['tab_switch', 'fullscreen_exit']]
-    webcam_count = len(webcam_violations)
-    
-    # Get total violations count
-    total_count = sum(1 for v in mock_db["violations"].values() if v["interview_id"] == interview_id)
-    
-    if is_instant_fail:
-        # Create 3 separate violations to penalize and instantly terminate the candidate
-        for i in range(3):
-            sub_id = f"{v_id}_tab_{i}"
-            mock_db["violations"][sub_id] = {
-                "id": sub_id,
-                "interview_id": interview_id,
-                "type": violation.type,
-                "timestamp": str(datetime.now())
-            }
-            
-        # Recalculate total violations count after inserting the penalty
-        total_count = sum(1 for v in mock_db["violations"].values() if v["interview_id"] == interview_id)
-        
+    if violation_count >= 3:
         if interview_id in mock_db["interviews"]:
             mock_db["interviews"][interview_id]["status"] = "failed"
-            mock_db["interviews"][interview_id]["failure_reason"] = f"Instant termination due to forbidden action: {violation.type}"
+            mock_db["interviews"][interview_id]["failure_reason"] = "Exceeded maximum proctoring warnings (3)"
         save_db(mock_db)
-        return {"failed": True, "violations_count": total_count, "reason": "tab_switch"}
-        
-    if webcam_count >= 3:
-        if interview_id in mock_db["interviews"]:
-            mock_db["interviews"][interview_id]["status"] = "failed"
-            mock_db["interviews"][interview_id]["failure_reason"] = "Exceeded maximum webcam proctoring warnings (3)"
-        save_db(mock_db)
-        return {"failed": True, "violations_count": total_count, "reason": "webcam_limit"}
+        return {"failed": True, "violations_count": violation_count, "reason": "webcam_limit"}
         
     save_db(mock_db)
-    return {"failed": False, "violations_count": total_count}
+    return {"failed": False, "violations_count": violation_count}
 
 @router.get("/proctor/{interview_id}/violations")
 async def get_violations(interview_id: str):
@@ -465,4 +439,23 @@ async def get_admin_dashboard_stats():
         "interviews": enriched_interviews,
         "violations_log": violations[-20:]
     }
+
+@router.post("/stt/transcribe")
+async def transcribe_audio(file: UploadFile = File(...)):
+    """
+    Transcribe audio using Groq Whisper API.
+    Accepts webm, ogg, wav, mp3 audio files.
+    Returns the transcribed text.
+    """
+    try:
+        audio_bytes = await file.read()
+        if len(audio_bytes) < 500:
+            return {"text": ""}
+
+        filename = file.filename or "audio.webm"
+        text = groq_service.transcribe_audio(audio_bytes, filename)
+        return {"text": text}
+    except Exception as e:
+        print(f"STT transcription error: {e}")
+        raise HTTPException(status_code=500, detail=f"Transcription failed: {str(e)}")
 
