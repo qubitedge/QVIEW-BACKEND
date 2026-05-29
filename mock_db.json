@@ -255,6 +255,110 @@
       "target_role": "Software Engineer",
       "experience_level": "Junior (0-2 years)",
       "created_at": "2026-05-26 12:28:53.080741"
+    },
+    "7d1990d5-88c9-4ef4-a60c-07054be3eadf": {
+      "id": "7d1990d5-88c9-4ef4-a60c-07054be3eadf",
+      "name": "pru",
+      "email": "likhithmanakala@gmail.com",
+      "target_role": "Software Engineer",
+      "experience_level": "Junior (0-2 years)",
+      "created_at": "2026-05-26 21:11:58.616168"
+    },
+    "26895fff-3325-400f-802a-bf8fdb8ee686": {
+      "id": "26895fff-3325-400f-802a-bf8fdb8ee686",
+      "name": "likhi",
+      "email": "likhithmanakala@gmail.com",
+      "target_role": "Software Engineer",
+      "experience_level": "Junior (0-2 years)",
+      "created_at": "2026-05-28 10:33:08.807100"
+    },
+    "c35e9fa3-5651-44ac-9c18-ab4ad6abbe8a": {
+      "id": "c35e9fa3-5651-44ac-9c18-ab4ad6abbe8a",
+      "name": "pravallika",
+      "email": "likhithmanakala@gmail.com",
+      "target_role": "Software Engineer",
+      "experience_level": "Junior (0-2 years)",
+      "created_at": "2026-05-28 10:52:57.115631"
+    },
+    "ec405d39-caf9-4ada-84cb-faeb7cef5927": {
+      "id": "ec405d39-caf9-4ada-84cb-faeb7cef5927",
+      "name": "pravi",
+      "email": "pravi@gmail.com",
+      "target_role": "Software Engineer",
+      "experience_level": "Junior (0-2 years)",
+      "created_at": "2026-05-28 10:54:12.869282"
+    },
+    "2e5effe0-a5a3-4495-b86a-ede0cb1b663d": {
+      "id": "2e5effe0-a5a3-4495-b86a-ede0cb1b663d",
+      "name": "prav",
+      "email": "prav@gmail.com",
+      "target_role": "Software Engineer",
+      "experience_level": "Junior (0-2 years)",
+      "created_at": "2026-05-28 10:59:16.737999"
+    },
+    "aa7ae35a-e0fb-4cf5-9ca7-7e840373da29": {
+      "id": "aa7ae35a-e0fb-4cf5-9ca7-7e840373da29",
+      "name": "jy",
+      "email": "pravi@gmail.com",
+      "target_role": "Software Engineer",
+      "experience_level": "Junior (0-2 years)",
+      "created_at": "2026-05-28 11:01:56.661637"
+    },
+    "8f830837-6b30-4e02-a0a9-e926395c0d88": {
+      "id": "8f830837-6b30-4e02-a0a9-e926395c0d88",
+      "name": "liks",
+      "email": "likhithmanakala@gmail.com",
+      "target_role": "Software Engineer",
+      "experience_level": "Junior (0-2 years)",
+      "created_at": "2026-05-28 11:10:43.399886"
+    },
+    "dd66726d-a36c-428d-bc85-66a6c91f100e": {
+      "id": "dd66726d-a36c-428d-bc85-66a6c91f100e",
+      "name": "parachute",
+      "email": "likhithmanakala@gmail.com",
+      "target_role": "Software Engineer",
+      "experience_level": "Junior (0-2 years)",
+      "created_at": "2026-05-28 11:16:25.210912"
+    },
+    "915dffa9-db7e-432d-8684-3f2d4e5fbf76": {
+      "id": "915dffa9-db7e-432d-8684-3f2d4e5fbf76",
+      "name": "lik",
+      "email": "likhithmanakala@gmail.com",
+      "target_role": "Software Engineer",
+      "experience_level": "Junior (0-2 years)",
+      "created_at": "2026-05-28 11:29:50.663107"
+    },
+    "a5144bef-2613-4d67-ae3f-098eb7a4c6fb": {
+      "id": "a5144bef-2613-4d67-ae3f-098eb7a4c6fb",
+      "name": "jkl",
+      "email": "likhithmanakala@gmail.com",
+      "target_role": "Software Engineer",
+      "experience_level": "Junior (0-2 years)",
+      "created_at": "2026-05-28 11:36:25.529021"
+    },
+    "418695f7-8caf-4c80-b911-178310fd661c": {
+      "id": "418695f7-8caf-4c80-b911-178310fd661c",
+      "name": "pravallika",
+      "email": "pravallikakundum18@gmail.com",
+      "target_role": "Software Engineer",
+      "experience_level": "Junior (0-2 years)",
+      "created_at": "2026-05-28 11:45:44.175629"
+    },
+    "1ae0ea4d-6aae-4cba-9896-0d564fa8b63c": {
+      "id": "1ae0ea4d-6aae-4cba-9896-0d564fa8b63c",
+      "name": "pravallika",
+      "email": "likhithmanakala@gmail.com",
+      "target_role": "Software Engineer",
+      "experience_level": "Junior (0-2 years)",
+      "created_at": "2026-05-28 11:46:38.964071"
+    },
+    "729caf14-0412-43fb-9b4e-79e7d89710e1": {
+      "id": "729caf14-0412-43fb-9b4e-79e7d89710e1",
+      "name": "qa",
+      "email": "likhithmanakala@gmail.com",
+      "target_role": "Software Engineer",
+      "experience_level": "Junior (0-2 years)",
+      "created_at": "2026-05-28 11:47:54.443210"
     }
   },
   "interviews": {
@@ -565,6 +669,1245 @@
       "status": "failed",
       "started_at": "2026-05-26 12:29:08.655262",
       "failure_reason": "Exceeded maximum proctoring warnings (3)"
+    },
+    "941ae86d-1ddb-423c-bd35-72f9cf04ddb9": {
+      "id": "941ae86d-1ddb-423c-bd35-72f9cf04ddb9",
+      "candidate_id": "7d1990d5-88c9-4ef4-a60c-07054be3eadf",
+      "status": "active",
+      "started_at": "2026-05-26 21:14:54.129270"
+    },
+    "663cf2c4-9896-4439-b1ff-fe0e6a5157cf": {
+      "id": "663cf2c4-9896-4439-b1ff-fe0e6a5157cf",
+      "candidate_id": "7d1990d5-88c9-4ef4-a60c-07054be3eadf",
+      "status": "active",
+      "started_at": "2026-05-26 21:14:56.207794"
+    },
+    "26709e79-c412-45f0-8bb8-f87efb0eb4ff": {
+      "id": "26709e79-c412-45f0-8bb8-f87efb0eb4ff",
+      "candidate_id": "7d1990d5-88c9-4ef4-a60c-07054be3eadf",
+      "status": "completed",
+      "started_at": "2026-05-26 21:15:03.613702",
+      "ended_at": "2026-05-26 21:16:03.930617",
+      "ai_feedback": "Overall score was 0.0. The candidate performed adequately."
+    },
+    "3565f114-510b-4b2f-837c-e3d18aee70a3": {
+      "id": "3565f114-510b-4b2f-837c-e3d18aee70a3",
+      "candidate_id": "26895fff-3325-400f-802a-bf8fdb8ee686",
+      "status": "active",
+      "started_at": "2026-05-28 10:33:33.491342",
+      "questions": [
+        {
+          "id": "",
+          "text": "Hi likhi, it's a pleasure to meet you. I'll be your AI interviewer for this session today. Could you start by telling me a little about yourself?",
+          "type": "behavioral",
+          "difficulty": "easy",
+          "section": "Introduction",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "Your Split Expense Tracker project sounds very relevant. Could you walk me through the overall architecture of the application, focusing on how Django's built-in authentication system integrates with your custom models for users and expenses? What considerations did you make regarding data privacy for user expenses?",
+          "type": "behavioral",
+          "difficulty": "medium",
+          "section": "Introduction",
+          "follow_up_to": null,
+          "expected_topics": [
+            "Django architecture",
+            "Django authentication system",
+            "Relational database schema design",
+            "User model customization"
+          ],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "In your Split Expense Tracker project, you mentioned designing a relational database schema to handle many-to-many relationships between users and expenses. Can you explain in detail how many-to-many relationships are typically implemented in a relational database, and specifically, how you would model this for users and expenses within Django's ORM, including any specific fields or models you created?",
+          "type": "technical",
+          "difficulty": "medium",
+          "section": "Conceptual",
+          "follow_up_to": null,
+          "expected_topics": [
+            "Relational database design",
+            "Many-to-many relationships",
+            "Junction tables",
+            "Django ORM",
+            "ManyToManyField"
+          ],
+          "adaptive": false,
+          "generated_from": null
+        }
+      ],
+      "profile": {
+        "topic": "Python",
+        "target_role": "Software Engineer",
+        "experience_level": "Junior (0-2 years)",
+        "candidate_name": "likhi",
+        "resume_text": "GNANESWAR DOWLURI\nOBJECTIVE\nSeeking for an opportunity where I can explore my\nknowledge by learning new things and contribute best to\nthe organization's growth.\nEDUCATION\nJAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY\nGURAJADA, VIZIANAGARAM\nPursuing\nBachelor of Technology (B.Tech)\n7.5\nNARAYANA JUNIOR COLLEGE, KAKINADA\n2021-2023\nIntermediate (B\u0399\u0395\u0391\u03a1)\n930/1000\nBHASHYAM PUBLIC SCHOOL, KAKINADA\n2021\nSecondary school of Education\n600/600\nPROJECTS\nSplit Expense Tracker\nDeveloped a web application to track and split group\nexpenses among friends efficiently.Implemented User\nAuthentication and Profile Management using Django's\nbuilt-in system.Designed a relational database schema\nto handle many-to-many relationships between users\nand expenses.\nStudent Information Management System\nBuilt a robust application to manage student records,\ngrades, and attendance. JavaUtilized JDBC for\nseamless database connectivity and Servlets/JSP for\nhandling server-side logic.Applied OOP principles to\nensure code reusability and maintainability.\nSTRENGTHS\nI am a good learner and listener.\nManagement skills.\nBeing punctual.\nDECLARATION\n@\nO\n,\nCONTACT\ndgnaneswar999@gmail.com\n6303813929\nKakinada, Andrapradesh\nSKILLS\nPython\nJava\nC\nMs office\nACHIEVEMENTS & AWARDS\nSecured a course completion\ncertificates from the Infosys\nspringboard such as flutter and\npython and c.\nI here by declare that all the details provided above\naretrue to the best of my knowledge"
+      },
+      "adaptive_enabled": true,
+      "adaptive_started": false,
+      "max_questions": 6,
+      "current_question_count": 3,
+      "candidate_strength": "unknown",
+      "adaptive_context": {
+        "asked_questions": [],
+        "scores": [],
+        "strong_topics": [],
+        "weak_topics": [],
+        "current_difficulty": "medium"
+      }
+    },
+    "12565997-e4a2-4ebf-a008-60903c4126b9": {
+      "id": "12565997-e4a2-4ebf-a008-60903c4126b9",
+      "candidate_id": "26895fff-3325-400f-802a-bf8fdb8ee686",
+      "status": "active",
+      "started_at": "2026-05-28 10:33:53.619106",
+      "questions": [
+        {
+          "id": "",
+          "text": "Hello Likhi, nice to meet you! I'll be your AI interviewer for today's technical session. I'm looking forward to our conversation. Could you start by telling me a little about yourself?",
+          "type": "behavioral",
+          "difficulty": "easy",
+          "section": "Introduction",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "In your 'Split Expense Tracker' project, you mentioned designing a relational database schema to handle many-to-many relationships between users and expenses. Could you describe how you would model this relationship using tables and columns, and explain how Django's ORM (implied by using Django's built-in system) typically handles such relationships?",
+          "type": "technical",
+          "difficulty": "medium",
+          "section": "Coding",
+          "follow_up_to": null,
+          "expected_topics": [
+            "Relational Database Design",
+            "Many-to-Many Relationships",
+            "Django ORM",
+            "Database Schema"
+          ],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "You stated that you applied OOP principles in your 'Student Information Management System' to ensure code reusability and maintainability. Could you elaborate on the concept of 'polymorphism' and provide a practical example from your project, or a similar scenario, demonstrating how it would be implemented in Java?",
+          "type": "technical",
+          "difficulty": "medium",
+          "section": "Conceptual",
+          "follow_up_to": null,
+          "expected_topics": [
+            "Object-Oriented Programming (OOP)",
+            "Polymorphism",
+            "Java",
+            "Code Reusability"
+          ],
+          "adaptive": false,
+          "generated_from": null
+        }
+      ],
+      "profile": {
+        "topic": "Python",
+        "target_role": "Software Engineer",
+        "experience_level": "Junior (0-2 years)",
+        "candidate_name": "likhi",
+        "resume_text": "GNANESWAR DOWLURI\nOBJECTIVE\nSeeking for an opportunity where I can explore my\nknowledge by learning new things and contribute best to\nthe organization's growth.\nEDUCATION\nJAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY\nGURAJADA, VIZIANAGARAM\nPursuing\nBachelor of Technology (B.Tech)\n7.5\nNARAYANA JUNIOR COLLEGE, KAKINADA\n2021-2023\nIntermediate (B\u0399\u0395\u0391\u03a1)\n930/1000\nBHASHYAM PUBLIC SCHOOL, KAKINADA\n2021\nSecondary school of Education\n600/600\nPROJECTS\nSplit Expense Tracker\nDeveloped a web application to track and split group\nexpenses among friends efficiently.Implemented User\nAuthentication and Profile Management using Django's\nbuilt-in system.Designed a relational database schema\nto handle many-to-many relationships between users\nand expenses.\nStudent Information Management System\nBuilt a robust application to manage student records,\ngrades, and attendance. JavaUtilized JDBC for\nseamless database connectivity and Servlets/JSP for\nhandling server-side logic.Applied OOP principles to\nensure code reusability and maintainability.\nSTRENGTHS\nI am a good learner and listener.\nManagement skills.\nBeing punctual.\nDECLARATION\n@\nO\n,\nCONTACT\ndgnaneswar999@gmail.com\n6303813929\nKakinada, Andrapradesh\nSKILLS\nPython\nJava\nC\nMs office\nACHIEVEMENTS & AWARDS\nSecured a course completion\ncertificates from the Infosys\nspringboard such as flutter and\npython and c.\nI here by declare that all the details provided above\naretrue to the best of my knowledge"
+      },
+      "adaptive_enabled": true,
+      "adaptive_started": false,
+      "max_questions": 6,
+      "current_question_count": 3,
+      "candidate_strength": "unknown",
+      "adaptive_context": {
+        "asked_questions": [],
+        "scores": [],
+        "strong_topics": [],
+        "weak_topics": [],
+        "current_difficulty": "medium"
+      }
+    },
+    "58750203-443b-405d-8b0b-7560ad3c9259": {
+      "id": "58750203-443b-405d-8b0b-7560ad3c9259",
+      "candidate_id": "26895fff-3325-400f-802a-bf8fdb8ee686",
+      "status": "active",
+      "started_at": "2026-05-28 10:37:25.998443",
+      "questions": [
+        {
+          "id": "",
+          "text": "Hi Likhi, welcome! I'm your AI interviewer for today, and I'm looking forward to our discussion. Could you start by telling me a little about yourself?",
+          "type": "behavioral",
+          "difficulty": "easy",
+          "section": "Introduction",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "In your Split Expense Tracker project, you mentioned implementing User Authentication and Profile Management using Django's built-in system. Could you walk me through the process of how you integrated Django's authentication system, specifically mentioning any custom models or forms you might have created or extended for profile management beyond the basic user model?",
+          "type": "technical",
+          "difficulty": "medium",
+          "section": "Coding",
+          "follow_up_to": null,
+          "expected_topics": [
+            "Django Authentication",
+            "Django Models",
+            "Python",
+            "Web Development"
+          ],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "For your Student Information Management System, you stated that you utilized JDBC for seamless database connectivity. Can you explain the main components of JDBC, how you establish a connection to a database, and the typical flow of executing SQL queries (like inserting or retrieving data) using JDBC in a Java application?",
+          "type": "technical",
+          "difficulty": "medium",
+          "section": "Conceptual",
+          "follow_up_to": null,
+          "expected_topics": [
+            "JDBC",
+            "Java",
+            "Database Connectivity",
+            "SQL"
+          ],
+          "adaptive": false,
+          "generated_from": null
+        }
+      ],
+      "profile": {
+        "topic": "Python",
+        "target_role": "Software Engineer",
+        "experience_level": "Junior (0-2 years)",
+        "candidate_name": "likhi",
+        "resume_text": "GNANESWAR DOWLURI\nOBJECTIVE\nSeeking for an opportunity where I can explore my\nknowledge by learning new things and contribute best to\nthe organization's growth.\nEDUCATION\nJAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY\nGURAJADA, VIZIANAGARAM\nPursuing\nBachelor of Technology (B.Tech)\n7.5\nNARAYANA JUNIOR COLLEGE, KAKINADA\n2021-2023\nIntermediate (B\u0399\u0395\u0391\u03a1)\n930/1000\nBHASHYAM PUBLIC SCHOOL, KAKINADA\n2021\nSecondary school of Education\n600/600\nPROJECTS\nSplit Expense Tracker\nDeveloped a web application to track and split group\nexpenses among friends efficiently.Implemented User\nAuthentication and Profile Management using Django's\nbuilt-in system.Designed a relational database schema\nto handle many-to-many relationships between users\nand expenses.\nStudent Information Management System\nBuilt a robust application to manage student records,\ngrades, and attendance. JavaUtilized JDBC for\nseamless database connectivity and Servlets/JSP for\nhandling server-side logic.Applied OOP principles to\nensure code reusability and maintainability.\nSTRENGTHS\nI am a good learner and listener.\nManagement skills.\nBeing punctual.\nDECLARATION\n@\nO\n,\nCONTACT\ndgnaneswar999@gmail.com\n6303813929\nKakinada, Andrapradesh\nSKILLS\nPython\nJava\nC\nMs office\nACHIEVEMENTS & AWARDS\nSecured a course completion\ncertificates from the Infosys\nspringboard such as flutter and\npython and c.\nI here by declare that all the details provided above\naretrue to the best of my knowledge"
+      },
+      "adaptive_enabled": true,
+      "adaptive_started": false,
+      "max_questions": 6,
+      "current_question_count": 3,
+      "candidate_strength": "unknown",
+      "adaptive_context": {
+        "asked_questions": [],
+        "scores": [],
+        "strong_topics": [],
+        "weak_topics": [],
+        "current_difficulty": "medium"
+      }
+    },
+    "cc8c7ab3-c0bc-4567-b3ca-08b1dc4fbd9b": {
+      "id": "cc8c7ab3-c0bc-4567-b3ca-08b1dc4fbd9b",
+      "candidate_id": "26895fff-3325-400f-802a-bf8fdb8ee686",
+      "status": "active",
+      "started_at": "2026-05-28 10:40:22.739156",
+      "questions": [
+        {
+          "id": "",
+          "text": "Hi Likhi, it's great to meet you! I'm your AI interviewer for this session. Could you start by telling me a little about yourself?",
+          "type": "behavioral",
+          "difficulty": "easy",
+          "section": "Introduction",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "In your 'Split Expense Tracker' project, you mentioned implementing User Authentication and Profile Management using Django's built-in system. Can you walk me through how Django handles user authentication and profile management internally, and discuss any specific configurations or customizations you made to integrate it effectively into your application?",
+          "type": "technical",
+          "difficulty": "medium",
+          "section": "Conceptual",
+          "follow_up_to": null,
+          "expected_topics": [
+            "Django authentication",
+            "Django user model",
+            "User profiles",
+            "Database integration"
+          ],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "You designed a relational database schema for your 'Split Expense Tracker' to handle many-to-many relationships between users and expenses. Can you explain the concept of a many-to-many relationship in a relational database and illustrate with an example how you would typically model this using SQL tables and foreign keys?",
+          "type": "technical",
+          "difficulty": "medium",
+          "section": "Conceptual",
+          "follow_up_to": null,
+          "expected_topics": [
+            "Relational database design",
+            "Many-to-many relationships",
+            "Junction tables",
+            "Foreign keys",
+            "SQL schema"
+          ],
+          "adaptive": false,
+          "generated_from": null
+        }
+      ],
+      "profile": {
+        "topic": "Python",
+        "target_role": "Software Engineer",
+        "experience_level": "Junior (0-2 years)",
+        "candidate_name": "likhi",
+        "resume_text": "GNANESWAR DOWLURI\nOBJECTIVE\nSeeking for an opportunity where I can explore my\nknowledge by learning new things and contribute best to\nthe organization's growth.\nEDUCATION\nJAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY\nGURAJADA, VIZIANAGARAM\nPursuing\nBachelor of Technology (B.Tech)\n7.5\nNARAYANA JUNIOR COLLEGE, KAKINADA\n2021-2023\nIntermediate (B\u0399\u0395\u0391\u03a1)\n930/1000\nBHASHYAM PUBLIC SCHOOL, KAKINADA\n2021\nSecondary school of Education\n600/600\nPROJECTS\nSplit Expense Tracker\nDeveloped a web application to track and split group\nexpenses among friends efficiently.Implemented User\nAuthentication and Profile Management using Django's\nbuilt-in system.Designed a relational database schema\nto handle many-to-many relationships between users\nand expenses.\nStudent Information Management System\nBuilt a robust application to manage student records,\ngrades, and attendance. JavaUtilized JDBC for\nseamless database connectivity and Servlets/JSP for\nhandling server-side logic.Applied OOP principles to\nensure code reusability and maintainability.\nSTRENGTHS\nI am a good learner and listener.\nManagement skills.\nBeing punctual.\nDECLARATION\n@\nO\n,\nCONTACT\ndgnaneswar999@gmail.com\n6303813929\nKakinada, Andrapradesh\nSKILLS\nPython\nJava\nC\nMs office\nACHIEVEMENTS & AWARDS\nSecured a course completion\ncertificates from the Infosys\nspringboard such as flutter and\npython and c.\nI here by declare that all the details provided above\naretrue to the best of my knowledge"
+      },
+      "adaptive_enabled": true,
+      "adaptive_started": false,
+      "max_questions": 6,
+      "current_question_count": 3,
+      "candidate_strength": "unknown",
+      "adaptive_context": {
+        "asked_questions": [],
+        "scores": [],
+        "strong_topics": [],
+        "weak_topics": [],
+        "current_difficulty": "medium"
+      }
+    },
+    "2ef4066a-18d2-4c08-935b-5fde536292d6": {
+      "id": "2ef4066a-18d2-4c08-935b-5fde536292d6",
+      "candidate_id": "26895fff-3325-400f-802a-bf8fdb8ee686",
+      "status": "failed",
+      "started_at": "2026-05-28 10:40:40.080883",
+      "questions": [
+        {
+          "id": "",
+          "text": "Hi Likhi, welcome! I'm your AI interviewer for today, and I'm looking forward to our conversation. Could you start by telling me a little about yourself?",
+          "type": "behavioral",
+          "difficulty": "easy",
+          "section": "Introduction",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "You mentioned developing a relational database schema for your 'Split Expense Tracker' project to handle many-to-many relationships between users and expenses. Can you elaborate on the specific tables you designed and how you structured their relationships (e.g., using an intermediary table) to manage group expenses and user participations efficiently?",
+          "type": "technical",
+          "difficulty": "medium",
+          "section": "Conceptual",
+          "follow_up_to": null,
+          "expected_topics": [
+            "Relational Database Design",
+            "Many-to-Many Relationships",
+            "Schema Design",
+            "SQL Concepts"
+          ],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "In your 'Student Information Management System', you stated you applied Object-Oriented Programming (OOP) principles. Can you explain how you utilized polymorphism or inheritance in that project to ensure code reusability or maintainability, providing a concrete example from your implementation?",
+          "type": "technical",
+          "difficulty": "medium",
+          "section": "Conceptual",
+          "follow_up_to": null,
+          "expected_topics": [
+            "OOP Principles",
+            "Polymorphism",
+            "Inheritance",
+            "Java"
+          ],
+          "adaptive": false,
+          "generated_from": null
+        }
+      ],
+      "profile": {
+        "topic": "Python",
+        "target_role": "Software Engineer",
+        "experience_level": "Junior (0-2 years)",
+        "candidate_name": "likhi",
+        "resume_text": "GNANESWAR DOWLURI\nOBJECTIVE\nSeeking for an opportunity where I can explore my\nknowledge by learning new things and contribute best to\nthe organization's growth.\nEDUCATION\nJAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY\nGURAJADA, VIZIANAGARAM\nPursuing\nBachelor of Technology (B.Tech)\n7.5\nNARAYANA JUNIOR COLLEGE, KAKINADA\n2021-2023\nIntermediate (B\u0399\u0395\u0391\u03a1)\n930/1000\nBHASHYAM PUBLIC SCHOOL, KAKINADA\n2021\nSecondary school of Education\n600/600\nPROJECTS\nSplit Expense Tracker\nDeveloped a web application to track and split group\nexpenses among friends efficiently.Implemented User\nAuthentication and Profile Management using Django's\nbuilt-in system.Designed a relational database schema\nto handle many-to-many relationships between users\nand expenses.\nStudent Information Management System\nBuilt a robust application to manage student records,\ngrades, and attendance. JavaUtilized JDBC for\nseamless database connectivity and Servlets/JSP for\nhandling server-side logic.Applied OOP principles to\nensure code reusability and maintainability.\nSTRENGTHS\nI am a good learner and listener.\nManagement skills.\nBeing punctual.\nDECLARATION\n@\nO\n,\nCONTACT\ndgnaneswar999@gmail.com\n6303813929\nKakinada, Andrapradesh\nSKILLS\nPython\nJava\nC\nMs office\nACHIEVEMENTS & AWARDS\nSecured a course completion\ncertificates from the Infosys\nspringboard such as flutter and\npython and c.\nI here by declare that all the details provided above\naretrue to the best of my knowledge"
+      },
+      "adaptive_enabled": true,
+      "adaptive_started": false,
+      "max_questions": 6,
+      "current_question_count": 3,
+      "candidate_strength": "unknown",
+      "adaptive_context": {
+        "asked_questions": [],
+        "scores": [],
+        "strong_topics": [],
+        "weak_topics": [],
+        "current_difficulty": "medium"
+      },
+      "failure_reason": "Exceeded maximum proctoring warnings (3)"
+    },
+    "40bbf18a-bccb-4519-95fe-a6f5679e5c04": {
+      "id": "40bbf18a-bccb-4519-95fe-a6f5679e5c04",
+      "candidate_id": "c35e9fa3-5651-44ac-9c18-ab4ad6abbe8a",
+      "status": "failed",
+      "started_at": "2026-05-28 10:53:21.998193",
+      "questions": [
+        {
+          "id": "",
+          "text": "Hi Pravallika, welcome! I'm your AI interviewer for today, and I'm looking forward to our technical discussion. Could you start by telling me a little about yourself?",
+          "type": "behavioral",
+          "difficulty": "easy",
+          "section": "Introduction",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "In your CODEC Technologies internship, you were responsible for developing and deploying several backend REST APIs using Python and Flask. Could you choose one of these APIs and walk me through its purpose, how you designed its core endpoints, and specifically describe the implementation details of the data validation and transformation pipelines you built to handle large volumes of daily records?",
+          "type": "technical",
+          "difficulty": "medium",
+          "section": "Coding",
+          "follow_up_to": null,
+          "expected_topics": [
+            "Python",
+            "Flask",
+            "REST APIs",
+            "Data Validation",
+            "Data Transformation",
+            "Error Handling"
+          ],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "During your Youngbot Academy internship, you mentioned optimizing UI performance for React.js components through techniques like code optimization and lazy loading. Can you explain the concept of lazy loading in React.js, how you might implement it using built-in React features, and discuss a practical scenario where it significantly enhances the user experience?",
+          "type": "technical",
+          "difficulty": "medium",
+          "section": "Conceptual",
+          "follow_up_to": null,
+          "expected_topics": [
+            "React.js",
+            "Lazy Loading",
+            "JavaScript",
+            "Performance Optimization"
+          ],
+          "adaptive": false,
+          "generated_from": null
+        }
+      ],
+      "profile": {
+        "topic": "Python",
+        "target_role": "Software Engineer",
+        "experience_level": "Junior (0-2 years)",
+        "candidate_name": "pravallika",
+        "resume_text": "PRAVALLIKA KUNDUM\nPhone: +91 9492830679 \u2014 Email: pravallikakundum18@gmail.com \u2014 GitHub: https://github.com/VALLI-0114\nLinkedIn: https://www.linkedin.com/in/kundum-pravallika-4a1249296 \u2014 LeetCode: https://leetcode.com/u/pravalli01/\nEducation\nJawaharlal Nehru Technological University Gurajada Vizianagaram Vizianagaram, India\n2023 \u2013 2027\nBachelor of Technology in Information Technology; CGPA: 8.00\nTechnical Skills\nLanguages: Python, C, C++, R, JavaScript\nFrameworks: React.js, Node.js, Express.js, Django, Flask\nAI / ML: TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib\nDatabases: MySQL, SQLite\nTools: Git, Power BI, Postman, Jupyter Notebook, n8n\nEngineering: REST APIs, System Design, Automation, Data Analytics, Software Architecture\nProfessional Skills: Problem Solving, Analytical Thinking, Technical Communication, Team Collaboration, Time Management,\nAdaptability\nProfessional Experience\nEdunet Foundation (AICTE \u2013 IBM SkillsBuild) Remote\nJun 2025 \u2013 Jul 2025\nAI & Data Analytics Intern\nImplemented supervised and unsupervised ML models for predictive analytics improving model accuracy by 15% through feature\nengineering and hyperparameter tuning.\nPerformed end-to-end data preprocessing, feature engineering, and model evaluation workflows reducing data processing time by\n30%.\nCreated analytical dashboards and data visualization plots enabling data-driven decision-making for business stakeholders.\nTechnologies Used: Python, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Jupyter Notebook\nCODEC Technologies (Google Partner) Remote\nMar 2025 \u2013 Apr 2025\nPython Developer Intern\nDeveloped and deployed 5+ backend REST APIs automating data-processing workflows and reducing manual effort by 40%.\nBuilt robust data validation and transformation pipelines in Python processing 50,000+ records daily with 99% accuracy.\nImproved code reliability and maintainability by 35% through implementation of modular design patterns and comprehensive\nexception handling.\nTechnologies Used: Python, Flask, REST APIs, Git, Software Design Patterns\nYoungbot Academy Remote\nOct 2024 \u2013 Nov 2024\nWeb Developer Intern\nBuilt responsive, mobile-first UI components using React.js improving page load performance by 35% through code optimization and\nlazy loading.\nIntegrated REST APIs and implemented secure authentication workflows supporting 1,000+ active users.\nOptimized UI performance and responsive layouts enhancing user engagement by 25% across mobile and desktop platforms.\nTechnologies Used: React.js, JavaScript, HTML5, CSS3, REST APIs, Git\nProjects\nClimateChain \u2013 Quantum-Secured Verifiable Climate Data Platform\nDesigned end-to-end platform with quantum-secured encryption and verifiable ledger architecture serving 1,000+ environmental\nresearchers worldwide.\nImplemented Quantum Random Number Generation using Qiskit achieving 99.8% true randomness score with entropy analysis for\ncryptographic security.\nDeveloped AI-based drought risk prediction models achieving 89% accuracy for real-time environmental insights and climate\nforecasting.\nTechnologies: Next.js, Qiskit, Python, TensorFlow, Tailwind CSS, Recharts\nAI Agent Automation using n8n\nBuilt AI-powered conversational workflow using n8n low-code automation platform enabling intelligent query processing and\nresponse generation.\nIntegrated Groq Chat Model with contextual memory achieving 90% response accuracy for multi-turn conversations.\nConnected SerpAPI for real-time web search capabilities providing up-to-date information retrieval and fact verification.\nTechnologies: n8n, Groq Chat Model, SerpAPI, AI Agents, Workflow Automation\nEatopia \u2013 Full-Stack E-Commerce Application\nDeveloped full-stack e-commerce web application with product catalog, shopping cart, and secure checkout functionality.\nImplemented responsive UI using React.js and built RESTful backend APIs with Node.js and Express.js supporting seamless user\nexperience.\nDesigned and integrated MySQL database schema for product management, user authentication, and order processing.\nTechnologies: React.js, Node.js, Express.js, MySQL, REST APIs, JavaScript, HTML5, CSS3\nHR Analytics Dashboard\nDesigned interactive Power BI dashboard analyzing employee attrition patterns, workforce demographics, and performance trends\nacross 5,000+ employee records.\nCreated data visualizations and KPI metrics enabling HR stakeholders to identify retention risks and optimize workforce planning\nstrategies.\nTechnologies: Power BI, Data Analytics, Data Visualization, Excel\nAchievements & Certifications\nTop 20 \u2013 CitizenHack 2025 (Miracle Software Systems); 5th Place \u2013 Amaravathi Quantum Valley Hackathon 2K25.\nISAC Certified Cyber Crime Intervention Officer (CCIO); Certified in Professional Ethics at Workplace (CPEW).\nFront-End Web Developer \u2013 Infosys Springboard certified in modern web development technologies and frameworks.\nLeadership & Voluntary Experience\nDeputy Secretary, ACM Student Chapter \u2013 JNTU-GV: Coordinated technical events and workshops for 200+ students.\nVice President, Technical Lead \u2013 Dev Squad Club: Led development team delivering 3+ applications, mentored junior developers."
+      },
+      "adaptive_enabled": true,
+      "adaptive_started": false,
+      "max_questions": 6,
+      "current_question_count": 3,
+      "candidate_strength": "unknown",
+      "adaptive_context": {
+        "asked_questions": [],
+        "scores": [],
+        "strong_topics": [],
+        "weak_topics": [],
+        "current_difficulty": "medium"
+      },
+      "failure_reason": "Exceeded maximum proctoring warnings (3)"
+    },
+    "1a0e9503-f68f-4430-8195-2326e29795b2": {
+      "id": "1a0e9503-f68f-4430-8195-2326e29795b2",
+      "candidate_id": "ec405d39-caf9-4ada-84cb-faeb7cef5927",
+      "status": "failed",
+      "started_at": "2026-05-28 10:54:44.129304",
+      "questions": [
+        {
+          "id": "",
+          "text": "Hi Pravi, welcome! It's great to have you here today. I'll be your AI interviewer for this technical session. Could you start by telling me a little about yourself?",
+          "type": "behavioral",
+          "difficulty": "easy",
+          "section": "Introduction",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "Pravallika, in your role as a Python Developer Intern at CODEC Technologies, you developed and deployed several backend REST APIs. Can you describe the end-to-end process of developing one of these APIs, from understanding the requirements to implementation? Specifically, how did you design the API endpoints and integrate robust data validation and transformation pipelines to process 50,000+ records daily with 99% accuracy, keeping in mind modular design patterns and comprehensive exception handling?",
+          "type": "technical",
+          "difficulty": "medium",
+          "section": "Coding",
+          "follow_up_to": null,
+          "expected_topics": [
+            "Python",
+            "Flask",
+            "REST APIs",
+            "Data validation techniques",
+            "Exception handling",
+            "Software design patterns"
+          ],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "At Youngbot Academy, you mentioned improving page load performance by 35% in React.js applications through code optimization and lazy loading. Can you explain the core principles behind lazy loading in a React application and how it contributes to better user experience? What specific tools or techniques, beyond basic lazy loading, did you employ for 'code optimization' to achieve this performance boost?",
+          "type": "technical",
+          "difficulty": "medium",
+          "section": "Conceptual",
+          "follow_up_to": null,
+          "expected_topics": [
+            "React.js",
+            "JavaScript",
+            "Web performance",
+            "Lazy loading",
+            "Code splitting",
+            "UI optimization"
+          ],
+          "adaptive": false,
+          "generated_from": null
+        }
+      ],
+      "profile": {
+        "topic": "Python, React",
+        "target_role": "Software Engineer",
+        "experience_level": "Junior (0-2 years)",
+        "candidate_name": "pravi",
+        "resume_text": "PRAVALLIKA KUNDUM\nPhone: +91 9492830679 \u2014 Email: pravallikakundum18@gmail.com \u2014 GitHub: https://github.com/VALLI-0114\nLinkedIn: https://www.linkedin.com/in/kundum-pravallika-4a1249296 \u2014 LeetCode: https://leetcode.com/u/pravalli01/\nEducation\nJawaharlal Nehru Technological University Gurajada Vizianagaram Vizianagaram, India\n2023 \u2013 2027\nBachelor of Technology in Information Technology; CGPA: 8.00\nTechnical Skills\nLanguages: Python, C, C++, R, JavaScript\nFrameworks: React.js, Node.js, Express.js, Django, Flask\nAI / ML: TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib\nDatabases: MySQL, SQLite\nTools: Git, Power BI, Postman, Jupyter Notebook, n8n\nEngineering: REST APIs, System Design, Automation, Data Analytics, Software Architecture\nProfessional Skills: Problem Solving, Analytical Thinking, Technical Communication, Team Collaboration, Time Management,\nAdaptability\nProfessional Experience\nEdunet Foundation (AICTE \u2013 IBM SkillsBuild) Remote\nJun 2025 \u2013 Jul 2025\nAI & Data Analytics Intern\nImplemented supervised and unsupervised ML models for predictive analytics improving model accuracy by 15% through feature\nengineering and hyperparameter tuning.\nPerformed end-to-end data preprocessing, feature engineering, and model evaluation workflows reducing data processing time by\n30%.\nCreated analytical dashboards and data visualization plots enabling data-driven decision-making for business stakeholders.\nTechnologies Used: Python, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Jupyter Notebook\nCODEC Technologies (Google Partner) Remote\nMar 2025 \u2013 Apr 2025\nPython Developer Intern\nDeveloped and deployed 5+ backend REST APIs automating data-processing workflows and reducing manual effort by 40%.\nBuilt robust data validation and transformation pipelines in Python processing 50,000+ records daily with 99% accuracy.\nImproved code reliability and maintainability by 35% through implementation of modular design patterns and comprehensive\nexception handling.\nTechnologies Used: Python, Flask, REST APIs, Git, Software Design Patterns\nYoungbot Academy Remote\nOct 2024 \u2013 Nov 2024\nWeb Developer Intern\nBuilt responsive, mobile-first UI components using React.js improving page load performance by 35% through code optimization and\nlazy loading.\nIntegrated REST APIs and implemented secure authentication workflows supporting 1,000+ active users.\nOptimized UI performance and responsive layouts enhancing user engagement by 25% across mobile and desktop platforms.\nTechnologies Used: React.js, JavaScript, HTML5, CSS3, REST APIs, Git\nProjects\nClimateChain \u2013 Quantum-Secured Verifiable Climate Data Platform\nDesigned end-to-end platform with quantum-secured encryption and verifiable ledger architecture serving 1,000+ environmental\nresearchers worldwide.\nImplemented Quantum Random Number Generation using Qiskit achieving 99.8% true randomness score with entropy analysis for\ncryptographic security.\nDeveloped AI-based drought risk prediction models achieving 89% accuracy for real-time environmental insights and climate\nforecasting.\nTechnologies: Next.js, Qiskit, Python, TensorFlow, Tailwind CSS, Recharts\nAI Agent Automation using n8n\nBuilt AI-powered conversational workflow using n8n low-code automation platform enabling intelligent query processing and\nresponse generation.\nIntegrated Groq Chat Model with contextual memory achieving 90% response accuracy for multi-turn conversations.\nConnected SerpAPI for real-time web search capabilities providing up-to-date information retrieval and fact verification.\nTechnologies: n8n, Groq Chat Model, SerpAPI, AI Agents, Workflow Automation\nEatopia \u2013 Full-Stack E-Commerce Application\nDeveloped full-stack e-commerce web application with product catalog, shopping cart, and secure checkout functionality.\nImplemented responsive UI using React.js and built RESTful backend APIs with Node.js and Express.js supporting seamless user\nexperience.\nDesigned and integrated MySQL database schema for product management, user authentication, and order processing.\nTechnologies: React.js, Node.js, Express.js, MySQL, REST APIs, JavaScript, HTML5, CSS3\nHR Analytics Dashboard\nDesigned interactive Power BI dashboard analyzing employee attrition patterns, workforce demographics, and performance trends\nacross 5,000+ employee records.\nCreated data visualizations and KPI metrics enabling HR stakeholders to identify retention risks and optimize workforce planning\nstrategies.\nTechnologies: Power BI, Data Analytics, Data Visualization, Excel\nAchievements & Certifications\nTop 20 \u2013 CitizenHack 2025 (Miracle Software Systems); 5th Place \u2013 Amaravathi Quantum Valley Hackathon 2K25.\nISAC Certified Cyber Crime Intervention Officer (CCIO); Certified in Professional Ethics at Workplace (CPEW).\nFront-End Web Developer \u2013 Infosys Springboard certified in modern web development technologies and frameworks.\nLeadership & Voluntary Experience\nDeputy Secretary, ACM Student Chapter \u2013 JNTU-GV: Coordinated technical events and workshops for 200+ students.\nVice President, Technical Lead \u2013 Dev Squad Club: Led development team delivering 3+ applications, mentored junior developers."
+      },
+      "adaptive_enabled": true,
+      "adaptive_started": false,
+      "max_questions": 6,
+      "current_question_count": 3,
+      "candidate_strength": "unknown",
+      "adaptive_context": {
+        "asked_questions": [
+          "Hi Pravi, welcome! It's great to have you here today. I'll be your AI interviewer for this technical session. Could you start by telling me a little about yourself?",
+          "Hi Pravi, welcome! It's great to have you here today. I'll be your AI interviewer for this technical session. Could you start by telling me a little about yourself?"
+        ],
+        "scores": [
+          0.0,
+          0.0
+        ],
+        "strong_topics": [],
+        "weak_topics": [
+          "Core Concepts",
+          "Core Concepts"
+        ],
+        "current_difficulty": "medium"
+      },
+      "failure_reason": "Exceeded maximum proctoring warnings (3)"
+    },
+    "f79e840a-324e-4702-8bea-1f36765f1c73": {
+      "id": "f79e840a-324e-4702-8bea-1f36765f1c73",
+      "candidate_id": "2e5effe0-a5a3-4495-b86a-ede0cb1b663d",
+      "status": "failed",
+      "started_at": "2026-05-28 10:59:36.083392",
+      "questions": [
+        {
+          "id": "",
+          "text": "Hello prav! I'm your AI interviewer for today. Could you start by telling me a little about yourself?",
+          "type": "behavioral",
+          "difficulty": "easy",
+          "section": "Introduction",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "What challenges have you faced with Python?",
+          "type": "technical",
+          "difficulty": "medium",
+          "section": "Technical Discussion",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        }
+      ],
+      "profile": {
+        "topic": "Python",
+        "target_role": "Software Engineer",
+        "experience_level": "Junior (0-2 years)",
+        "candidate_name": "prav",
+        "resume_text": "PRAVALLIKA KUNDUM\nPhone: +91 9492830679 \u2014 Email: pravallikakundum18@gmail.com \u2014 GitHub: https://github.com/VALLI-0114\nLinkedIn: https://www.linkedin.com/in/kundum-pravallika-4a1249296 \u2014 LeetCode: https://leetcode.com/u/pravalli01/\nEducation\nJawaharlal Nehru Technological University Gurajada Vizianagaram Vizianagaram, India\n2023 \u2013 2027\nBachelor of Technology in Information Technology; CGPA: 8.00\nTechnical Skills\nLanguages: Python, C, C++, R, JavaScript\nFrameworks: React.js, Node.js, Express.js, Django, Flask\nAI / ML: TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib\nDatabases: MySQL, SQLite\nTools: Git, Power BI, Postman, Jupyter Notebook, n8n\nEngineering: REST APIs, System Design, Automation, Data Analytics, Software Architecture\nProfessional Skills: Problem Solving, Analytical Thinking, Technical Communication, Team Collaboration, Time Management,\nAdaptability\nProfessional Experience\nEdunet Foundation (AICTE \u2013 IBM SkillsBuild) Remote\nJun 2025 \u2013 Jul 2025\nAI & Data Analytics Intern\nImplemented supervised and unsupervised ML models for predictive analytics improving model accuracy by 15% through feature\nengineering and hyperparameter tuning.\nPerformed end-to-end data preprocessing, feature engineering, and model evaluation workflows reducing data processing time by\n30%.\nCreated analytical dashboards and data visualization plots enabling data-driven decision-making for business stakeholders.\nTechnologies Used: Python, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Jupyter Notebook\nCODEC Technologies (Google Partner) Remote\nMar 2025 \u2013 Apr 2025\nPython Developer Intern\nDeveloped and deployed 5+ backend REST APIs automating data-processing workflows and reducing manual effort by 40%.\nBuilt robust data validation and transformation pipelines in Python processing 50,000+ records daily with 99% accuracy.\nImproved code reliability and maintainability by 35% through implementation of modular design patterns and comprehensive\nexception handling.\nTechnologies Used: Python, Flask, REST APIs, Git, Software Design Patterns\nYoungbot Academy Remote\nOct 2024 \u2013 Nov 2024\nWeb Developer Intern\nBuilt responsive, mobile-first UI components using React.js improving page load performance by 35% through code optimization and\nlazy loading.\nIntegrated REST APIs and implemented secure authentication workflows supporting 1,000+ active users.\nOptimized UI performance and responsive layouts enhancing user engagement by 25% across mobile and desktop platforms.\nTechnologies Used: React.js, JavaScript, HTML5, CSS3, REST APIs, Git\nProjects\nClimateChain \u2013 Quantum-Secured Verifiable Climate Data Platform\nDesigned end-to-end platform with quantum-secured encryption and verifiable ledger architecture serving 1,000+ environmental\nresearchers worldwide.\nImplemented Quantum Random Number Generation using Qiskit achieving 99.8% true randomness score with entropy analysis for\ncryptographic security.\nDeveloped AI-based drought risk prediction models achieving 89% accuracy for real-time environmental insights and climate\nforecasting.\nTechnologies: Next.js, Qiskit, Python, TensorFlow, Tailwind CSS, Recharts\nAI Agent Automation using n8n\nBuilt AI-powered conversational workflow using n8n low-code automation platform enabling intelligent query processing and\nresponse generation.\nIntegrated Groq Chat Model with contextual memory achieving 90% response accuracy for multi-turn conversations.\nConnected SerpAPI for real-time web search capabilities providing up-to-date information retrieval and fact verification.\nTechnologies: n8n, Groq Chat Model, SerpAPI, AI Agents, Workflow Automation\nEatopia \u2013 Full-Stack E-Commerce Application\nDeveloped full-stack e-commerce web application with product catalog, shopping cart, and secure checkout functionality.\nImplemented responsive UI using React.js and built RESTful backend APIs with Node.js and Express.js supporting seamless user\nexperience.\nDesigned and integrated MySQL database schema for product management, user authentication, and order processing.\nTechnologies: React.js, Node.js, Express.js, MySQL, REST APIs, JavaScript, HTML5, CSS3\nHR Analytics Dashboard\nDesigned interactive Power BI dashboard analyzing employee attrition patterns, workforce demographics, and performance trends\nacross 5,000+ employee records.\nCreated data visualizations and KPI metrics enabling HR stakeholders to identify retention risks and optimize workforce planning\nstrategies.\nTechnologies: Power BI, Data Analytics, Data Visualization, Excel\nAchievements & Certifications\nTop 20 \u2013 CitizenHack 2025 (Miracle Software Systems); 5th Place \u2013 Amaravathi Quantum Valley Hackathon 2K25.\nISAC Certified Cyber Crime Intervention Officer (CCIO); Certified in Professional Ethics at Workplace (CPEW).\nFront-End Web Developer \u2013 Infosys Springboard certified in modern web development technologies and frameworks.\nLeadership & Voluntary Experience\nDeputy Secretary, ACM Student Chapter \u2013 JNTU-GV: Coordinated technical events and workshops for 200+ students.\nVice President, Technical Lead \u2013 Dev Squad Club: Led development team delivering 3+ applications, mentored junior developers."
+      },
+      "adaptive_enabled": true,
+      "adaptive_started": false,
+      "max_questions": 6,
+      "current_question_count": 2,
+      "candidate_strength": "unknown",
+      "adaptive_context": {
+        "asked_questions": [],
+        "scores": [],
+        "strong_topics": [],
+        "weak_topics": [],
+        "current_difficulty": "medium"
+      },
+      "failure_reason": "Exceeded maximum proctoring warnings (3)"
+    },
+    "6e1c3faa-44b3-4a2e-aceb-7591486f0b0a": {
+      "id": "6e1c3faa-44b3-4a2e-aceb-7591486f0b0a",
+      "candidate_id": "aa7ae35a-e0fb-4cf5-9ca7-7e840373da29",
+      "status": "failed",
+      "started_at": "2026-05-28 11:02:35.384690",
+      "questions": [
+        {
+          "id": "",
+          "text": "Hi jy, it's great to meet you. I'll be your AI interviewer for this technical session today. Could you start by telling me a little about yourself?",
+          "type": "behavioral",
+          "difficulty": "easy",
+          "section": "Introduction",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "What challenges have you faced with Python?",
+          "type": "technical",
+          "difficulty": "medium",
+          "section": "Technical Discussion",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        }
+      ],
+      "profile": {
+        "topic": "Python",
+        "target_role": "Software Engineer",
+        "experience_level": "Junior (0-2 years)",
+        "candidate_name": "jy",
+        "resume_text": "PRAVALLIKA KUNDUM\nPhone: +91 9492830679 \u2014 Email: pravallikakundum18@gmail.com \u2014 GitHub: https://github.com/VALLI-0114\nLinkedIn: https://www.linkedin.com/in/kundum-pravallika-4a1249296 \u2014 LeetCode: https://leetcode.com/u/pravalli01/\nEducation\nJawaharlal Nehru Technological University Gurajada Vizianagaram Vizianagaram, India\n2023 \u2013 2027\nBachelor of Technology in Information Technology; CGPA: 8.00\nTechnical Skills\nLanguages: Python, C, C++, R, JavaScript\nFrameworks: React.js, Node.js, Express.js, Django, Flask\nAI / ML: TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib\nDatabases: MySQL, SQLite\nTools: Git, Power BI, Postman, Jupyter Notebook, n8n\nEngineering: REST APIs, System Design, Automation, Data Analytics, Software Architecture\nProfessional Skills: Problem Solving, Analytical Thinking, Technical Communication, Team Collaboration, Time Management,\nAdaptability\nProfessional Experience\nEdunet Foundation (AICTE \u2013 IBM SkillsBuild) Remote\nJun 2025 \u2013 Jul 2025\nAI & Data Analytics Intern\nImplemented supervised and unsupervised ML models for predictive analytics improving model accuracy by 15% through feature\nengineering and hyperparameter tuning.\nPerformed end-to-end data preprocessing, feature engineering, and model evaluation workflows reducing data processing time by\n30%.\nCreated analytical dashboards and data visualization plots enabling data-driven decision-making for business stakeholders.\nTechnologies Used: Python, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Jupyter Notebook\nCODEC Technologies (Google Partner) Remote\nMar 2025 \u2013 Apr 2025\nPython Developer Intern\nDeveloped and deployed 5+ backend REST APIs automating data-processing workflows and reducing manual effort by 40%.\nBuilt robust data validation and transformation pipelines in Python processing 50,000+ records daily with 99% accuracy.\nImproved code reliability and maintainability by 35% through implementation of modular design patterns and comprehensive\nexception handling.\nTechnologies Used: Python, Flask, REST APIs, Git, Software Design Patterns\nYoungbot Academy Remote\nOct 2024 \u2013 Nov 2024\nWeb Developer Intern\nBuilt responsive, mobile-first UI components using React.js improving page load performance by 35% through code optimization and\nlazy loading.\nIntegrated REST APIs and implemented secure authentication workflows supporting 1,000+ active users.\nOptimized UI performance and responsive layouts enhancing user engagement by 25% across mobile and desktop platforms.\nTechnologies Used: React.js, JavaScript, HTML5, CSS3, REST APIs, Git\nProjects\nClimateChain \u2013 Quantum-Secured Verifiable Climate Data Platform\nDesigned end-to-end platform with quantum-secured encryption and verifiable ledger architecture serving 1,000+ environmental\nresearchers worldwide.\nImplemented Quantum Random Number Generation using Qiskit achieving 99.8% true randomness score with entropy analysis for\ncryptographic security.\nDeveloped AI-based drought risk prediction models achieving 89% accuracy for real-time environmental insights and climate\nforecasting.\nTechnologies: Next.js, Qiskit, Python, TensorFlow, Tailwind CSS, Recharts\nAI Agent Automation using n8n\nBuilt AI-powered conversational workflow using n8n low-code automation platform enabling intelligent query processing and\nresponse generation.\nIntegrated Groq Chat Model with contextual memory achieving 90% response accuracy for multi-turn conversations.\nConnected SerpAPI for real-time web search capabilities providing up-to-date information retrieval and fact verification.\nTechnologies: n8n, Groq Chat Model, SerpAPI, AI Agents, Workflow Automation\nEatopia \u2013 Full-Stack E-Commerce Application\nDeveloped full-stack e-commerce web application with product catalog, shopping cart, and secure checkout functionality.\nImplemented responsive UI using React.js and built RESTful backend APIs with Node.js and Express.js supporting seamless user\nexperience.\nDesigned and integrated MySQL database schema for product management, user authentication, and order processing.\nTechnologies: React.js, Node.js, Express.js, MySQL, REST APIs, JavaScript, HTML5, CSS3\nHR Analytics Dashboard\nDesigned interactive Power BI dashboard analyzing employee attrition patterns, workforce demographics, and performance trends\nacross 5,000+ employee records.\nCreated data visualizations and KPI metrics enabling HR stakeholders to identify retention risks and optimize workforce planning\nstrategies.\nTechnologies: Power BI, Data Analytics, Data Visualization, Excel\nAchievements & Certifications\nTop 20 \u2013 CitizenHack 2025 (Miracle Software Systems); 5th Place \u2013 Amaravathi Quantum Valley Hackathon 2K25.\nISAC Certified Cyber Crime Intervention Officer (CCIO); Certified in Professional Ethics at Workplace (CPEW).\nFront-End Web Developer \u2013 Infosys Springboard certified in modern web development technologies and frameworks.\nLeadership & Voluntary Experience\nDeputy Secretary, ACM Student Chapter \u2013 JNTU-GV: Coordinated technical events and workshops for 200+ students.\nVice President, Technical Lead \u2013 Dev Squad Club: Led development team delivering 3+ applications, mentored junior developers."
+      },
+      "adaptive_enabled": true,
+      "adaptive_started": false,
+      "max_questions": 6,
+      "current_question_count": 2,
+      "candidate_strength": "unknown",
+      "adaptive_context": {
+        "asked_questions": [
+          "Hi jy, it's great to meet you. I'll be your AI interviewer for this technical session today. Could you start by telling me a little about yourself?",
+          "Hi jy, it's great to meet you. I'll be your AI interviewer for this technical session today. Could you start by telling me a little about yourself?"
+        ],
+        "scores": [
+          0.0,
+          0.0
+        ],
+        "strong_topics": [],
+        "weak_topics": [
+          "Core Concepts",
+          "Core Concepts"
+        ],
+        "current_difficulty": "medium"
+      },
+      "failure_reason": "Exceeded maximum proctoring warnings (3)"
+    },
+    "b2cbe81c-ced7-4b34-9cd9-7f74ed948851": {
+      "id": "b2cbe81c-ced7-4b34-9cd9-7f74ed948851",
+      "candidate_id": "8f830837-6b30-4e02-a0a9-e926395c0d88",
+      "status": "failed",
+      "started_at": "2026-05-28 11:10:50.310921",
+      "questions": [
+        {
+          "id": "",
+          "text": "Hello liks! I'm your AI interviewer for today. Could you start by telling me a little about yourself?",
+          "type": "behavioral",
+          "difficulty": "easy",
+          "section": "Introduction",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "What challenges have you faced with Python, Node.js?",
+          "type": "technical",
+          "difficulty": "medium",
+          "section": "Technical Discussion",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        }
+      ],
+      "profile": {
+        "topic": "Python, Node.js",
+        "target_role": "Software Engineer",
+        "experience_level": "Junior (0-2 years)",
+        "candidate_name": "liks",
+        "resume_text": "PRAVALLIKA KUNDUM\nPhone: +91 9492830679 \u2014 Email: pravallikakundum18@gmail.com \u2014 GitHub: https://github.com/VALLI-0114\nLinkedIn: https://www.linkedin.com/in/kundum-pravallika-4a1249296 \u2014 LeetCode: https://leetcode.com/u/pravalli01/\nEducation\nJawaharlal Nehru Technological University Gurajada Vizianagaram Vizianagaram, India\n2023 \u2013 2027\nBachelor of Technology in Information Technology; CGPA: 8.00\nTechnical Skills\nLanguages: Python, C, C++, R, JavaScript\nFrameworks: React.js, Node.js, Express.js, Django, Flask\nAI / ML: TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib\nDatabases: MySQL, SQLite\nTools: Git, Power BI, Postman, Jupyter Notebook, n8n\nEngineering: REST APIs, System Design, Automation, Data Analytics, Software Architecture\nProfessional Skills: Problem Solving, Analytical Thinking, Technical Communication, Team Collaboration, Time Management,\nAdaptability\nProfessional Experience\nEdunet Foundation (AICTE \u2013 IBM SkillsBuild) Remote\nJun 2025 \u2013 Jul 2025\nAI & Data Analytics Intern\nImplemented supervised and unsupervised ML models for predictive analytics improving model accuracy by 15% through feature\nengineering and hyperparameter tuning.\nPerformed end-to-end data preprocessing, feature engineering, and model evaluation workflows reducing data processing time by\n30%.\nCreated analytical dashboards and data visualization plots enabling data-driven decision-making for business stakeholders.\nTechnologies Used: Python, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Jupyter Notebook\nCODEC Technologies (Google Partner) Remote\nMar 2025 \u2013 Apr 2025\nPython Developer Intern\nDeveloped and deployed 5+ backend REST APIs automating data-processing workflows and reducing manual effort by 40%.\nBuilt robust data validation and transformation pipelines in Python processing 50,000+ records daily with 99% accuracy.\nImproved code reliability and maintainability by 35% through implementation of modular design patterns and comprehensive\nexception handling.\nTechnologies Used: Python, Flask, REST APIs, Git, Software Design Patterns\nYoungbot Academy Remote\nOct 2024 \u2013 Nov 2024\nWeb Developer Intern\nBuilt responsive, mobile-first UI components using React.js improving page load performance by 35% through code optimization and\nlazy loading.\nIntegrated REST APIs and implemented secure authentication workflows supporting 1,000+ active users.\nOptimized UI performance and responsive layouts enhancing user engagement by 25% across mobile and desktop platforms.\nTechnologies Used: React.js, JavaScript, HTML5, CSS3, REST APIs, Git\nProjects\nClimateChain \u2013 Quantum-Secured Verifiable Climate Data Platform\nDesigned end-to-end platform with quantum-secured encryption and verifiable ledger architecture serving 1,000+ environmental\nresearchers worldwide.\nImplemented Quantum Random Number Generation using Qiskit achieving 99.8% true randomness score with entropy analysis for\ncryptographic security.\nDeveloped AI-based drought risk prediction models achieving 89% accuracy for real-time environmental insights and climate\nforecasting.\nTechnologies: Next.js, Qiskit, Python, TensorFlow, Tailwind CSS, Recharts\nAI Agent Automation using n8n\nBuilt AI-powered conversational workflow using n8n low-code automation platform enabling intelligent query processing and\nresponse generation.\nIntegrated Groq Chat Model with contextual memory achieving 90% response accuracy for multi-turn conversations.\nConnected SerpAPI for real-time web search capabilities providing up-to-date information retrieval and fact verification.\nTechnologies: n8n, Groq Chat Model, SerpAPI, AI Agents, Workflow Automation\nEatopia \u2013 Full-Stack E-Commerce Application\nDeveloped full-stack e-commerce web application with product catalog, shopping cart, and secure checkout functionality.\nImplemented responsive UI using React.js and built RESTful backend APIs with Node.js and Express.js supporting seamless user\nexperience.\nDesigned and integrated MySQL database schema for product management, user authentication, and order processing.\nTechnologies: React.js, Node.js, Express.js, MySQL, REST APIs, JavaScript, HTML5, CSS3\nHR Analytics Dashboard\nDesigned interactive Power BI dashboard analyzing employee attrition patterns, workforce demographics, and performance trends\nacross 5,000+ employee records.\nCreated data visualizations and KPI metrics enabling HR stakeholders to identify retention risks and optimize workforce planning\nstrategies.\nTechnologies: Power BI, Data Analytics, Data Visualization, Excel\nAchievements & Certifications\nTop 20 \u2013 CitizenHack 2025 (Miracle Software Systems); 5th Place \u2013 Amaravathi Quantum Valley Hackathon 2K25.\nISAC Certified Cyber Crime Intervention Officer (CCIO); Certified in Professional Ethics at Workplace (CPEW).\nFront-End Web Developer \u2013 Infosys Springboard certified in modern web development technologies and frameworks.\nLeadership & Voluntary Experience\nDeputy Secretary, ACM Student Chapter \u2013 JNTU-GV: Coordinated technical events and workshops for 200+ students.\nVice President, Technical Lead \u2013 Dev Squad Club: Led development team delivering 3+ applications, mentored junior developers."
+      },
+      "adaptive_enabled": true,
+      "adaptive_started": false,
+      "max_questions": 6,
+      "current_question_count": 2,
+      "candidate_strength": "unknown",
+      "adaptive_context": {
+        "asked_questions": [
+          "Hello liks! I'm your AI interviewer for today. Could you start by telling me a little about yourself?",
+          "Hello liks! I'm your AI interviewer for today. Could you start by telling me a little about yourself?",
+          "Hello liks! I'm your AI interviewer for today. Could you start by telling me a little about yourself?"
+        ],
+        "scores": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "strong_topics": [],
+        "weak_topics": [
+          "Core Concepts",
+          "Core Concepts",
+          "Core Concepts"
+        ],
+        "current_difficulty": "medium"
+      },
+      "failure_reason": "Exceeded maximum proctoring warnings (3)"
+    },
+    "5a68ffbe-7a82-4df3-80ae-c2543ee89909": {
+      "id": "5a68ffbe-7a82-4df3-80ae-c2543ee89909",
+      "candidate_id": "dd66726d-a36c-428d-bc85-66a6c91f100e",
+      "status": "completed",
+      "started_at": "2026-05-28 11:16:30.357345",
+      "questions": [
+        {
+          "id": "",
+          "text": "Hello parachute! I'm your AI interviewer for today. Could you start by telling me a little about yourself?",
+          "type": "behavioral",
+          "difficulty": "easy",
+          "section": "Introduction",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "What challenges have you faced with Python?",
+          "type": "technical",
+          "difficulty": "medium",
+          "section": "Technical Discussion",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        }
+      ],
+      "profile": {
+        "topic": "Python",
+        "target_role": "Software Engineer",
+        "experience_level": "Junior (0-2 years)",
+        "candidate_name": "parachute",
+        "resume_text": "PRAVALLIKA KUNDUM\nPhone: +91 9492830679 \u2014 Email: pravallikakundum18@gmail.com \u2014 GitHub: https://github.com/VALLI-0114\nLinkedIn: https://www.linkedin.com/in/kundum-pravallika-4a1249296 \u2014 LeetCode: https://leetcode.com/u/pravalli01/\nEducation\nJawaharlal Nehru Technological University Gurajada Vizianagaram Vizianagaram, India\n2023 \u2013 2027\nBachelor of Technology in Information Technology; CGPA: 8.00\nTechnical Skills\nLanguages: Python, C, C++, R, JavaScript\nFrameworks: React.js, Node.js, Express.js, Django, Flask\nAI / ML: TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib\nDatabases: MySQL, SQLite\nTools: Git, Power BI, Postman, Jupyter Notebook, n8n\nEngineering: REST APIs, System Design, Automation, Data Analytics, Software Architecture\nProfessional Skills: Problem Solving, Analytical Thinking, Technical Communication, Team Collaboration, Time Management,\nAdaptability\nProfessional Experience\nEdunet Foundation (AICTE \u2013 IBM SkillsBuild) Remote\nJun 2025 \u2013 Jul 2025\nAI & Data Analytics Intern\nImplemented supervised and unsupervised ML models for predictive analytics improving model accuracy by 15% through feature\nengineering and hyperparameter tuning.\nPerformed end-to-end data preprocessing, feature engineering, and model evaluation workflows reducing data processing time by\n30%.\nCreated analytical dashboards and data visualization plots enabling data-driven decision-making for business stakeholders.\nTechnologies Used: Python, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Jupyter Notebook\nCODEC Technologies (Google Partner) Remote\nMar 2025 \u2013 Apr 2025\nPython Developer Intern\nDeveloped and deployed 5+ backend REST APIs automating data-processing workflows and reducing manual effort by 40%.\nBuilt robust data validation and transformation pipelines in Python processing 50,000+ records daily with 99% accuracy.\nImproved code reliability and maintainability by 35% through implementation of modular design patterns and comprehensive\nexception handling.\nTechnologies Used: Python, Flask, REST APIs, Git, Software Design Patterns\nYoungbot Academy Remote\nOct 2024 \u2013 Nov 2024\nWeb Developer Intern\nBuilt responsive, mobile-first UI components using React.js improving page load performance by 35% through code optimization and\nlazy loading.\nIntegrated REST APIs and implemented secure authentication workflows supporting 1,000+ active users.\nOptimized UI performance and responsive layouts enhancing user engagement by 25% across mobile and desktop platforms.\nTechnologies Used: React.js, JavaScript, HTML5, CSS3, REST APIs, Git\nProjects\nClimateChain \u2013 Quantum-Secured Verifiable Climate Data Platform\nDesigned end-to-end platform with quantum-secured encryption and verifiable ledger architecture serving 1,000+ environmental\nresearchers worldwide.\nImplemented Quantum Random Number Generation using Qiskit achieving 99.8% true randomness score with entropy analysis for\ncryptographic security.\nDeveloped AI-based drought risk prediction models achieving 89% accuracy for real-time environmental insights and climate\nforecasting.\nTechnologies: Next.js, Qiskit, Python, TensorFlow, Tailwind CSS, Recharts\nAI Agent Automation using n8n\nBuilt AI-powered conversational workflow using n8n low-code automation platform enabling intelligent query processing and\nresponse generation.\nIntegrated Groq Chat Model with contextual memory achieving 90% response accuracy for multi-turn conversations.\nConnected SerpAPI for real-time web search capabilities providing up-to-date information retrieval and fact verification.\nTechnologies: n8n, Groq Chat Model, SerpAPI, AI Agents, Workflow Automation\nEatopia \u2013 Full-Stack E-Commerce Application\nDeveloped full-stack e-commerce web application with product catalog, shopping cart, and secure checkout functionality.\nImplemented responsive UI using React.js and built RESTful backend APIs with Node.js and Express.js supporting seamless user\nexperience.\nDesigned and integrated MySQL database schema for product management, user authentication, and order processing.\nTechnologies: React.js, Node.js, Express.js, MySQL, REST APIs, JavaScript, HTML5, CSS3\nHR Analytics Dashboard\nDesigned interactive Power BI dashboard analyzing employee attrition patterns, workforce demographics, and performance trends\nacross 5,000+ employee records.\nCreated data visualizations and KPI metrics enabling HR stakeholders to identify retention risks and optimize workforce planning\nstrategies.\nTechnologies: Power BI, Data Analytics, Data Visualization, Excel\nAchievements & Certifications\nTop 20 \u2013 CitizenHack 2025 (Miracle Software Systems); 5th Place \u2013 Amaravathi Quantum Valley Hackathon 2K25.\nISAC Certified Cyber Crime Intervention Officer (CCIO); Certified in Professional Ethics at Workplace (CPEW).\nFront-End Web Developer \u2013 Infosys Springboard certified in modern web development technologies and frameworks.\nLeadership & Voluntary Experience\nDeputy Secretary, ACM Student Chapter \u2013 JNTU-GV: Coordinated technical events and workshops for 200+ students.\nVice President, Technical Lead \u2013 Dev Squad Club: Led development team delivering 3+ applications, mentored junior developers."
+      },
+      "adaptive_enabled": true,
+      "adaptive_started": false,
+      "max_questions": 6,
+      "current_question_count": 2,
+      "candidate_strength": "unknown",
+      "adaptive_context": {
+        "asked_questions": [
+          "Hello parachute! I'm your AI interviewer for today. Could you start by telling me a little about yourself?",
+          "What challenges have you faced with Python?"
+        ],
+        "scores": [
+          0.0,
+          0.0
+        ],
+        "strong_topics": [],
+        "weak_topics": [
+          "Core Concepts",
+          "Core Concepts"
+        ],
+        "current_difficulty": "medium"
+      },
+      "ended_at": "2026-05-28 11:17:22.415774",
+      "ai_feedback": "Overall score: 0.0. Candidate showed reasonable effort."
+    },
+    "c88e71f7-ca0a-4514-b0ef-26baa8d74202": {
+      "id": "c88e71f7-ca0a-4514-b0ef-26baa8d74202",
+      "candidate_id": "915dffa9-db7e-432d-8684-3f2d4e5fbf76",
+      "status": "completed",
+      "started_at": "2026-05-28 11:29:59.114279",
+      "questions": [
+        {
+          "id": "",
+          "text": "Hello lik! I'm your AI interviewer for today. Could you start by telling me a little about yourself?",
+          "type": "behavioral",
+          "difficulty": "easy",
+          "section": "Introduction",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "What challenges have you faced with Python, C?",
+          "type": "technical",
+          "difficulty": "medium",
+          "section": "Technical Discussion",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        }
+      ],
+      "profile": {
+        "topic": "Python, C",
+        "target_role": "Software Engineer",
+        "experience_level": "Junior (0-2 years)",
+        "candidate_name": "lik",
+        "resume_text": "PRAVALLIKA KUNDUM\nPhone: +91 9492830679 \u2014 Email: pravallikakundum18@gmail.com \u2014 GitHub: https://github.com/VALLI-0114\nLinkedIn: https://www.linkedin.com/in/kundum-pravallika-4a1249296 \u2014 LeetCode: https://leetcode.com/u/pravalli01/\nEducation\nJawaharlal Nehru Technological University Gurajada Vizianagaram Vizianagaram, India\n2023 \u2013 2027\nBachelor of Technology in Information Technology; CGPA: 8.00\nTechnical Skills\nLanguages: Python, C, C++, R, JavaScript\nFrameworks: React.js, Node.js, Express.js, Django, Flask\nAI / ML: TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib\nDatabases: MySQL, SQLite\nTools: Git, Power BI, Postman, Jupyter Notebook, n8n\nEngineering: REST APIs, System Design, Automation, Data Analytics, Software Architecture\nProfessional Skills: Problem Solving, Analytical Thinking, Technical Communication, Team Collaboration, Time Management,\nAdaptability\nProfessional Experience\nEdunet Foundation (AICTE \u2013 IBM SkillsBuild) Remote\nJun 2025 \u2013 Jul 2025\nAI & Data Analytics Intern\nImplemented supervised and unsupervised ML models for predictive analytics improving model accuracy by 15% through feature\nengineering and hyperparameter tuning.\nPerformed end-to-end data preprocessing, feature engineering, and model evaluation workflows reducing data processing time by\n30%.\nCreated analytical dashboards and data visualization plots enabling data-driven decision-making for business stakeholders.\nTechnologies Used: Python, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Jupyter Notebook\nCODEC Technologies (Google Partner) Remote\nMar 2025 \u2013 Apr 2025\nPython Developer Intern\nDeveloped and deployed 5+ backend REST APIs automating data-processing workflows and reducing manual effort by 40%.\nBuilt robust data validation and transformation pipelines in Python processing 50,000+ records daily with 99% accuracy.\nImproved code reliability and maintainability by 35% through implementation of modular design patterns and comprehensive\nexception handling.\nTechnologies Used: Python, Flask, REST APIs, Git, Software Design Patterns\nYoungbot Academy Remote\nOct 2024 \u2013 Nov 2024\nWeb Developer Intern\nBuilt responsive, mobile-first UI components using React.js improving page load performance by 35% through code optimization and\nlazy loading.\nIntegrated REST APIs and implemented secure authentication workflows supporting 1,000+ active users.\nOptimized UI performance and responsive layouts enhancing user engagement by 25% across mobile and desktop platforms.\nTechnologies Used: React.js, JavaScript, HTML5, CSS3, REST APIs, Git\nProjects\nClimateChain \u2013 Quantum-Secured Verifiable Climate Data Platform\nDesigned end-to-end platform with quantum-secured encryption and verifiable ledger architecture serving 1,000+ environmental\nresearchers worldwide.\nImplemented Quantum Random Number Generation using Qiskit achieving 99.8% true randomness score with entropy analysis for\ncryptographic security.\nDeveloped AI-based drought risk prediction models achieving 89% accuracy for real-time environmental insights and climate\nforecasting.\nTechnologies: Next.js, Qiskit, Python, TensorFlow, Tailwind CSS, Recharts\nAI Agent Automation using n8n\nBuilt AI-powered conversational workflow using n8n low-code automation platform enabling intelligent query processing and\nresponse generation.\nIntegrated Groq Chat Model with contextual memory achieving 90% response accuracy for multi-turn conversations.\nConnected SerpAPI for real-time web search capabilities providing up-to-date information retrieval and fact verification.\nTechnologies: n8n, Groq Chat Model, SerpAPI, AI Agents, Workflow Automation\nEatopia \u2013 Full-Stack E-Commerce Application\nDeveloped full-stack e-commerce web application with product catalog, shopping cart, and secure checkout functionality.\nImplemented responsive UI using React.js and built RESTful backend APIs with Node.js and Express.js supporting seamless user\nexperience.\nDesigned and integrated MySQL database schema for product management, user authentication, and order processing.\nTechnologies: React.js, Node.js, Express.js, MySQL, REST APIs, JavaScript, HTML5, CSS3\nHR Analytics Dashboard\nDesigned interactive Power BI dashboard analyzing employee attrition patterns, workforce demographics, and performance trends\nacross 5,000+ employee records.\nCreated data visualizations and KPI metrics enabling HR stakeholders to identify retention risks and optimize workforce planning\nstrategies.\nTechnologies: Power BI, Data Analytics, Data Visualization, Excel\nAchievements & Certifications\nTop 20 \u2013 CitizenHack 2025 (Miracle Software Systems); 5th Place \u2013 Amaravathi Quantum Valley Hackathon 2K25.\nISAC Certified Cyber Crime Intervention Officer (CCIO); Certified in Professional Ethics at Workplace (CPEW).\nFront-End Web Developer \u2013 Infosys Springboard certified in modern web development technologies and frameworks.\nLeadership & Voluntary Experience\nDeputy Secretary, ACM Student Chapter \u2013 JNTU-GV: Coordinated technical events and workshops for 200+ students.\nVice President, Technical Lead \u2013 Dev Squad Club: Led development team delivering 3+ applications, mentored junior developers."
+      },
+      "adaptive_enabled": true,
+      "adaptive_started": false,
+      "max_questions": 6,
+      "current_question_count": 2,
+      "candidate_strength": "unknown",
+      "adaptive_context": {
+        "asked_questions": [
+          "Hello lik! I'm your AI interviewer for today. Could you start by telling me a little about yourself?",
+          "What challenges have you faced with Python, C?"
+        ],
+        "scores": [
+          0.0,
+          0.0
+        ],
+        "strong_topics": [],
+        "weak_topics": [
+          "Core Concepts",
+          "Core Concepts"
+        ],
+        "current_difficulty": "medium"
+      },
+      "ended_at": "2026-05-28 11:31:06.796253",
+      "ai_feedback": "Overall score: 0.0. Candidate showed reasonable effort."
+    },
+    "e26ed27f-48ed-48a9-8d06-7d21426c697e": {
+      "id": "e26ed27f-48ed-48a9-8d06-7d21426c697e",
+      "candidate_id": "a5144bef-2613-4d67-ae3f-098eb7a4c6fb",
+      "status": "completed",
+      "started_at": "2026-05-28 11:36:30.941749",
+      "questions": [
+        {
+          "id": "",
+          "text": "Hello jkl! I'm your AI interviewer for today. Could you start by telling me a little about yourself?",
+          "type": "behavioral",
+          "difficulty": "easy",
+          "section": "Introduction",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "Can you describe your experience with Python and how you've used it in a project?",
+          "type": "technical",
+          "difficulty": "easy",
+          "section": "Conceptual",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "What are the core principles and advantages of using Python compared to alternatives?",
+          "type": "technical",
+          "difficulty": "medium",
+          "section": "Conceptual",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "How would you approach debugging a critical performance issue in a Python application?",
+          "type": "technical",
+          "difficulty": "medium",
+          "section": "Coding",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "Describe a time when you had to optimize Python code. What specific steps did you take?",
+          "type": "technical",
+          "difficulty": "hard",
+          "section": "Coding",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "How would you design a scalable architecture using Python?",
+          "type": "technical",
+          "difficulty": "hard",
+          "section": "System Design",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        }
+      ],
+      "profile": {
+        "topic": "Python",
+        "target_role": "Software Engineer",
+        "experience_level": "Junior (0-2 years)",
+        "candidate_name": "jkl",
+        "resume_text": "PRAVALLIKA KUNDUM\nPhone: +91 9492830679 \u2014 Email: pravallikakundum18@gmail.com \u2014 GitHub: https://github.com/VALLI-0114\nLinkedIn: https://www.linkedin.com/in/kundum-pravallika-4a1249296 \u2014 LeetCode: https://leetcode.com/u/pravalli01/\nEducation\nJawaharlal Nehru Technological University Gurajada Vizianagaram Vizianagaram, India\n2023 \u2013 2027\nBachelor of Technology in Information Technology; CGPA: 8.00\nTechnical Skills\nLanguages: Python, C, C++, R, JavaScript\nFrameworks: React.js, Node.js, Express.js, Django, Flask\nAI / ML: TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib\nDatabases: MySQL, SQLite\nTools: Git, Power BI, Postman, Jupyter Notebook, n8n\nEngineering: REST APIs, System Design, Automation, Data Analytics, Software Architecture\nProfessional Skills: Problem Solving, Analytical Thinking, Technical Communication, Team Collaboration, Time Management,\nAdaptability\nProfessional Experience\nEdunet Foundation (AICTE \u2013 IBM SkillsBuild) Remote\nJun 2025 \u2013 Jul 2025\nAI & Data Analytics Intern\nImplemented supervised and unsupervised ML models for predictive analytics improving model accuracy by 15% through feature\nengineering and hyperparameter tuning.\nPerformed end-to-end data preprocessing, feature engineering, and model evaluation workflows reducing data processing time by\n30%.\nCreated analytical dashboards and data visualization plots enabling data-driven decision-making for business stakeholders.\nTechnologies Used: Python, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Jupyter Notebook\nCODEC Technologies (Google Partner) Remote\nMar 2025 \u2013 Apr 2025\nPython Developer Intern\nDeveloped and deployed 5+ backend REST APIs automating data-processing workflows and reducing manual effort by 40%.\nBuilt robust data validation and transformation pipelines in Python processing 50,000+ records daily with 99% accuracy.\nImproved code reliability and maintainability by 35% through implementation of modular design patterns and comprehensive\nexception handling.\nTechnologies Used: Python, Flask, REST APIs, Git, Software Design Patterns\nYoungbot Academy Remote\nOct 2024 \u2013 Nov 2024\nWeb Developer Intern\nBuilt responsive, mobile-first UI components using React.js improving page load performance by 35% through code optimization and\nlazy loading.\nIntegrated REST APIs and implemented secure authentication workflows supporting 1,000+ active users.\nOptimized UI performance and responsive layouts enhancing user engagement by 25% across mobile and desktop platforms.\nTechnologies Used: React.js, JavaScript, HTML5, CSS3, REST APIs, Git\nProjects\nClimateChain \u2013 Quantum-Secured Verifiable Climate Data Platform\nDesigned end-to-end platform with quantum-secured encryption and verifiable ledger architecture serving 1,000+ environmental\nresearchers worldwide.\nImplemented Quantum Random Number Generation using Qiskit achieving 99.8% true randomness score with entropy analysis for\ncryptographic security.\nDeveloped AI-based drought risk prediction models achieving 89% accuracy for real-time environmental insights and climate\nforecasting.\nTechnologies: Next.js, Qiskit, Python, TensorFlow, Tailwind CSS, Recharts\nAI Agent Automation using n8n\nBuilt AI-powered conversational workflow using n8n low-code automation platform enabling intelligent query processing and\nresponse generation.\nIntegrated Groq Chat Model with contextual memory achieving 90% response accuracy for multi-turn conversations.\nConnected SerpAPI for real-time web search capabilities providing up-to-date information retrieval and fact verification.\nTechnologies: n8n, Groq Chat Model, SerpAPI, AI Agents, Workflow Automation\nEatopia \u2013 Full-Stack E-Commerce Application\nDeveloped full-stack e-commerce web application with product catalog, shopping cart, and secure checkout functionality.\nImplemented responsive UI using React.js and built RESTful backend APIs with Node.js and Express.js supporting seamless user\nexperience.\nDesigned and integrated MySQL database schema for product management, user authentication, and order processing.\nTechnologies: React.js, Node.js, Express.js, MySQL, REST APIs, JavaScript, HTML5, CSS3\nHR Analytics Dashboard\nDesigned interactive Power BI dashboard analyzing employee attrition patterns, workforce demographics, and performance trends\nacross 5,000+ employee records.\nCreated data visualizations and KPI metrics enabling HR stakeholders to identify retention risks and optimize workforce planning\nstrategies.\nTechnologies: Power BI, Data Analytics, Data Visualization, Excel\nAchievements & Certifications\nTop 20 \u2013 CitizenHack 2025 (Miracle Software Systems); 5th Place \u2013 Amaravathi Quantum Valley Hackathon 2K25.\nISAC Certified Cyber Crime Intervention Officer (CCIO); Certified in Professional Ethics at Workplace (CPEW).\nFront-End Web Developer \u2013 Infosys Springboard certified in modern web development technologies and frameworks.\nLeadership & Voluntary Experience\nDeputy Secretary, ACM Student Chapter \u2013 JNTU-GV: Coordinated technical events and workshops for 200+ students.\nVice President, Technical Lead \u2013 Dev Squad Club: Led development team delivering 3+ applications, mentored junior developers."
+      },
+      "adaptive_enabled": true,
+      "adaptive_started": false,
+      "max_questions": 6,
+      "current_question_count": 6,
+      "candidate_strength": "unknown",
+      "adaptive_context": {
+        "asked_questions": [
+          "Hello jkl! I'm your AI interviewer for today. Could you start by telling me a little about yourself?",
+          "Can you describe your experience with Python and how you've used it in a project?",
+          "What are the core principles and advantages of using Python compared to alternatives?",
+          "How would you approach debugging a critical performance issue in a Python application?",
+          "Describe a time when you had to optimize Python code. What specific steps did you take?",
+          "How would you design a scalable architecture using Python?"
+        ],
+        "scores": [
+          0.0,
+          0.0,
+          0.0,
+          60.0,
+          60.0,
+          0.0
+        ],
+        "strong_topics": [],
+        "weak_topics": [
+          "Core Concepts",
+          "Core Concepts",
+          "Core Concepts",
+          "Core Concepts"
+        ],
+        "current_difficulty": "medium"
+      },
+      "ended_at": "2026-05-28 11:37:49.440777",
+      "ai_feedback": "Overall score: 20.0. Candidate showed reasonable effort."
+    },
+    "4623f849-fd7d-4742-baf4-09fc9a823bf5": {
+      "id": "4623f849-fd7d-4742-baf4-09fc9a823bf5",
+      "candidate_id": "418695f7-8caf-4c80-b911-178310fd661c",
+      "status": "failed",
+      "started_at": "2026-05-28 11:46:00.915509",
+      "questions": [
+        {
+          "id": "",
+          "text": "Hello pravallika! I'm your AI interviewer for today. Could you start by telling me a little about yourself?",
+          "type": "behavioral",
+          "difficulty": "easy",
+          "section": "Introduction",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "Can you describe your experience with Custom Resume Profile and how you've used it in a project?",
+          "type": "technical",
+          "difficulty": "easy",
+          "section": "Conceptual",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "What are the core principles and advantages of using Custom Resume Profile compared to alternatives?",
+          "type": "technical",
+          "difficulty": "medium",
+          "section": "Conceptual",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "How would you approach debugging a critical performance issue in a Custom Resume Profile application?",
+          "type": "technical",
+          "difficulty": "medium",
+          "section": "Conceptual",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "Describe a time when you had to optimize Custom Resume Profile code. What specific steps did you take?",
+          "type": "technical",
+          "difficulty": "hard",
+          "section": "Conceptual",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "How would you design a scalable architecture using Custom Resume Profile?",
+          "type": "technical",
+          "difficulty": "hard",
+          "section": "System Design",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        }
+      ],
+      "profile": {
+        "topic": "Custom Resume Profile",
+        "target_role": "Software Engineer",
+        "experience_level": "Junior (0-2 years)",
+        "candidate_name": "pravallika",
+        "resume_text": "PRAVALLIKA KUNDUM\nPhone: +91 9492830679 \u2014 Email: pravallikakundum18@gmail.com \u2014 GitHub: https://github.com/VALLI-0114\nLinkedIn: https://www.linkedin.com/in/kundum-pravallika-4a1249296 \u2014 LeetCode: https://leetcode.com/u/pravalli01/\nEducation\nJawaharlal Nehru Technological University Gurajada Vizianagaram Vizianagaram, India\n2023 \u2013 2027\nBachelor of Technology in Information Technology; CGPA: 8.00\nTechnical Skills\nLanguages: Python, C, C++, R, JavaScript\nFrameworks: React.js, Node.js, Express.js, Django, Flask\nAI / ML: TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib\nDatabases: MySQL, SQLite\nTools: Git, Power BI, Postman, Jupyter Notebook, n8n\nEngineering: REST APIs, System Design, Automation, Data Analytics, Software Architecture\nProfessional Skills: Problem Solving, Analytical Thinking, Technical Communication, Team Collaboration, Time Management,\nAdaptability\nProfessional Experience\nEdunet Foundation (AICTE \u2013 IBM SkillsBuild) Remote\nJun 2025 \u2013 Jul 2025\nAI & Data Analytics Intern\nImplemented supervised and unsupervised ML models for predictive analytics improving model accuracy by 15% through feature\nengineering and hyperparameter tuning.\nPerformed end-to-end data preprocessing, feature engineering, and model evaluation workflows reducing data processing time by\n30%.\nCreated analytical dashboards and data visualization plots enabling data-driven decision-making for business stakeholders.\nTechnologies Used: Python, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Jupyter Notebook\nCODEC Technologies (Google Partner) Remote\nMar 2025 \u2013 Apr 2025\nPython Developer Intern\nDeveloped and deployed 5+ backend REST APIs automating data-processing workflows and reducing manual effort by 40%.\nBuilt robust data validation and transformation pipelines in Python processing 50,000+ records daily with 99% accuracy.\nImproved code reliability and maintainability by 35% through implementation of modular design patterns and comprehensive\nexception handling.\nTechnologies Used: Python, Flask, REST APIs, Git, Software Design Patterns\nYoungbot Academy Remote\nOct 2024 \u2013 Nov 2024\nWeb Developer Intern\nBuilt responsive, mobile-first UI components using React.js improving page load performance by 35% through code optimization and\nlazy loading.\nIntegrated REST APIs and implemented secure authentication workflows supporting 1,000+ active users.\nOptimized UI performance and responsive layouts enhancing user engagement by 25% across mobile and desktop platforms.\nTechnologies Used: React.js, JavaScript, HTML5, CSS3, REST APIs, Git\nProjects\nClimateChain \u2013 Quantum-Secured Verifiable Climate Data Platform\nDesigned end-to-end platform with quantum-secured encryption and verifiable ledger architecture serving 1,000+ environmental\nresearchers worldwide.\nImplemented Quantum Random Number Generation using Qiskit achieving 99.8% true randomness score with entropy analysis for\ncryptographic security.\nDeveloped AI-based drought risk prediction models achieving 89% accuracy for real-time environmental insights and climate\nforecasting.\nTechnologies: Next.js, Qiskit, Python, TensorFlow, Tailwind CSS, Recharts\nAI Agent Automation using n8n\nBuilt AI-powered conversational workflow using n8n low-code automation platform enabling intelligent query processing and\nresponse generation.\nIntegrated Groq Chat Model with contextual memory achieving 90% response accuracy for multi-turn conversations.\nConnected SerpAPI for real-time web search capabilities providing up-to-date information retrieval and fact verification.\nTechnologies: n8n, Groq Chat Model, SerpAPI, AI Agents, Workflow Automation\nEatopia \u2013 Full-Stack E-Commerce Application\nDeveloped full-stack e-commerce web application with product catalog, shopping cart, and secure checkout functionality.\nImplemented responsive UI using React.js and built RESTful backend APIs with Node.js and Express.js supporting seamless user\nexperience.\nDesigned and integrated MySQL database schema for product management, user authentication, and order processing.\nTechnologies: React.js, Node.js, Express.js, MySQL, REST APIs, JavaScript, HTML5, CSS3\nHR Analytics Dashboard\nDesigned interactive Power BI dashboard analyzing employee attrition patterns, workforce demographics, and performance trends\nacross 5,000+ employee records.\nCreated data visualizations and KPI metrics enabling HR stakeholders to identify retention risks and optimize workforce planning\nstrategies.\nTechnologies: Power BI, Data Analytics, Data Visualization, Excel\nAchievements & Certifications\nTop 20 \u2013 CitizenHack 2025 (Miracle Software Systems); 5th Place \u2013 Amaravathi Quantum Valley Hackathon 2K25.\nISAC Certified Cyber Crime Intervention Officer (CCIO); Certified in Professional Ethics at Workplace (CPEW).\nFront-End Web Developer \u2013 Infosys Springboard certified in modern web development technologies and frameworks.\nLeadership & Voluntary Experience\nDeputy Secretary, ACM Student Chapter \u2013 JNTU-GV: Coordinated technical events and workshops for 200+ students.\nVice President, Technical Lead \u2013 Dev Squad Club: Led development team delivering 3+ applications, mentored junior developers."
+      },
+      "adaptive_enabled": true,
+      "adaptive_started": false,
+      "max_questions": 6,
+      "current_question_count": 6,
+      "candidate_strength": "unknown",
+      "adaptive_context": {
+        "asked_questions": [],
+        "scores": [],
+        "strong_topics": [],
+        "weak_topics": [],
+        "current_difficulty": "medium"
+      },
+      "failure_reason": "Exceeded maximum proctoring warnings (3)"
+    },
+    "792f00b3-662f-4fc8-831b-c430513e5310": {
+      "id": "792f00b3-662f-4fc8-831b-c430513e5310",
+      "candidate_id": "1ae0ea4d-6aae-4cba-9896-0d564fa8b63c",
+      "status": "failed",
+      "started_at": "2026-05-28 11:46:44.653727",
+      "questions": [
+        {
+          "id": "",
+          "text": "Hello pravallika! I'm your AI interviewer for today. Could you start by telling me a little about yourself?",
+          "type": "behavioral",
+          "difficulty": "easy",
+          "section": "Introduction",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "Can you describe your experience with Custom Resume Profile and how you've used it in a project?",
+          "type": "technical",
+          "difficulty": "easy",
+          "section": "Conceptual",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "What are the core principles and advantages of using Custom Resume Profile compared to alternatives?",
+          "type": "technical",
+          "difficulty": "medium",
+          "section": "Conceptual",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "How would you approach debugging a critical performance issue in a Custom Resume Profile application?",
+          "type": "technical",
+          "difficulty": "medium",
+          "section": "Conceptual",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "Describe a time when you had to optimize Custom Resume Profile code. What specific steps did you take?",
+          "type": "technical",
+          "difficulty": "hard",
+          "section": "Conceptual",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "How would you design a scalable architecture using Custom Resume Profile?",
+          "type": "technical",
+          "difficulty": "hard",
+          "section": "System Design",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        }
+      ],
+      "profile": {
+        "topic": "Custom Resume Profile",
+        "target_role": "Software Engineer",
+        "experience_level": "Junior (0-2 years)",
+        "candidate_name": "pravallika",
+        "resume_text": "PRAVALLIKA KUNDUM\nPhone: +91 9492830679 \u2014 Email: pravallikakundum18@gmail.com \u2014 GitHub: https://github.com/VALLI-0114\nLinkedIn: https://www.linkedin.com/in/kundum-pravallika-4a1249296 \u2014 LeetCode: https://leetcode.com/u/pravalli01/\nEducation\nJawaharlal Nehru Technological University Gurajada Vizianagaram Vizianagaram, India\n2023 \u2013 2027\nBachelor of Technology in Information Technology; CGPA: 8.00\nTechnical Skills\nLanguages: Python, C, C++, R, JavaScript\nFrameworks: React.js, Node.js, Express.js, Django, Flask\nAI / ML: TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib\nDatabases: MySQL, SQLite\nTools: Git, Power BI, Postman, Jupyter Notebook, n8n\nEngineering: REST APIs, System Design, Automation, Data Analytics, Software Architecture\nProfessional Skills: Problem Solving, Analytical Thinking, Technical Communication, Team Collaboration, Time Management,\nAdaptability\nProfessional Experience\nEdunet Foundation (AICTE \u2013 IBM SkillsBuild) Remote\nJun 2025 \u2013 Jul 2025\nAI & Data Analytics Intern\nImplemented supervised and unsupervised ML models for predictive analytics improving model accuracy by 15% through feature\nengineering and hyperparameter tuning.\nPerformed end-to-end data preprocessing, feature engineering, and model evaluation workflows reducing data processing time by\n30%.\nCreated analytical dashboards and data visualization plots enabling data-driven decision-making for business stakeholders.\nTechnologies Used: Python, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Jupyter Notebook\nCODEC Technologies (Google Partner) Remote\nMar 2025 \u2013 Apr 2025\nPython Developer Intern\nDeveloped and deployed 5+ backend REST APIs automating data-processing workflows and reducing manual effort by 40%.\nBuilt robust data validation and transformation pipelines in Python processing 50,000+ records daily with 99% accuracy.\nImproved code reliability and maintainability by 35% through implementation of modular design patterns and comprehensive\nexception handling.\nTechnologies Used: Python, Flask, REST APIs, Git, Software Design Patterns\nYoungbot Academy Remote\nOct 2024 \u2013 Nov 2024\nWeb Developer Intern\nBuilt responsive, mobile-first UI components using React.js improving page load performance by 35% through code optimization and\nlazy loading.\nIntegrated REST APIs and implemented secure authentication workflows supporting 1,000+ active users.\nOptimized UI performance and responsive layouts enhancing user engagement by 25% across mobile and desktop platforms.\nTechnologies Used: React.js, JavaScript, HTML5, CSS3, REST APIs, Git\nProjects\nClimateChain \u2013 Quantum-Secured Verifiable Climate Data Platform\nDesigned end-to-end platform with quantum-secured encryption and verifiable ledger architecture serving 1,000+ environmental\nresearchers worldwide.\nImplemented Quantum Random Number Generation using Qiskit achieving 99.8% true randomness score with entropy analysis for\ncryptographic security.\nDeveloped AI-based drought risk prediction models achieving 89% accuracy for real-time environmental insights and climate\nforecasting.\nTechnologies: Next.js, Qiskit, Python, TensorFlow, Tailwind CSS, Recharts\nAI Agent Automation using n8n\nBuilt AI-powered conversational workflow using n8n low-code automation platform enabling intelligent query processing and\nresponse generation.\nIntegrated Groq Chat Model with contextual memory achieving 90% response accuracy for multi-turn conversations.\nConnected SerpAPI for real-time web search capabilities providing up-to-date information retrieval and fact verification.\nTechnologies: n8n, Groq Chat Model, SerpAPI, AI Agents, Workflow Automation\nEatopia \u2013 Full-Stack E-Commerce Application\nDeveloped full-stack e-commerce web application with product catalog, shopping cart, and secure checkout functionality.\nImplemented responsive UI using React.js and built RESTful backend APIs with Node.js and Express.js supporting seamless user\nexperience.\nDesigned and integrated MySQL database schema for product management, user authentication, and order processing.\nTechnologies: React.js, Node.js, Express.js, MySQL, REST APIs, JavaScript, HTML5, CSS3\nHR Analytics Dashboard\nDesigned interactive Power BI dashboard analyzing employee attrition patterns, workforce demographics, and performance trends\nacross 5,000+ employee records.\nCreated data visualizations and KPI metrics enabling HR stakeholders to identify retention risks and optimize workforce planning\nstrategies.\nTechnologies: Power BI, Data Analytics, Data Visualization, Excel\nAchievements & Certifications\nTop 20 \u2013 CitizenHack 2025 (Miracle Software Systems); 5th Place \u2013 Amaravathi Quantum Valley Hackathon 2K25.\nISAC Certified Cyber Crime Intervention Officer (CCIO); Certified in Professional Ethics at Workplace (CPEW).\nFront-End Web Developer \u2013 Infosys Springboard certified in modern web development technologies and frameworks.\nLeadership & Voluntary Experience\nDeputy Secretary, ACM Student Chapter \u2013 JNTU-GV: Coordinated technical events and workshops for 200+ students.\nVice President, Technical Lead \u2013 Dev Squad Club: Led development team delivering 3+ applications, mentored junior developers."
+      },
+      "adaptive_enabled": true,
+      "adaptive_started": false,
+      "max_questions": 6,
+      "current_question_count": 6,
+      "candidate_strength": "unknown",
+      "adaptive_context": {
+        "asked_questions": [],
+        "scores": [],
+        "strong_topics": [],
+        "weak_topics": [],
+        "current_difficulty": "medium"
+      },
+      "failure_reason": "Exceeded maximum proctoring warnings (3)"
+    },
+    "3ca51ddf-833b-492d-a25d-107f14df2c0b": {
+      "id": "3ca51ddf-833b-492d-a25d-107f14df2c0b",
+      "candidate_id": "729caf14-0412-43fb-9b4e-79e7d89710e1",
+      "status": "completed",
+      "started_at": "2026-05-28 11:48:01.687210",
+      "questions": [
+        {
+          "id": "",
+          "text": "Hello qa! I'm your AI interviewer for today. Could you start by telling me a little about yourself?",
+          "type": "behavioral",
+          "difficulty": "easy",
+          "section": "Introduction",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "Can you describe your experience with Custom Resume Profile and how you've used it in a project?",
+          "type": "technical",
+          "difficulty": "easy",
+          "section": "Conceptual",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "What are the core principles and advantages of using Custom Resume Profile compared to alternatives?",
+          "type": "technical",
+          "difficulty": "medium",
+          "section": "Conceptual",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "How would you approach debugging a critical performance issue in a Custom Resume Profile application?",
+          "type": "technical",
+          "difficulty": "medium",
+          "section": "Conceptual",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "Describe a time when you had to optimize Custom Resume Profile code. What specific steps did you take?",
+          "type": "technical",
+          "difficulty": "hard",
+          "section": "Conceptual",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        },
+        {
+          "id": "",
+          "text": "How would you design a scalable architecture using Custom Resume Profile?",
+          "type": "technical",
+          "difficulty": "hard",
+          "section": "System Design",
+          "follow_up_to": null,
+          "expected_topics": [],
+          "adaptive": false,
+          "generated_from": null
+        }
+      ],
+      "profile": {
+        "topic": "Custom Resume Profile",
+        "target_role": "Software Engineer",
+        "experience_level": "Junior (0-2 years)",
+        "candidate_name": "qa",
+        "resume_text": "PRAVALLIKA KUNDUM\nPhone: +91 9492830679 \u2014 Email: pravallikakundum18@gmail.com \u2014 GitHub: https://github.com/VALLI-0114\nLinkedIn: https://www.linkedin.com/in/kundum-pravallika-4a1249296 \u2014 LeetCode: https://leetcode.com/u/pravalli01/\nEducation\nJawaharlal Nehru Technological University Gurajada Vizianagaram Vizianagaram, India\n2023 \u2013 2027\nBachelor of Technology in Information Technology; CGPA: 8.00\nTechnical Skills\nLanguages: Python, C, C++, R, JavaScript\nFrameworks: React.js, Node.js, Express.js, Django, Flask\nAI / ML: TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib\nDatabases: MySQL, SQLite\nTools: Git, Power BI, Postman, Jupyter Notebook, n8n\nEngineering: REST APIs, System Design, Automation, Data Analytics, Software Architecture\nProfessional Skills: Problem Solving, Analytical Thinking, Technical Communication, Team Collaboration, Time Management,\nAdaptability\nProfessional Experience\nEdunet Foundation (AICTE \u2013 IBM SkillsBuild) Remote\nJun 2025 \u2013 Jul 2025\nAI & Data Analytics Intern\nImplemented supervised and unsupervised ML models for predictive analytics improving model accuracy by 15% through feature\nengineering and hyperparameter tuning.\nPerformed end-to-end data preprocessing, feature engineering, and model evaluation workflows reducing data processing time by\n30%.\nCreated analytical dashboards and data visualization plots enabling data-driven decision-making for business stakeholders.\nTechnologies Used: Python, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Jupyter Notebook\nCODEC Technologies (Google Partner) Remote\nMar 2025 \u2013 Apr 2025\nPython Developer Intern\nDeveloped and deployed 5+ backend REST APIs automating data-processing workflows and reducing manual effort by 40%.\nBuilt robust data validation and transformation pipelines in Python processing 50,000+ records daily with 99% accuracy.\nImproved code reliability and maintainability by 35% through implementation of modular design patterns and comprehensive\nexception handling.\nTechnologies Used: Python, Flask, REST APIs, Git, Software Design Patterns\nYoungbot Academy Remote\nOct 2024 \u2013 Nov 2024\nWeb Developer Intern\nBuilt responsive, mobile-first UI components using React.js improving page load performance by 35% through code optimization and\nlazy loading.\nIntegrated REST APIs and implemented secure authentication workflows supporting 1,000+ active users.\nOptimized UI performance and responsive layouts enhancing user engagement by 25% across mobile and desktop platforms.\nTechnologies Used: React.js, JavaScript, HTML5, CSS3, REST APIs, Git\nProjects\nClimateChain \u2013 Quantum-Secured Verifiable Climate Data Platform\nDesigned end-to-end platform with quantum-secured encryption and verifiable ledger architecture serving 1,000+ environmental\nresearchers worldwide.\nImplemented Quantum Random Number Generation using Qiskit achieving 99.8% true randomness score with entropy analysis for\ncryptographic security.\nDeveloped AI-based drought risk prediction models achieving 89% accuracy for real-time environmental insights and climate\nforecasting.\nTechnologies: Next.js, Qiskit, Python, TensorFlow, Tailwind CSS, Recharts\nAI Agent Automation using n8n\nBuilt AI-powered conversational workflow using n8n low-code automation platform enabling intelligent query processing and\nresponse generation.\nIntegrated Groq Chat Model with contextual memory achieving 90% response accuracy for multi-turn conversations.\nConnected SerpAPI for real-time web search capabilities providing up-to-date information retrieval and fact verification.\nTechnologies: n8n, Groq Chat Model, SerpAPI, AI Agents, Workflow Automation\nEatopia \u2013 Full-Stack E-Commerce Application\nDeveloped full-stack e-commerce web application with product catalog, shopping cart, and secure checkout functionality.\nImplemented responsive UI using React.js and built RESTful backend APIs with Node.js and Express.js supporting seamless user\nexperience.\nDesigned and integrated MySQL database schema for product management, user authentication, and order processing.\nTechnologies: React.js, Node.js, Express.js, MySQL, REST APIs, JavaScript, HTML5, CSS3\nHR Analytics Dashboard\nDesigned interactive Power BI dashboard analyzing employee attrition patterns, workforce demographics, and performance trends\nacross 5,000+ employee records.\nCreated data visualizations and KPI metrics enabling HR stakeholders to identify retention risks and optimize workforce planning\nstrategies.\nTechnologies: Power BI, Data Analytics, Data Visualization, Excel\nAchievements & Certifications\nTop 20 \u2013 CitizenHack 2025 (Miracle Software Systems); 5th Place \u2013 Amaravathi Quantum Valley Hackathon 2K25.\nISAC Certified Cyber Crime Intervention Officer (CCIO); Certified in Professional Ethics at Workplace (CPEW).\nFront-End Web Developer \u2013 Infosys Springboard certified in modern web development technologies and frameworks.\nLeadership & Voluntary Experience\nDeputy Secretary, ACM Student Chapter \u2013 JNTU-GV: Coordinated technical events and workshops for 200+ students.\nVice President, Technical Lead \u2013 Dev Squad Club: Led development team delivering 3+ applications, mentored junior developers."
+      },
+      "adaptive_enabled": true,
+      "adaptive_started": false,
+      "max_questions": 6,
+      "current_question_count": 6,
+      "candidate_strength": "unknown",
+      "adaptive_context": {
+        "asked_questions": [
+          "Hello qa! I'm your AI interviewer for today. Could you start by telling me a little about yourself?",
+          "Can you describe your experience with Custom Resume Profile and how you've used it in a project?",
+          "What are the core principles and advantages of using Custom Resume Profile compared to alternatives?",
+          "How would you approach debugging a critical performance issue in a Custom Resume Profile application?",
+          "Describe a time when you had to optimize Custom Resume Profile code. What specific steps did you take?",
+          "How would you design a scalable architecture using Custom Resume Profile?"
+        ],
+        "scores": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "strong_topics": [],
+        "weak_topics": [
+          "Core Concepts",
+          "Core Concepts",
+          "Core Concepts",
+          "Core Concepts",
+          "Core Concepts",
+          "Core Concepts"
+        ],
+        "current_difficulty": "medium"
+      },
+      "ended_at": "2026-05-28 11:49:05.297802",
+      "ai_feedback": "Overall score: 0.0. Candidate showed reasonable effort."
     }
   },
   "questions": {},
@@ -1838,6 +3181,411 @@
         "overall": 0.0,
         "feedback": "No response was provided. The candidate did not attempt to answer the question."
       }
+    },
+    "3f1490cc-7022-4b5e-aa14-1159732ec352": {
+      "id": "3f1490cc-7022-4b5e-aa14-1159732ec352",
+      "interview_id": "26709e79-c412-45f0-8bb8-f87efb0eb4ff",
+      "question_id": "q-0",
+      "question_text": "Hello pru! I'm your AI interviewer. Could you start by telling me a little about yourself?",
+      "transcript": "[Written Answer]:\nNo answer provided",
+      "evaluation": {
+        "technical": 0.0,
+        "communication": 0.0,
+        "depth": 0.0,
+        "relevance": 0.0,
+        "overall": 0.0,
+        "feedback": "No response was provided or the answer was too brief. Please attempt to explain the concepts in more detail."
+      }
+    },
+    "da605cfb-7eb7-4f92-aff0-f7b61f270bd0": {
+      "id": "da605cfb-7eb7-4f92-aff0-f7b61f270bd0",
+      "interview_id": "26709e79-c412-45f0-8bb8-f87efb0eb4ff",
+      "question_id": "q-1",
+      "question_text": "What are some key challenges when working with Artificial Intelligence (AI)?",
+      "transcript": "[Written Answer]:\nNo answer provided",
+      "evaluation": {
+        "technical": 0.0,
+        "communication": 0.0,
+        "depth": 0.0,
+        "relevance": 0.0,
+        "overall": 0.0,
+        "feedback": "No response was provided or the answer was too brief. Please attempt to explain the concepts in more detail."
+      }
+    },
+    "07dc6e83-caf3-41b7-940e-46410cd2675a": {
+      "id": "07dc6e83-caf3-41b7-940e-46410cd2675a",
+      "interview_id": "26709e79-c412-45f0-8bb8-f87efb0eb4ff",
+      "question_id": "q-2",
+      "question_text": "How do you optimize applications built with Artificial Intelligence (AI)?",
+      "transcript": "[Written Answer]:\nNo answer provided",
+      "evaluation": {
+        "technical": 0.0,
+        "communication": 0.0,
+        "depth": 0.0,
+        "relevance": 0.0,
+        "overall": 0.0,
+        "feedback": "No response was provided or the answer was too brief. Please attempt to explain the concepts in more detail."
+      }
+    },
+    "1c2358cc-0ff6-4705-b75a-12c8e86392f8": {
+      "id": "1c2358cc-0ff6-4705-b75a-12c8e86392f8",
+      "interview_id": "26709e79-c412-45f0-8bb8-f87efb0eb4ff",
+      "question_id": "q-2",
+      "question_text": "How do you optimize applications built with Artificial Intelligence (AI)?",
+      "transcript": "[Written Answer]:\nNo answer provided",
+      "evaluation": {
+        "technical": 0.0,
+        "communication": 0.0,
+        "depth": 0.0,
+        "relevance": 0.0,
+        "overall": 0.0,
+        "feedback": "No response was provided or the answer was too brief. Please attempt to explain the concepts in more detail."
+      }
+    },
+    "036983ef-5352-4d9a-9135-5f6ededf0527": {
+      "id": "036983ef-5352-4d9a-9135-5f6ededf0527",
+      "interview_id": "1a0e9503-f68f-4430-8195-2326e29795b2",
+      "question_id": "q-0",
+      "question_text": "Hi Pravi, welcome! It's great to have you here today. I'll be your AI interviewer for this technical session. Could you start by telling me a little about yourself?",
+      "transcript": "[Written Answer]:\nNo answer provided",
+      "evaluation": {
+        "technical": 0.0,
+        "communication": 0.0,
+        "depth": 0.0,
+        "relevance": 0.0,
+        "overall": 0.0,
+        "feedback": "No response provided or answer was too brief. Please elaborate."
+      }
+    },
+    "9e028069-c3e5-41ff-9844-f5b272276d4e": {
+      "id": "9e028069-c3e5-41ff-9844-f5b272276d4e",
+      "interview_id": "1a0e9503-f68f-4430-8195-2326e29795b2",
+      "question_id": "q-0",
+      "question_text": "Hi Pravi, welcome! It's great to have you here today. I'll be your AI interviewer for this technical session. Could you start by telling me a little about yourself?",
+      "transcript": "[Written Answer]:\nNo answer provided",
+      "evaluation": {
+        "technical": 0.0,
+        "communication": 0.0,
+        "depth": 0.0,
+        "relevance": 0.0,
+        "overall": 0.0,
+        "feedback": "No response provided or answer was too brief. Please elaborate."
+      }
+    },
+    "d604bc13-1617-4603-a4ca-16e7855f8111": {
+      "id": "d604bc13-1617-4603-a4ca-16e7855f8111",
+      "interview_id": "6e1c3faa-44b3-4a2e-aceb-7591486f0b0a",
+      "question_id": "q-0",
+      "question_text": "Hi jy, it's great to meet you. I'll be your AI interviewer for this technical session today. Could you start by telling me a little about yourself?",
+      "transcript": "[Written Answer]:\nNo answer provided",
+      "evaluation": {
+        "technical": 0.0,
+        "communication": 0.0,
+        "depth": 0.0,
+        "relevance": 0.0,
+        "overall": 0.0,
+        "feedback": "No response provided or answer was too brief. Please elaborate."
+      }
+    },
+    "117a9e68-b260-4b6e-a91f-bb8d69b8f65c": {
+      "id": "117a9e68-b260-4b6e-a91f-bb8d69b8f65c",
+      "interview_id": "6e1c3faa-44b3-4a2e-aceb-7591486f0b0a",
+      "question_id": "q-0",
+      "question_text": "Hi jy, it's great to meet you. I'll be your AI interviewer for this technical session today. Could you start by telling me a little about yourself?",
+      "transcript": "[Written Answer]:\nNo answer provided",
+      "evaluation": {
+        "technical": 0.0,
+        "communication": 0.0,
+        "depth": 0.0,
+        "relevance": 0.0,
+        "overall": 0.0,
+        "feedback": "No response provided or answer was too brief. Please elaborate."
+      }
+    },
+    "7354f70e-be44-481e-9dfb-f26d38f565d9": {
+      "id": "7354f70e-be44-481e-9dfb-f26d38f565d9",
+      "interview_id": "b2cbe81c-ced7-4b34-9cd9-7f74ed948851",
+      "question_id": "q-0",
+      "question_text": "Hello liks! I'm your AI interviewer for today. Could you start by telling me a little about yourself?",
+      "transcript": "[Written Answer]:\nI am little Kumar also js ",
+      "evaluation": {
+        "technical": 0.0,
+        "communication": 0.0,
+        "depth": 0.0,
+        "relevance": 0.0,
+        "overall": 0.0,
+        "feedback": "No response provided or answer was too brief. Please elaborate."
+      }
+    },
+    "e1da8162-a54c-4a31-b388-4c53a667a370": {
+      "id": "e1da8162-a54c-4a31-b388-4c53a667a370",
+      "interview_id": "b2cbe81c-ced7-4b34-9cd9-7f74ed948851",
+      "question_id": "q-0",
+      "question_text": "Hello liks! I'm your AI interviewer for today. Could you start by telling me a little about yourself?",
+      "transcript": "[Written Answer]:\nNo answer provided",
+      "evaluation": {
+        "technical": 0.0,
+        "communication": 0.0,
+        "depth": 0.0,
+        "relevance": 0.0,
+        "overall": 0.0,
+        "feedback": "No response provided or answer was too brief. Please elaborate."
+      }
+    },
+    "661957e0-9460-4865-b8d4-1086e65e3231": {
+      "id": "661957e0-9460-4865-b8d4-1086e65e3231",
+      "interview_id": "b2cbe81c-ced7-4b34-9cd9-7f74ed948851",
+      "question_id": "q-0",
+      "question_text": "Hello liks! I'm your AI interviewer for today. Could you start by telling me a little about yourself?",
+      "transcript": "[Written Answer]:\nNo answer provided",
+      "evaluation": {
+        "technical": 0.0,
+        "communication": 0.0,
+        "depth": 0.0,
+        "relevance": 0.0,
+        "overall": 0.0,
+        "feedback": "No response provided or answer was too brief. Please elaborate."
+      }
+    },
+    "5d9b8881-cfd6-40e5-bd53-50282f4b656c": {
+      "id": "5d9b8881-cfd6-40e5-bd53-50282f4b656c",
+      "interview_id": "5a68ffbe-7a82-4df3-80ae-c2543ee89909",
+      "question_id": "q-0",
+      "question_text": "Hello parachute! I'm your AI interviewer for today. Could you start by telling me a little about yourself?",
+      "transcript": "[Written Answer]:\ngetting",
+      "evaluation": {
+        "technical": 0.0,
+        "communication": 0.0,
+        "depth": 0.0,
+        "relevance": 0.0,
+        "overall": 0.0,
+        "feedback": "No response provided or answer was too brief. Please elaborate."
+      }
+    },
+    "721ecc50-d7b2-40a8-93a4-577d369a8501": {
+      "id": "721ecc50-d7b2-40a8-93a4-577d369a8501",
+      "interview_id": "5a68ffbe-7a82-4df3-80ae-c2543ee89909",
+      "question_id": "q-1",
+      "question_text": "What challenges have you faced with Python?",
+      "transcript": "[Written Answer]:\nNo answer provided",
+      "evaluation": {
+        "technical": 0.0,
+        "communication": 0.0,
+        "depth": 0.0,
+        "relevance": 0.0,
+        "overall": 0.0,
+        "feedback": "No response provided or answer was too brief. Please elaborate."
+      }
+    },
+    "feb528c8-421a-4824-bf52-e3a0dda20028": {
+      "id": "feb528c8-421a-4824-bf52-e3a0dda20028",
+      "interview_id": "c88e71f7-ca0a-4514-b0ef-26baa8d74202",
+      "question_id": "q-0",
+      "question_text": "Hello lik! I'm your AI interviewer for today. Could you start by telling me a little about yourself?",
+      "transcript": "[Written Answer]:\nhello  I am ",
+      "evaluation": {
+        "technical": 0.0,
+        "communication": 0.0,
+        "depth": 0.0,
+        "relevance": 0.0,
+        "overall": 0.0,
+        "feedback": "No response provided or answer was too brief. Please elaborate."
+      }
+    },
+    "1f3713ee-8245-489c-9e8c-13bca1f18b79": {
+      "id": "1f3713ee-8245-489c-9e8c-13bca1f18b79",
+      "interview_id": "c88e71f7-ca0a-4514-b0ef-26baa8d74202",
+      "question_id": "q-1",
+      "question_text": "What challenges have you faced with Python, C?",
+      "transcript": "[Written Answer]:\nNo answer provided",
+      "evaluation": {
+        "technical": 0.0,
+        "communication": 0.0,
+        "depth": 0.0,
+        "relevance": 0.0,
+        "overall": 0.0,
+        "feedback": "No response provided or answer was too brief. Please elaborate."
+      }
+    },
+    "a18c8a57-4161-4d6b-8ce6-e6f7e5b2c927": {
+      "id": "a18c8a57-4161-4d6b-8ce6-e6f7e5b2c927",
+      "interview_id": "e26ed27f-48ed-48a9-8d06-7d21426c697e",
+      "question_id": "q-0",
+      "question_text": "Hello jkl! I'm your AI interviewer for today. Could you start by telling me a little about yourself?",
+      "transcript": "[Written Answer]:\nold very high",
+      "evaluation": {
+        "technical": 0.0,
+        "communication": 0.0,
+        "depth": 0.0,
+        "relevance": 0.0,
+        "overall": 0.0,
+        "feedback": "No response provided or answer was too brief. Please elaborate."
+      }
+    },
+    "6dcfeef9-00e4-4c58-959c-9f853de49fda": {
+      "id": "6dcfeef9-00e4-4c58-959c-9f853de49fda",
+      "interview_id": "e26ed27f-48ed-48a9-8d06-7d21426c697e",
+      "question_id": "q-1",
+      "question_text": "Can you describe your experience with Python and how you've used it in a project?",
+      "transcript": "[Written Answer]:\nwhy",
+      "evaluation": {
+        "technical": 0.0,
+        "communication": 0.0,
+        "depth": 0.0,
+        "relevance": 0.0,
+        "overall": 0.0,
+        "feedback": "No response provided or answer was too brief. Please elaborate."
+      }
+    },
+    "9eba60ed-bca5-448e-a786-e4a4934d5a51": {
+      "id": "9eba60ed-bca5-448e-a786-e4a4934d5a51",
+      "interview_id": "e26ed27f-48ed-48a9-8d06-7d21426c697e",
+      "question_id": "q-2",
+      "question_text": "What are the core principles and advantages of using Python compared to alternatives?",
+      "transcript": "[Written Answer]:\nNo answer provided",
+      "evaluation": {
+        "technical": 0.0,
+        "communication": 0.0,
+        "depth": 0.0,
+        "relevance": 0.0,
+        "overall": 0.0,
+        "feedback": "No response provided or answer was too brief. Please elaborate."
+      }
+    },
+    "744b7b7a-a856-48a4-862a-36ce93079a05": {
+      "id": "744b7b7a-a856-48a4-862a-36ce93079a05",
+      "interview_id": "e26ed27f-48ed-48a9-8d06-7d21426c697e",
+      "question_id": "q-3",
+      "question_text": "How would you approach debugging a critical performance issue in a Python application?",
+      "transcript": "[Code Written]:\n# Python Workspace\ndef solution():\n    # How would you approach debugging a critical performance issu...\n    pass\n\n\n[Verbal Explanation]:\nNo verbal response",
+      "evaluation": {
+        "technical": 60.0,
+        "communication": 60.0,
+        "depth": 60.0,
+        "relevance": 60.0,
+        "overall": 60.0,
+        "feedback": "Good effort, evaluation could not complete."
+      }
+    },
+    "c6943305-2e32-4110-b01e-f132d03663bc": {
+      "id": "c6943305-2e32-4110-b01e-f132d03663bc",
+      "interview_id": "e26ed27f-48ed-48a9-8d06-7d21426c697e",
+      "question_id": "q-4",
+      "question_text": "Describe a time when you had to optimize Python code. What specific steps did you take?",
+      "transcript": "[Code Written]:\n# Python Workspace\ndef solution():\n    # Describe a time when you had to optimize Python code. What s...\n    pass\n\n\n[Verbal Explanation]:\nNo verbal response",
+      "evaluation": {
+        "technical": 60.0,
+        "communication": 60.0,
+        "depth": 60.0,
+        "relevance": 60.0,
+        "overall": 60.0,
+        "feedback": "Good effort, evaluation could not complete."
+      }
+    },
+    "482d3baa-7177-41c6-bc2b-9970f7346cb0": {
+      "id": "482d3baa-7177-41c6-bc2b-9970f7346cb0",
+      "interview_id": "e26ed27f-48ed-48a9-8d06-7d21426c697e",
+      "question_id": "q-5",
+      "question_text": "How would you design a scalable architecture using Python?",
+      "transcript": "[Written Answer]:\nNo answer provided",
+      "evaluation": {
+        "technical": 0.0,
+        "communication": 0.0,
+        "depth": 0.0,
+        "relevance": 0.0,
+        "overall": 0.0,
+        "feedback": "No response provided or answer was too brief. Please elaborate."
+      }
+    },
+    "f1a14070-728f-4cdf-87de-f76131f7e41b": {
+      "id": "f1a14070-728f-4cdf-87de-f76131f7e41b",
+      "interview_id": "3ca51ddf-833b-492d-a25d-107f14df2c0b",
+      "question_id": "q-0",
+      "question_text": "Hello qa! I'm your AI interviewer for today. Could you start by telling me a little about yourself?",
+      "transcript": "[Written Answer]:\nNo answer provided",
+      "evaluation": {
+        "technical": 0.0,
+        "communication": 0.0,
+        "depth": 0.0,
+        "relevance": 0.0,
+        "overall": 0.0,
+        "feedback": "No response provided or answer was too brief. Please elaborate."
+      }
+    },
+    "2c1c5e54-b967-4b32-b0e3-64c87d2170dc": {
+      "id": "2c1c5e54-b967-4b32-b0e3-64c87d2170dc",
+      "interview_id": "3ca51ddf-833b-492d-a25d-107f14df2c0b",
+      "question_id": "q-1",
+      "question_text": "Can you describe your experience with Custom Resume Profile and how you've used it in a project?",
+      "transcript": "[Written Answer]:\nNo answer provided",
+      "evaluation": {
+        "technical": 0.0,
+        "communication": 0.0,
+        "depth": 0.0,
+        "relevance": 0.0,
+        "overall": 0.0,
+        "feedback": "No response provided or answer was too brief. Please elaborate."
+      }
+    },
+    "1660147d-185c-49e9-8e40-3f710e4172f4": {
+      "id": "1660147d-185c-49e9-8e40-3f710e4172f4",
+      "interview_id": "3ca51ddf-833b-492d-a25d-107f14df2c0b",
+      "question_id": "q-2",
+      "question_text": "What are the core principles and advantages of using Custom Resume Profile compared to alternatives?",
+      "transcript": "[Written Answer]:\nNo answer provided",
+      "evaluation": {
+        "technical": 0.0,
+        "communication": 0.0,
+        "depth": 0.0,
+        "relevance": 0.0,
+        "overall": 0.0,
+        "feedback": "No response provided or answer was too brief. Please elaborate."
+      }
+    },
+    "53eaf283-0fe4-4f98-8314-4d44d7f10fb0": {
+      "id": "53eaf283-0fe4-4f98-8314-4d44d7f10fb0",
+      "interview_id": "3ca51ddf-833b-492d-a25d-107f14df2c0b",
+      "question_id": "q-3",
+      "question_text": "How would you approach debugging a critical performance issue in a Custom Resume Profile application?",
+      "transcript": "[Written Answer]:\nNo answer provided",
+      "evaluation": {
+        "technical": 0.0,
+        "communication": 0.0,
+        "depth": 0.0,
+        "relevance": 0.0,
+        "overall": 0.0,
+        "feedback": "No response provided or answer was too brief. Please elaborate."
+      }
+    },
+    "f09d0c68-309c-45cb-a3d4-6e60c02a9bd2": {
+      "id": "f09d0c68-309c-45cb-a3d4-6e60c02a9bd2",
+      "interview_id": "3ca51ddf-833b-492d-a25d-107f14df2c0b",
+      "question_id": "q-4",
+      "question_text": "Describe a time when you had to optimize Custom Resume Profile code. What specific steps did you take?",
+      "transcript": "[Written Answer]:\nNo answer provided",
+      "evaluation": {
+        "technical": 0.0,
+        "communication": 0.0,
+        "depth": 0.0,
+        "relevance": 0.0,
+        "overall": 0.0,
+        "feedback": "No response provided or answer was too brief. Please elaborate."
+      }
+    },
+    "465e2acd-2ee0-4854-8517-41560a9b3991": {
+      "id": "465e2acd-2ee0-4854-8517-41560a9b3991",
+      "interview_id": "3ca51ddf-833b-492d-a25d-107f14df2c0b",
+      "question_id": "q-5",
+      "question_text": "How would you design a scalable architecture using Custom Resume Profile?",
+      "transcript": "[Written Answer]:\nNo answer provided",
+      "evaluation": {
+        "technical": 0.0,
+        "communication": 0.0,
+        "depth": 0.0,
+        "relevance": 0.0,
+        "overall": 0.0,
+        "feedback": "No response provided or answer was too brief. Please elaborate."
+      }
     }
   },
   "violations": {
@@ -2278,6 +4026,186 @@
       "interview_id": "a438f1b9-1d18-4461-9262-42bc3cfa5002",
       "type": "look_away_right",
       "timestamp": "2026-05-26 12:30:13.843579"
+    },
+    "3e42bb61-c39b-4f92-a279-8f1d571b9084": {
+      "id": "3e42bb61-c39b-4f92-a279-8f1d571b9084",
+      "interview_id": "26709e79-c412-45f0-8bb8-f87efb0eb4ff",
+      "type": "window_blur",
+      "timestamp": "2026-05-26 21:15:25.162572"
+    },
+    "3e4e596f-79ea-49fe-baa1-012e825525d2": {
+      "id": "3e4e596f-79ea-49fe-baa1-012e825525d2",
+      "interview_id": "2ef4066a-18d2-4c08-935b-5fde536292d6",
+      "type": "look_away_right",
+      "timestamp": "2026-05-28 10:41:10.465028"
+    },
+    "3ff15ec4-71d3-42b7-9a47-2dd222db1587": {
+      "id": "3ff15ec4-71d3-42b7-9a47-2dd222db1587",
+      "interview_id": "2ef4066a-18d2-4c08-935b-5fde536292d6",
+      "type": "look_away_right",
+      "timestamp": "2026-05-28 10:41:26.041503"
+    },
+    "a620e613-50c9-4518-925a-bc7c90bcdefc": {
+      "id": "a620e613-50c9-4518-925a-bc7c90bcdefc",
+      "interview_id": "2ef4066a-18d2-4c08-935b-5fde536292d6",
+      "type": "look_away_right",
+      "timestamp": "2026-05-28 10:41:57.341362"
+    },
+    "4e0b5f55-41f1-4989-8987-b92aea769cbf": {
+      "id": "4e0b5f55-41f1-4989-8987-b92aea769cbf",
+      "interview_id": "40bbf18a-bccb-4519-95fe-a6f5679e5c04",
+      "type": "no_face",
+      "timestamp": "2026-05-28 10:53:26.108643"
+    },
+    "8541e2a5-1992-4ba2-ad29-0a25bda0359c": {
+      "id": "8541e2a5-1992-4ba2-ad29-0a25bda0359c",
+      "interview_id": "40bbf18a-bccb-4519-95fe-a6f5679e5c04",
+      "type": "no_face",
+      "timestamp": "2026-05-28 10:53:28.354808"
+    },
+    "6add61eb-ed25-4f30-a472-658ce63a555f": {
+      "id": "6add61eb-ed25-4f30-a472-658ce63a555f",
+      "interview_id": "40bbf18a-bccb-4519-95fe-a6f5679e5c04",
+      "type": "look_away_left",
+      "timestamp": "2026-05-28 10:53:30.393823"
+    },
+    "f97fda51-4aae-419d-bfba-ae3e76f433b0": {
+      "id": "f97fda51-4aae-419d-bfba-ae3e76f433b0",
+      "interview_id": "1a0e9503-f68f-4430-8195-2326e29795b2",
+      "type": "fullscreen_exit",
+      "timestamp": "2026-05-28 10:55:37.843678"
+    },
+    "3d6df499-d7c1-4a3c-9eb6-ac87ddd8d17e": {
+      "id": "3d6df499-d7c1-4a3c-9eb6-ac87ddd8d17e",
+      "interview_id": "1a0e9503-f68f-4430-8195-2326e29795b2",
+      "type": "fullscreen_exit",
+      "timestamp": "2026-05-28 10:55:37.893456"
+    },
+    "fdc69445-a46f-4358-b625-3afa36cab66a": {
+      "id": "fdc69445-a46f-4358-b625-3afa36cab66a",
+      "interview_id": "1a0e9503-f68f-4430-8195-2326e29795b2",
+      "type": "window_blur",
+      "timestamp": "2026-05-28 10:55:51.492224"
+    },
+    "d7f90dcd-4298-41c2-ae1a-41c84a5e6351": {
+      "id": "d7f90dcd-4298-41c2-ae1a-41c84a5e6351",
+      "interview_id": "f79e840a-324e-4702-8bea-1f36765f1c73",
+      "type": "fullscreen_exit",
+      "timestamp": "2026-05-28 10:59:55.996155"
+    },
+    "723cdcf5-2001-426d-a243-63492c2a4a5a": {
+      "id": "723cdcf5-2001-426d-a243-63492c2a4a5a",
+      "interview_id": "f79e840a-324e-4702-8bea-1f36765f1c73",
+      "type": "fullscreen_exit",
+      "timestamp": "2026-05-28 10:59:56.138502"
+    },
+    "81ebf7e2-2f6b-429a-99c7-e88b3d1b4e81": {
+      "id": "81ebf7e2-2f6b-429a-99c7-e88b3d1b4e81",
+      "interview_id": "f79e840a-324e-4702-8bea-1f36765f1c73",
+      "type": "multiple_faces",
+      "timestamp": "2026-05-28 10:59:57.551466"
+    },
+    "8a520008-7eff-4770-b503-870a64f4811e": {
+      "id": "8a520008-7eff-4770-b503-870a64f4811e",
+      "interview_id": "6e1c3faa-44b3-4a2e-aceb-7591486f0b0a",
+      "type": "window_blur",
+      "timestamp": "2026-05-28 11:03:16.349978"
+    },
+    "90c98e2e-1023-481c-90ee-a8fa8109fff8": {
+      "id": "90c98e2e-1023-481c-90ee-a8fa8109fff8",
+      "interview_id": "6e1c3faa-44b3-4a2e-aceb-7591486f0b0a",
+      "type": "fullscreen_exit",
+      "timestamp": "2026-05-28 11:03:39.762352"
+    },
+    "a15cdb90-5130-49fa-8659-263124ef4a36": {
+      "id": "a15cdb90-5130-49fa-8659-263124ef4a36",
+      "interview_id": "6e1c3faa-44b3-4a2e-aceb-7591486f0b0a",
+      "type": "fullscreen_exit",
+      "timestamp": "2026-05-28 11:04:05.122571"
+    },
+    "028378c0-8cf5-4687-aa4d-e93380a6ee26": {
+      "id": "028378c0-8cf5-4687-aa4d-e93380a6ee26",
+      "interview_id": "b2cbe81c-ced7-4b34-9cd9-7f74ed948851",
+      "type": "look_away_right",
+      "timestamp": "2026-05-28 11:11:41.030681"
+    },
+    "e8bc49ba-9bdb-4ec3-8f99-31a580db0079": {
+      "id": "e8bc49ba-9bdb-4ec3-8f99-31a580db0079",
+      "interview_id": "b2cbe81c-ced7-4b34-9cd9-7f74ed948851",
+      "type": "look_away_left",
+      "timestamp": "2026-05-28 11:11:42.871779"
+    },
+    "f51bf46a-2545-434a-a160-86d16e01360c": {
+      "id": "f51bf46a-2545-434a-a160-86d16e01360c",
+      "interview_id": "b2cbe81c-ced7-4b34-9cd9-7f74ed948851",
+      "type": "fullscreen_exit",
+      "timestamp": "2026-05-28 11:12:05.754173"
+    },
+    "94a00b0f-5132-43ea-a855-64d2c8d25393": {
+      "id": "94a00b0f-5132-43ea-a855-64d2c8d25393",
+      "interview_id": "5a68ffbe-7a82-4df3-80ae-c2543ee89909",
+      "type": "window_blur",
+      "timestamp": "2026-05-28 11:16:33.825972"
+    },
+    "3a8a4148-9021-49e5-9cb1-c6666d1abe02": {
+      "id": "3a8a4148-9021-49e5-9cb1-c6666d1abe02",
+      "interview_id": "5a68ffbe-7a82-4df3-80ae-c2543ee89909",
+      "type": "look_away_right",
+      "timestamp": "2026-05-28 11:16:40.440203"
+    },
+    "3a87940d-c3d7-4a20-90d4-bd9d835ed9e7": {
+      "id": "3a87940d-c3d7-4a20-90d4-bd9d835ed9e7",
+      "interview_id": "c88e71f7-ca0a-4514-b0ef-26baa8d74202",
+      "type": "look_away_right",
+      "timestamp": "2026-05-28 11:30:39.103488"
+    },
+    "20f81395-5e4d-41e8-970e-bc010069c39a": {
+      "id": "20f81395-5e4d-41e8-970e-bc010069c39a",
+      "interview_id": "c88e71f7-ca0a-4514-b0ef-26baa8d74202",
+      "type": "window_blur",
+      "timestamp": "2026-05-28 11:30:49.498239"
+    },
+    "a9260be9-ab6e-4884-b628-fa7beee45775": {
+      "id": "a9260be9-ab6e-4884-b628-fa7beee45775",
+      "interview_id": "4623f849-fd7d-4742-baf4-09fc9a823bf5",
+      "type": "look_away_left",
+      "timestamp": "2026-05-28 11:46:07.660645"
+    },
+    "9cd9b9c3-85e1-4d15-8dd0-4cd2670fc42d": {
+      "id": "9cd9b9c3-85e1-4d15-8dd0-4cd2670fc42d",
+      "interview_id": "4623f849-fd7d-4742-baf4-09fc9a823bf5",
+      "type": "look_away_left",
+      "timestamp": "2026-05-28 11:46:08.717444"
+    },
+    "e49499d4-77d3-4020-89e4-b410d1d0105d": {
+      "id": "e49499d4-77d3-4020-89e4-b410d1d0105d",
+      "interview_id": "4623f849-fd7d-4742-baf4-09fc9a823bf5",
+      "type": "look_away_left",
+      "timestamp": "2026-05-28 11:46:09.698418"
+    },
+    "928ef248-1863-4b30-9802-7cddb52712c2": {
+      "id": "928ef248-1863-4b30-9802-7cddb52712c2",
+      "interview_id": "792f00b3-662f-4fc8-831b-c430513e5310",
+      "type": "look_away_right",
+      "timestamp": "2026-05-28 11:46:50.761602"
+    },
+    "1b51a9a7-4df1-4702-83ee-b7c5c308f71f": {
+      "id": "1b51a9a7-4df1-4702-83ee-b7c5c308f71f",
+      "interview_id": "792f00b3-662f-4fc8-831b-c430513e5310",
+      "type": "look_away_right",
+      "timestamp": "2026-05-28 11:46:52.004413"
+    },
+    "567e9d00-72cd-447f-b84b-a3819cc92b83": {
+      "id": "567e9d00-72cd-447f-b84b-a3819cc92b83",
+      "interview_id": "792f00b3-662f-4fc8-831b-c430513e5310",
+      "type": "look_away_right",
+      "timestamp": "2026-05-28 11:47:18.988971"
+    },
+    "f956e163-1da5-4bfe-a310-87e6151a9597": {
+      "id": "f956e163-1da5-4bfe-a310-87e6151a9597",
+      "interview_id": "3ca51ddf-833b-492d-a25d-107f14df2c0b",
+      "type": "window_blur",
+      "timestamp": "2026-05-28 11:48:53.098814"
     }
   },
   "drafts": {
@@ -2406,6 +4334,84 @@
       "code_draft": "",
       "text_draft": "",
       "updated_at": "2026-05-26 12:30:10.759057"
+    },
+    "26709e79-c412-45f0-8bb8-f87efb0eb4ff": {
+      "question_index": 2,
+      "code_draft": "",
+      "text_draft": "",
+      "updated_at": "2026-05-26 21:16:00.279775"
+    },
+    "2ef4066a-18d2-4c08-935b-5fde536292d6": {
+      "question_index": 0,
+      "code_draft": "",
+      "text_draft": "",
+      "updated_at": "2026-05-28 10:41:57.381144"
+    },
+    "40bbf18a-bccb-4519-95fe-a6f5679e5c04": {
+      "question_index": 0,
+      "code_draft": "",
+      "text_draft": "",
+      "updated_at": "2026-05-28 10:53:28.284427"
+    },
+    "1a0e9503-f68f-4430-8195-2326e29795b2": {
+      "question_index": 0,
+      "code_draft": "",
+      "text_draft": "",
+      "updated_at": "2026-05-28 10:55:50.914656"
+    },
+    "f79e840a-324e-4702-8bea-1f36765f1c73": {
+      "question_index": 0,
+      "code_draft": "",
+      "text_draft": "",
+      "updated_at": "2026-05-28 10:59:57.728259"
+    },
+    "6e1c3faa-44b3-4a2e-aceb-7591486f0b0a": {
+      "question_index": 0,
+      "code_draft": "",
+      "text_draft": "",
+      "updated_at": "2026-05-28 11:10:13.182722"
+    },
+    "b2cbe81c-ced7-4b34-9cd9-7f74ed948851": {
+      "question_index": 3,
+      "code_draft": "",
+      "text_draft": "",
+      "updated_at": "2026-05-28 11:12:00.768857"
+    },
+    "5a68ffbe-7a82-4df3-80ae-c2543ee89909": {
+      "question_index": 1,
+      "code_draft": "",
+      "text_draft": "",
+      "updated_at": "2026-05-28 11:17:20.875698"
+    },
+    "c88e71f7-ca0a-4514-b0ef-26baa8d74202": {
+      "question_index": 1,
+      "code_draft": "",
+      "text_draft": "",
+      "updated_at": "2026-05-28 11:31:07.411569"
+    },
+    "e26ed27f-48ed-48a9-8d06-7d21426c697e": {
+      "question_index": 5,
+      "code_draft": "",
+      "text_draft": "",
+      "updated_at": "2026-05-28 11:37:46.394547"
+    },
+    "4623f849-fd7d-4742-baf4-09fc9a823bf5": {
+      "question_index": 0,
+      "code_draft": "",
+      "text_draft": "",
+      "updated_at": "2026-05-28 11:46:06.645038"
+    },
+    "792f00b3-662f-4fc8-831b-c430513e5310": {
+      "question_index": 0,
+      "code_draft": "",
+      "text_draft": "",
+      "updated_at": "2026-05-28 11:47:18.813305"
+    },
+    "3ca51ddf-833b-492d-a25d-107f14df2c0b": {
+      "question_index": 5,
+      "code_draft": "",
+      "text_draft": "",
+      "updated_at": "2026-05-28 11:49:03.335028"
     }
   }
 }

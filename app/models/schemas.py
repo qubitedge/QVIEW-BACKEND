@@ -33,10 +33,20 @@ class ResumeAnalysis(BaseModel):
     level: str
 
 class QuestionModel(BaseModel):
+    id: str = ""
     text: str
     type: str
     difficulty: str
     section: str = "Conceptual"
+    
+    follow_up_to: Optional[str] = None
+    expected_topics: List[str] = []
+    adaptive: bool = False
+    generated_from: Optional[str] = None
+
+class InterviewStartRequest(BaseModel):
+    candidate_id: str
+    profile: dict
 
 class QuestionGenerateResponse(BaseModel):
     questions: List[QuestionModel]

@@ -1,4 +1,4 @@
-from fastapi import APIRouter, UploadFile, File, Form, Depends, HTTPException, status
+from fastapi import APIRouter, UploadFile, File, Form, Depends, HTTPException, status, Body, Request
 from typing import List, Optional
 from datetime import datetime
 import uuid
@@ -9,6 +9,7 @@ from app.models.schemas import (
     CandidateCreate, ResumeAnalysis, QuestionGenerateResponse, AnswerSubmit, 
     EvaluationResult, ViolationCreate, InterviewComplete
 )
+from pydantic import BaseModel
 from app.services.groq_service import groq_service
 from app.services.resume_parser import resume_parser
 from app.services.storage_service import storage_service
@@ -100,25 +101,144 @@ async def generate_questions(profile: dict):
     questions = groq_service.generate_questions(profile)
     return {"questions": questions}
 
+from app.models.schemas import InterviewStartRequest
+
+@router.post("/test")
+async def test(payload: dict = Body(...)):
+    print("TEST PAYLOAD", payload)
+    return payload
+
 @router.post("/interview/start")
-async def start_interview(candidate_id: str = Form(...)):
+async def start_interview(payload: dict = Body(None)):
+    print("========== START INTERVIEW ==========")
+    print("RAW PAYLOAD:", payload)
+
+    if not payload:
+        print("VALIDATION ERROR: Payload is empty or None!")
+        raise HTTPException(status_code=422, detail="Empty payload")
+
+    try:
+        parsed_payload = InterviewStartRequest(**payload)
+    except Exception as e:
+        print("VALIDATION ERROR:", e)
+        raise HTTPException(status_code=422, detail=str(e))
+
+    print("PARSED PAYLOAD:", parsed_payload)
+
+    candidate_id = parsed_payload.candidate_id
+    profile = parsed_payload.profile
+
+    if not candidate_id:
+        raise HTTPException(status_code=400, detail="candidate_id required")
+
+    # Generate interview questions
+    questions = groq_service.generate_questions(
+        profile,
+        count=6,
+        adaptive=False
+    )
+
     interview_id = str(uuid.uuid4())
+
+    # Store interview
     mock_db["interviews"][interview_id] = {
         "id": interview_id,
         "candidate_id": candidate_id,
         "status": "active",
-        "started_at": str(datetime.now())
+        "started_at": str(datetime.now()),
+        "questions": [q.dict() for q in questions],
+        "profile": profile,
+        
+        # ADAPTIVE
+        "adaptive_enabled": True,
+        "adaptive_started": False,
+        "max_questions": 6,
+        "current_question_count": len(questions),
+        "candidate_strength": "unknown",
+        "adaptive_context": {
+            "asked_questions": [],
+            "scores": [],
+            "strong_topics": [],
+            "weak_topics": [],
+            "current_difficulty": "medium"
+        }
     }
+
     save_db(mock_db)
-    return {"interview_id": interview_id}
+
+    return {
+        "interview_id": interview_id,
+        "questions": questions
+    }
+
+@router.get("/interview/{id}/questions")
+async def get_interview_questions(id: str):
+    interview = mock_db["interviews"].get(id)
+
+    if not interview:
+        raise HTTPException(status_code=404, detail="Interview not found")
+
+    questions = interview.get("questions", [])
+
+    return {
+        "questions": questions
+    }
 
 @router.post("/interview/submit-answer")
 async def submit_answer(answer: AnswerSubmit):
+    interview = mock_db["interviews"].get(answer.interview_id)
+    if not interview:
+        raise HTTPException(status_code=404, detail="Interview not found")
+
     # Retrieve question text passed from frontend
     question_text = answer.question_text or "What is your experience with React?"
     
-    evaluation = groq_service.evaluate_answer(question_text, answer.transcript)
+    # Get previous answers
+    previous_answers_list = [
+        a for a in mock_db["answers"].values() if a["interview_id"] == answer.interview_id
+    ]
     
+    # Find current question object
+    current_q_index = 0
+    expected_topics = []
+    if answer.question_id.startswith("q-"):
+        try:
+            current_q_index = int(answer.question_id.split("-")[1])
+            if current_q_index < len(interview["questions"]):
+                expected_topics = interview["questions"][current_q_index].get("expected_topics", [])
+        except ValueError:
+            pass
+
+    evaluation = groq_service.evaluate_answer(
+        question=question_text,
+        answer=answer.transcript,
+        candidate_profile=interview.get("profile", {}),
+        previous_answers=previous_answers_list,
+        expected_topics=expected_topics
+    )
+    
+    context = interview.get("adaptive_context", {
+        "asked_questions": [], "scores": [], "strong_topics": [], "weak_topics": [], "current_difficulty": "medium"
+    })
+    
+    context["asked_questions"].append(question_text)
+    context["scores"].append(evaluation.overall)
+    
+    if evaluation.overall < 50:
+        context["weak_topics"].append(expected_topics[0] if expected_topics else "Core Concepts")
+    elif evaluation.overall >= 80:
+        context["strong_topics"].append(expected_topics[0] if expected_topics else "Architecture")
+
+    if current_q_index >= 2 and len(interview["questions"]) < interview.get("max_questions", 6):
+        adaptive_question = groq_service.generate_adaptive_question(
+            profile=interview.get("profile", {}),
+            previous_question=question_text,
+            previous_answer=answer.transcript,
+            evaluation=evaluation.dict(),
+            context=context
+        )
+        interview["questions"].append(adaptive_question.dict())
+
     answer_id = str(uuid.uuid4())
     mock_db["answers"][answer_id] = {
         "id": answer_id,
@@ -130,6 +250,29 @@ async def submit_answer(answer: AnswerSubmit):
     }
     save_db(mock_db)
     return evaluation
+
+@router.post("/interview/{id}/next-question")
+async def next_question(id: str):
+    if id not in mock_db["interviews"]:
+        raise HTTPException(status_code=404, detail="Interview not found")
+
+    interview = mock_db["interviews"][id]
+    current_questions = interview.get("questions", [])
+    current_count = interview.get("current_question_count", 3)
+
+    if len(current_questions) > current_count:
+        new_q = current_questions[-1]
+        interview["current_question_count"] = len(current_questions)
+        interview["adaptive_started"] = True
+        save_db(mock_db)
+        return {
+            "completed": False,
+            "question": new_q
+        }
+    else:
+        return {
+            "completed": True
+        }
 
 @router.post("/interview/complete")
 async def complete_interview(req: InterviewComplete):
